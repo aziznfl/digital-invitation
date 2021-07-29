@@ -65,8 +65,8 @@
         }(window, document, window._wpemojiSettings);
     </script>
     <script src="https://our.possiblewedding.com/wp-includes/js/wp-emoji-release.min.js?ver=5.7.2" type="text/javascript" defer=""></script>
-    <style>
 
+    <style>
         img.wp-smiley,
         img.emoji {
             display: inline !important;
@@ -80,14 +80,61 @@
             padding: 0 !important;
         }
     </style>
-    <link rel="stylesheet" id="wp-block-library-css" href="https://our.possiblewedding.com/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2" media="all">
-    <link rel="stylesheet" id="wp-block-library-theme-css" href="https://our.possiblewedding.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.7.2" media="all">
-    <link rel="stylesheet" id="allow-webp-image-css" href="https://our.possiblewedding.com/wp-content/plugins/allow-webp-image/public/css/allow-webp-image-public.css?ver=1.0.0" media="all">
-    <link rel="stylesheet" id="twentynineteen-style-css" href="https://our.possiblewedding.com/wp-content/themes/twentynineteen/style.css?ver=2.0" media="all">
-    <link rel="stylesheet" id="twentynineteen-print-style-css" href="https://our.possiblewedding.com/wp-content/themes/twentynineteen/print.css?ver=2.0" media="print">
-    <link rel="stylesheet" id="elementor-icons-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.11.0" media="all">
-    <link rel="stylesheet" id="elementor-animations-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.2.3" media="all">
-    <link rel="stylesheet" id="elementor-frontend-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.2.3" media="all">
+    <style type="text/css">
+        @font-face {
+            font-family: amostely;
+            src: url(https://adindisince2010.com/wp-content/uploads/2020/09/AmostelySignature.ttf) format('truetype');
+            font-display: auto;
+        }
+
+        @font-face {
+            font-family: bernadete;
+            src: url(https://adindisince2010.com/wp-content/uploads/2020/09/bernadette_rough.ttf) format('truetype');
+            font-display: auto;
+        }
+
+        @font-face {
+            font-family: hysteria;
+            src: url(https://adindisince2010.com/wp-content/uploads/2020/09/Hysteria.otf) format('opentype');
+            font-display: auto;
+        }
+
+        @font-face {
+            font-family: juliete;
+            src: url(https://adindisince2010.com/wp-content/uploads/2020/09/Julietta-Messie.otf) format('opentype');
+            font-display: auto;
+        }
+
+        @font-face {
+            font-family: Sesi;
+            src: url(https://nadyabayuwedding.com/wp-content/uploads/2020/01/SmartSignature.otf) format('opentype');
+            font-display: auto;
+        }
+
+        @font-face {
+            font-family: Sesi2;
+            src: url(https://nadyabayuwedding.com/wp-content/uploads/2020/01/CollectionFree.otf) format('opentype');
+            font-display: auto;
+        }
+
+        @font-face {
+            font-family: Sesi3;
+            src: url(https://nadyabayuwedding.com/wp-content/uploads/2020/01/Westbury-Signature-Demo-Version.otf) format('opentype');
+            font-display: auto;
+        }
+
+        @font-face {
+            font-family: SV;
+            src: url(https://nadyabayuwedding.com/wp-content/uploads/2019/08/Belly-Betty.ttf) format('truetype');
+            font-display: auto;
+        }
+
+        @font-face {
+            font-family: valter;
+            src: url(https://adindisince2010.com/wp-content/uploads/2020/08/Taken-by-Vultures-Demo.otf) format('opentype');
+            font-display: auto;
+        }
+    </style>
     <style id="elementor-frontend-inline-css">
         @font-face {
             font-family: eicons;
@@ -97,6 +144,15 @@
             font-style: normal
         }
     </style>
+    
+    <link rel="stylesheet" id="wp-block-library-css" href="https://our.possiblewedding.com/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2" media="all">
+    <link rel="stylesheet" id="wp-block-library-theme-css" href="https://our.possiblewedding.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.7.2" media="all">
+    <link rel="stylesheet" id="allow-webp-image-css" href="https://our.possiblewedding.com/wp-content/plugins/allow-webp-image/public/css/allow-webp-image-public.css?ver=1.0.0" media="all">
+    <link rel="stylesheet" id="twentynineteen-style-css" href="https://our.possiblewedding.com/wp-content/themes/twentynineteen/style.css?ver=2.0" media="all">
+    <link rel="stylesheet" id="twentynineteen-print-style-css" href="https://our.possiblewedding.com/wp-content/themes/twentynineteen/print.css?ver=2.0" media="print">
+    <link rel="stylesheet" id="elementor-icons-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.11.0" media="all">
+    <link rel="stylesheet" id="elementor-animations-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.2.3" media="all">
+    <link rel="stylesheet" id="elementor-frontend-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.2.3" media="all">
     <link rel="stylesheet" id="elementor-post-5-css" href="https://our.possiblewedding.com/wp-content/uploads/elementor/css/post-5.css?ver=1622267272" media="all">
     <link rel="stylesheet" id="elementor-pro-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.2.2" media="all">
     <link rel="stylesheet" id="elementor-global-css" href="https://our.possiblewedding.com/wp-content/uploads/elementor/css/global.css?ver=1622267681" media="all">
@@ -105,7 +161,7 @@
     <link rel="stylesheet" id="elementor-icons-shared-0-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.1" media="all">
     <link rel="stylesheet" id="elementor-icons-fa-solid-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.1" media="all">
     <link rel="stylesheet" id="elementor-icons-fa-brands-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.1" media="all">
-    
+
     <script>
         if (document.location.protocol != "https:") {
             document.location = document.URL.replace(/^http:/i, "https:");
@@ -134,7 +190,6 @@
     <link rel="alternate" type="application/json" href="https://our.possiblewedding.com/wp-json/wp/v2/pages/43667">
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://our.possiblewedding.com/xmlrpc.php?rsd">
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://our.possiblewedding.com/wp-includes/wlwmanifest.xml">
-    <meta name="generator" content="WordPress 5.7.2">
     <link rel="shortlink" href="https://our.possiblewedding.com/?p=43667">
     <link rel="alternate" type="application/json+oembed" href="https://our.possiblewedding.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Four.possiblewedding.com%2Fwulan-chandra%2F">
     <link rel="alternate" type="text/xml+oembed" href="https://our.possiblewedding.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Four.possiblewedding.com%2Fwulan-chandra%2F&amp;format=xml">
@@ -276,62 +331,6 @@
                                             x.pause();
                                         }
                                     </script>
-
-                                    <style type="text/css">
-                                        @font-face {
-                                            font-family: amostely;
-                                            src: url(https://adindisince2010.com/wp-content/uploads/2020/09/AmostelySignature.ttf) format('truetype');
-                                            font-display: auto;
-                                        }
-
-                                        @font-face {
-                                            font-family: bernadete;
-                                            src: url(https://adindisince2010.com/wp-content/uploads/2020/09/bernadette_rough.ttf) format('truetype');
-                                            font-display: auto;
-                                        }
-
-                                        @font-face {
-                                            font-family: hysteria;
-                                            src: url(https://adindisince2010.com/wp-content/uploads/2020/09/Hysteria.otf) format('opentype');
-                                            font-display: auto;
-                                        }
-
-                                        @font-face {
-                                            font-family: juliete;
-                                            src: url(https://adindisince2010.com/wp-content/uploads/2020/09/Julietta-Messie.otf) format('opentype');
-                                            font-display: auto;
-                                        }
-
-                                        @font-face {
-                                            font-family: Sesi;
-                                            src: url(https://nadyabayuwedding.com/wp-content/uploads/2020/01/SmartSignature.otf) format('opentype');
-                                            font-display: auto;
-                                        }
-
-                                        @font-face {
-                                            font-family: Sesi2;
-                                            src: url(https://nadyabayuwedding.com/wp-content/uploads/2020/01/CollectionFree.otf) format('opentype');
-                                            font-display: auto;
-                                        }
-
-                                        @font-face {
-                                            font-family: Sesi3;
-                                            src: url(https://nadyabayuwedding.com/wp-content/uploads/2020/01/Westbury-Signature-Demo-Version.otf) format('opentype');
-                                            font-display: auto;
-                                        }
-
-                                        @font-face {
-                                            font-family: SV;
-                                            src: url(https://nadyabayuwedding.com/wp-content/uploads/2019/08/Belly-Betty.ttf) format('truetype');
-                                            font-display: auto;
-                                        }
-
-                                        @font-face {
-                                            font-family: valter;
-                                            src: url(https://adindisince2010.com/wp-content/uploads/2020/08/Taken-by-Vultures-Demo.otf) format('opentype');
-                                            font-display: auto;
-                                        }
-                                    </style>
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-16dc52e6 elementor-widget elementor-widget-html" data-id="16dc52e6" data-element_type="widget" data-widget_type="html.default">
@@ -375,11 +374,9 @@
                                         });
 
                                         $('#open-invitation').on("click", function() {
-
                                             $('#play-pause-button').removeClass('fa-volume-down');
                                             $('#play-pause-button').addClass('fa-volume-mute');
                                             playAudio()
-
                                         });
                                     </script>
                                 </div>
@@ -624,26 +621,22 @@
                             </div>
                             <div class="elementor-element elementor-element-3fa34c2c elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="3fa34c2c" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
                                 <div class="elementor-widget-container">
-                                    <form class="elementor-form" method="post" id="myForm" name="New Form">
-                                        <input type="hidden" name="post_id" value="43667">
-                                        <input type="hidden" name="form_id" value="3fa34c2c">
-                                        <input type="hidden" name="referer_title" value="The Wedding of Wulan &amp; Chandra - Possible Wedding">
-
-                                        <input type="hidden" name="queried_id" value="43667">
-
+                                    <form id="impression-form" action="javascript:void(0);">
                                         <div class="elementor-form-fields-wrapper elementor-labels-above">
                                             <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100 elementor-field-required elementor-mark-required">
-                                                <label for="form-field-name" class="elementor-field-label">Nama</label><input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Nama" required="required" aria-required="true">
+                                                <label for="form-field-name" class="elementor-field-label">Nama</label>
+                                                <input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Nama" required="required" aria-required="true">
                                             </div>
                                             <div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100 elementor-field-required elementor-mark-required">
-                                                <label for="form-field-message" class="elementor-field-label">Pesan</label><textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Pesan" required="required" aria-required="true"></textarea>
+                                                <label for="form-field-message" class="elementor-field-label">Pesan</label>
+                                                <textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Pesan" required="required" aria-required="true"></textarea>
                                             </div>
                                             <div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
-                                                <button type="submit" class="elementor-button elementor-size-sm" id="submith">
+                                                <button type="submit" class="elementor-button elementor-size-sm">
                                                     <span>
                                                         <span class=" elementor-button-icon">
                                                         </span>
-                                                        <span class="elementor-button-text">Kirim</span>
+                                                        <span class="elementor-button-text" id="impression-form-button">Kirim</span>
                                                     </span>
                                                 </button>
                                             </div>
@@ -651,295 +644,20 @@
                                     </form>
                                 </div>
                             </div>
-                            <div class="elementor-element elementor-element-d50cfc elementor-widget elementor-widget-html" data-id="d50cfc" data-element_type="widget" data-widget_type="html.default">
-                                <div class="elementor-widget-container">
-                                    <script>
-                                        document.getElementById("myForm").onsubmit = function(e) {
-                                            const form = new FormData(e.target);
-                                            const hadir = form.get("form_fields[field_0901dbb]");
-                                            const nama = form.get("form_fields[name]");
-                                            const message = form.get("form_fields[message]");
-
-                                            postData('https://undangan-api.vercel.app/api/postdata', {
-                                                    kepada: "wulan-chandra",
-                                                    dari: encodeURI(nama),
-                                                    hadir: hadir,
-                                                    pesan: encodeURI(message)
-
-                                                })
-                                                .then(data => {
-                                                    console.log(data); // JSON data parsed by `data.json()` call
-                                                });
-
-                                            return false
-
-                                        };
-
-
-
-                                        async function postData(url = '', data = {}) {
-                                            // Default options are marked with *
-                                            const response = await fetch(url, {
-                                                method: 'POST', // *GET, POST, PUT, DELETE, etc.
-                                                mode: 'cors', // no-cors, *cors, same-origin
-                                                cache: 'no-cache', // *default, no-cache, reload, force-cache, only-if-cached
-                                                credentials: 'same-origin', // include, *same-origin, omit
-                                                headers: {
-                                                    'Content-Type': 'application/json'
-                                                    // 'Content-Type': 'application/x-www-form-urlencoded',
-                                                },
-                                                redirect: 'follow', // manual, *follow, error
-                                                referrerPolicy: 'no-referrer', // no-referrer, *no-referrer-when-downgrade, origin, origin-when-cross-origin, same-origin, strict-origin, strict-origin-when-cross-origin, unsafe-url
-                                                body: JSON.stringify(data) // body data type must match "Content-Type" header
-                                            });
-                                            return response.json(); // parses JSON response into native JavaScript objects
-                                        }
-                                    </script>
-                                </div>
-                            </div>
                         </div>
                     </div>
                     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-73a6f554 elementor-invisible" data-id="73a6f554" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInLeft&quot;}">
                         <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-427035fc ucapan-doa elementor-widget elementor-widget-text-editor" data-id="427035fc" data-element_type="widget" data-widget_type="text-editor.default"><span><b> Memel</b>
-                                    <br>Selamat amihkuuuuu😘<br>
-                                </span><span><b> Ananda Dwi Rahayu</b>
-                                    <br>Selamat menempuh hidup baru amih mudah2an lancar dan menjadi keluarga yang samawa aamiin<br>
-                                </span><span><b> Tata</b>
-                                    <br>Aaakkk tetehku selamaatttt 🥰🥰🥰 semoga menjadi keluarga samawa ya teteh, lancar smpai hari H aamiin ❤️❤️ miss you teteeeehhhhhh 🤗<br>
-                                </span><span><b> DesKem</b>
-                                    <br>Selamattt Nengg kuu sayanggg, pecah telor yaa anggota emprittzz 😅 semoga bahagia selaluu yaa sayang, jadi istri dan ibu yang hebat, segera kasi empritzzz keponakan unyu2 yaa, we love u so muchh nengg 💓😍😘<br>
-                                </span><span><b> Brilly &amp; Ihsan</b>
-                                    <br>Ya Ampuun nengkuu, akhirnyaaaa yaaaa menemukan pasangan halalnyaa .. ga nyangka abis ini jadi ISTRI nya SUAMI . iiiii gemuuuzzhhh 😍😂 maap neng alay , tp ku terharuuuuuu .. Semoga menjadi keluarga yang SAMAWA yaaa nengkuuu , aamiin 🤲<br>
-                                </span><span><b> Inoh D'lizter</b>
-                                    <br>Barakallah nengteth kuh, akhirnya akan segera tiba hari dimana yang kau nantikan untuk berumah tangga dgn org pilihanmu dan insyaallah pilihan terbaik dari allah untuk orang baik sepertimu
-                                    Doa terbaik untukmu semoga allah lancarkan di hari H nya nanti dan allah selalu dampingi rumah tangga kalian berdua SAMAWA teth dan semoga segera dititipi momongan
-                                    Aamiin :-) <br>
-                                </span><span><b> Sari Rahmawati</b>
-                                    <br>Selamat lan semoga lancar acaranya samapi hari H, semoga menjadi keluarga Sakinah, mawaddah, warahmah. Aamiin Yaa Robbal Aalaamiin 😘😘😘<br>
-                                </span><span><b> Ossy Vina</b>
-                                    <br>happy wedding neng wulan 🤗 semoga menjadi keluarga yang samawa ya ❤<br>
-                                </span><span><b> Fery Desiyaneta</b>
-                                    <br>Alhamdulilah selamat wulan dan calon suamik, semoga dilancarkan sampai hari H aamiin🙏<br>
-                                </span><span><b> Windihe</b>
-                                    <br>Selamatt tetehhhkuu, seneeeng bangett bisa tau kabar kalo teteh mo nikaahhhh!!! Bahagia selaluuuuuu, dilancarkan acaranya nanti yahh.. love you tetehh, semoga kita bisa sempet ketemu lagiii next time!!! ✨🤍<br>
-                                </span><span><b> Heldysia</b>
-                                    <br>Selamat wulan ❤ Ikut bahagia banget rasanya.. Lancar sampai hari H, semoga menjadi keluarga samawa, bahagia dunia akhirat, jadi istri dan ibu yg hebat ya teh 💕💕💕<br>
-                                </span><span><b> Bigaa</b>
-                                    <br>Teteeehhhh seneng bgt denger kabar ini 😭❤️ Akhirnya teteh dipertemukan dengan jodohnya .. sehat selalu sekeluarga lancar sampai hari H , diberikan berkah barokah melimpah kebahagiaan bersama mas Chandra ya teh ❤️😘<br>
-                                </span><span><b> Sajidda</b>
-                                    <br>Barakallah.. Selamat Wulan, Semoga dilancarkan dan dimudahkan sampai hari H yaa, serta sllu diberikan keberkahan dan kebahagiaan oleh Allah, Aamiin.. 🤲<br>
-                                </span><span><b> Totoh Miftah Farid</b>
-                                    <br>Buat neng Wulan Humairoh:
-                                    Aa do'ain mudah2an jadi keluarga sakinah 'till jannah.
-                                    Jadi istri yg taat pada suami, teman yg baik dan supporter yg baik untuk suami.
-                                    Jadi ibu sholehah bagi anak2nya yg sholeh n sholehah.
-                                    Ga kerasa gadis lucu yg pake tas gendong warna pink pas waktu kelas 1 di Amanah bentar lagi nikah.
-                                    Gadis lugu itu sekarang udah dewasa.
-                                    Do'a terbaik buat neng.<br>
-                                </span><span><b> Hendra Candra G (Baron)</b>
-                                    <br>Semoga Alloh memberikan Keberkahan serta mengumpulkan Chandra⁩ &amp; Wulan dalam Kebaikan,
-                                    dan dijadikan keluarga yang Sakinah, Mawadah warahmah
-                                    dan Semoga Allah segerakan adanya momongan dikehidupan kalian, anak-anak yg sholeh/sholehah
-                                    آمِيْنُ يَا رَبَّ الْعَالَمِيْن<br>
-                                </span><span><b> Nisa miftakhul janah</b>
-                                    <br>Barokalloh ya neng,, semoga jadi keluarga yg sakinah mawadah wa rohmah. Aamiin
-                                    Dah ga galau2 lagi neng. Ihiiiiii🥰🥰🥰🥰😘<br>
-                                </span><span><b> Dary</b>
-                                    <br>Alhamdulillah. Selamat Wulan. Semoga menjadi keluarga yang sakinah, mawaddah, warahmah. Aamiin🤲<br>
-                                </span><span><b> Z</b>
-                                    <br>Selamat Wulaaan, semoga jadi keluarga yang sakinah mawaddah warohmah, semoga semuanya lancar dan sehat selalu yaaa ❤️<br>
-                                </span><span><b> Erisa Santika</b>
-                                    <br>Semoga lancar sampai hari H ya teh. Selamat menempuh hidup baru ❤️<br>
-                                </span><span><b> Ichadot &amp; Omega</b>
-                                    <br>Selamat menempuh hidup baru ya beb.. 😍 semoga menjadi keluarga yang samawa.. lancar sampai hari H dan semoga segera diberi momongan 😍 Miss you 😘<br>
-                                </span><span><b> Emil (palembang)</b>
-                                    <br>Salam dari palembang, barakallah wulan cantik 😊 semoga dilancarkanNya dimudahkannya segala urusan pernikahannya, semoga ditambahkan Allah keberkahan, kenikmatan, kebahagian dan rezeki yang berlimpah kedalam rumah tangga nya Aamiin 💐<br>
-                                </span><span><b> Emil (palembang)</b>
-                                    <br>Salam dari palembang, barakallah wulan cantik 😊 semoga dilancarkanNya dimudahkannya segala urusan pernikahannya, semoga ditambahkan Allah keberkahan, kenikmatan, kebahagian dan rezeki yang berlimpah kedalam rumah tangga nya Aamiin 💐<br>
-                                </span><span><b> anes inda</b>
-                                    <br>selamat neng cantikku 😍😍
-                                    barokalloh yah, smoga jadi keluarga yang di limpahi keberkahan dan selalu bahagia aamiin
-                                    jangan lupa menikah itu ibadah waktu lama jadi harus di iringi kesabaran yh <br>
-                                </span><span><b> Yessi</b>
-                                    <br>Alhamdulillah, selamat ulaaaaaaan atas pernikahannya. Semoga menjadi keluarga yang sakinah, mawaddah, dan warrahmah. Lancar lancar ya semuanya. Stay healthy &lt;3<br>
-                                </span><span><b> Lulu</b>
-                                    <br>Barakallah neng Wulan cantikk semoga jadi keluarga samawa ❤<br>
-                                </span><span><b> Fahreza~</b>
-                                    <br>Alhamdulillaahh, selamat Wulannn.. lancar sampai hari H nyaa yaa,
-                                    Bahagia, berkah dan rezeki semoga selalu dilimpahkan juga buat kalian, Wulan &amp; Chandra. Aamiin..
-                                    HAPPY WEDDING ! 🥳<br>
-                                </span><span><b> Ucy</b>
-                                    <br>Alhamdulillah Wulan selamat.. Akhirnyaaa.. Semoga dilancarkan semuanya yaa Wulan.. Selamat menempuh hidup baru.. Barakallah🥰🥰🥰🥰<br>
-                                </span><span><b> Tia</b>
-                                    <br>Selamat uleen lancar samapi waktunya bahagia samapi akhir hayat ya len 😍<br>
-                                </span><span><b> Andini </b>
-                                    <br>Selamat neng barakallah😘 samawa ya syg 😇<br>
-                                </span><span><b> Septiandeli</b>
-                                    <br>Alhamdulillah neng selamat semoga lancar acaranya menjadi keluarga yang sakinah mawadah warohmah..amiin YRb🤲<br>
-                                </span><span><b> Juan</b>
-                                    <br>Wishing you both lots of joy and happiness on your wedding day. May it be the start of a wonderful and exciting life together. Lots of love. ❤️<br>
-                                </span><span><b> Alfiyan Helmy Kurniawan</b>
-                                    <br>Selamat menempuh hidup baru wulan.. Semoga menjadi keluarga yang samaran.. Akhirnya nyusul si Aghni dan Lina juga 😝😝<br>
-                                </span><span><b> Selma</b>
-                                    <br>Hey wuheeee &amp; suami..
-                                    Selamat yaaaa, lancar sampe hari H.
-                                    Bahagia selalu, pernikahan yang dipenuhi dgn keberkahan dan sakinah mawadah warrahmah.
-                                    <br>
-                                </span><span><b> Hana Maisa Alifa</b>
-                                    <br>Aa.... akhirnyaaaaaaaa! ma shaa allah terharuuuuuu... 😭😭😭
-                                    Selamat ya.. a chandra dan teh wulan..
-                                    Semoga menjadi keluarga yang sakinah, mawadah, warahmah..
-                                    Semoga menjadi jalan pembuka pintu rezeki yang lebih luas lagi, jalan di bukakan nya pintu syurga, dan ampunan.
-                                    Semoga bisa setia sehidup seyurga, menjadi pasangan yang senantiasa saling menyayangi, mengasihi, dan memaafkan satu sama lain.
-                                    Semoga di karuniai keturunan yang shaleh dan shalehah calon2 hafidz dan hafidzah, yang bisa menuntun kedua org tua menuju jannah. Aamin ya allah ya robal alamin.
-                                    Sekali lagi selamat ya aa! <br>
-                                </span><span><b> Riska Rahayu</b>
-                                    <br>Selamat a .. lancar semua dan samawa .. amin<br>
-                                </span><span><b> Silvia Juliani</b>
-                                    <br>selamat a chandra &amp; calon istri, lancar2 &amp; sehat2 sampe hari H tiba, semoga mjd keluarga yg sakinah mawadah &amp; warrahmah.. aamiin<br>
-                                </span><span><b> aulia dan hadi...</b>
-                                    <br>barakallah a candra dan teh wulan,,, semoga lancar sampai hari h.. alhamdulillah semoga menjadi keluarga SAMAWA<br>
-                                </span><span><b> Icha &amp; suami</b>
-                                    <br>Happy wedding aa sama istri semoga menjadi keluarga yang sakinnah mawaddah warahmah aamiinn yra <br>
-                                </span><span><b> Yunikha</b>
-                                    <br>Alhamdulillah uyyy menikah...smg lancar persiapannya a Chand &amp; teh Wulan dan mjd keluarga sakinah mawaddah warahmah Aamiin. Sing enggal dipareng momongan yawww 😍🤗🙏<br>
-                                </span><span><b> Joen</b>
-                                    <br>Aduh syahrini kuuuu. Finally met your destiny🥰 Happy wedding ya sayang, yg samawa sampe kakek nenek🤍 Allah be with you n your family sayang..<br>
-                                </span><span><b> Dekok</b>
-                                    <br>Laan barokallah..happy wedding yaa semoga acaranya lancar sampai hari H 😘<br>
-                                </span><span><b> Rere </b>
-                                    <br>Baarakallahu&nbsp;laka wa baaraka ‘alaika wa jama'a bainakumaa fii khaiir ulen &amp; aa nya 😍
-                                    Semoga sakinah mawaddah warahmah aamiin 😇💝<br>
-                                </span><span><b> Bopar dan Trondols</b>
-                                    <br>Happy wedding day Brader Chandra andalan yg baik, lancar2 ya acaranya hari rabu dan mhn maaf ya bro ga bisa merapat karena kondisi begini. Smg cpt dpt momongan ya bro, bahagia selalu bersama Istri🙏<br>
-                                </span><span><b> Eki Cantik</b>
-                                    <br>Barakallahulaka wabaraka 'alaika wajama'a bainakuma fii khoir. Selamat Uwuuuuul, semoga sakinah mawaddah warahmah dunia dan akhirat. Semoga lancar sampai hari H dan seterusnya, selalu bahagia, dan sehat-sehat terus yaaaaa aamiin <br>
-                                </span><span><b> Ela Fitriani</b>
-                                    <br>Barakallahulakuma wa baraka 'alaikuma fii khayr, Wulan &amp; suami. Selamat yaa Laan. Lancar acaranya.. dijadikan keluarga yg sakinah mawaddah &amp; rahmah, bahagia bersama di dunia &amp; akhirat, aamiin. 🥰🤲🏻💐<br>
-                                </span><span><b> Rizka ikok</b>
-                                    <br>Candraaaaa akhirnya kiwin ogen alhamdulillah mudah² an sehat lancar nya samawa mawadah marohmah 😊😊
-                                    Mudah² an tokcerrr wkwk 😂<br>
-                                </span><span><b> Yetty Novita Sebayang</b>
-                                    <br>Semoga jadi keluarga samawa ya nang. Tuhan memberkati keluarga kecil kalian nantinya🙏<br>
-                                </span><span><b> Donny &amp; Syisil</b>
-                                    <br>Baarakallahu laka wabarakoa 'alaika wajma'a bainakumaa fii khoir
-                                    semoga Allah melimpahkan rejeki diantara kedua kalian, serta mempererat hubungan hingga jannah, Allahumma Aamiin..
+                            <ul id="messages-list" class="elementor-element elementor-element-427035fc ucapan-doa elementor-widget elementor-widget-text-editor" data-id="427035fc" data-element_type="widget" data-widget_type="text-editor.default" style="list-style-type: none; margin: 0; line-height: 17;">
+                                <?php foreach($impressions as $index => $impression) {
+                                    $marginBottom = ($index != 0) ? "margin-top: 8px;" : "";
 
-                                    Mugia sing dilantjarkeun dugi ka waktos acara anu tos direntjanakeun<br>
-                                </span><span><b> Tia Wihanda</b>
-                                    <br>Barakallah bang chand, semoga dimudahkan niat baiknya dan semoga lancar acara nya. Smoga jd keluarga samawa ya bang chand. Happy for you both! 🎉🎉🎉<br>
-                                </span><span><b> Lianna Fitriani</b>
-                                    <br>Barakallah Aa .. Semoga dilancarkan sampai hari H yaa Aa ..
-                                    Dan semoga menjadi keluarga yg sakinah mawaddah warahmah<br>
-                                </span><span><b> Karlina</b>
-                                    <br>Lancar sampai hari H ya lan, jadi keluarga bahagia dunia akhirat aamin.. Semoga kita bisa ketemu yaaaaaa.. <br>
-                                </span><span><b> Yola&amp;ryan Henry</b>
-                                    <br>Kami mengucapkan turut bersuka-cita
-                                    Kabar bahagia wulan dan suami
-
-                                    Semoga bahagia lancar rejeki
-                                    Langgeng dan keep save and health ndutt 😘😘
-                                    Luv u<br>
-                                </span><span><b> Hani &amp; Fikri</b>
-                                    <br>Amiiih happy wedding yaaa ❤️ semoga jadi keluarga sakinah mawaddah warahmah aamiin 🤲🏻🤲🏻🤲🏻<br>
-                                </span><span><b> Henny Angelina</b>
-                                    <br>Salam rindu dari Yogya❤️ smg acara nya pas hari h lancar ya la, smg menjadi Keluarga yg sakinah mawadah dan warahmah,Aamiin ya robbal alamin🤲😇
-                                    Semoga kita bisa bertemu lagi dilain waktu, kangen bisa kumpul main sama lainnya ❤️<br>
-                                </span><span><b> Renian Heryanti</b>
-                                    <br>Mu mugia lancar dugi kn waktos na<br>
-                                </span><span><b> Dadang dan kelg</b>
-                                    <br>Barakallahu laka wabaaraka alaikuma wa jamaa bainakumaa fii khoir. Selamat mengarungi bahtera rumah tangga. Semoga NENG WULAN DAN CHANDRA selalu dalam perlindungan Allah swt dan selalu diberkahi rezeki melimpah dari-Nya<br>
-                                </span><span><b> Syahid dan Trondols</b>
-                                    <br>Selamat menempuh hidup baru Broder…
-                                    Semoga bahagia selalu, cepet diberikan momongan dan menjadi keluarga SAMAWA.. Aamiin<br>
-                                </span><span><b> Indra</b>
-                                    <br>Selamat ya Chandra dan Wulan,, semoga dilancarkan prosesnya,, dan dianugrahi keluarga yang sakinah mawadah warohmah... Aaamiiiiin YRA
-
-                                    Rgds
-                                    Indra &amp; keluarga<br>
-                                </span><span><b> Desina dan suami</b>
-                                    <br>Semoga lancar ya nengteth sampe hari H, turut berbahagia. SELAMAT MENEMPUH HIDUP BARU SAMAWA
-
-                                    maaf gak bisa ikut hadir di acara specialnya ...
-
-                                    <br>
-                                </span><span><b> Restu Setiawan</b>
-                                    <br>Semoga dilancarkan bang chan yg udah kuanggap kakakku sendiri 😁
-                                    Semoga sukses membangun keluarga sakinah, mawaddah, warahmah dan diberi keturunan saleh/ salehah 👍
-                                    <br>
-                                </span><span><b> Wildan dan rombongan ratu bilqis 😁</b>
-                                    <br>Selamat menempuh hidup baru Semoga dilancarkan sampai hari H dan menjadi keluarga bahagia yang di ridhai allah SWT sampai maut yang memisahkan aminn ya rabb alamin 😇🤲<br>
-                                </span><span><b> Syuhud</b>
-                                    <br>Salam.
-                                    Wilujeng nya neng aa sing berkah pernikahanna yuswana sagalana sadayana salamina..aammiinn alhamdulillaahh<br>
-                                </span><span><b> Milda Fajrin</b>
-                                    <br>Dear Chandra Dan Wulan,
-                                    Happy Wedding ya semoga Allah SWT selalu memberkahi setiap langkah kalian berdua dalam menjalani bahtera pernikahan. Semoga menjadi keluarga yang selalu didambakan setiap pasangan yang menikah yaitu sakinah mawwadah warrahmah.
-                                    Aamiin YRA 😇
-                                    Alhamdulillaah ya Chandra sudah menemukan pelabuhan hatinya, excited banget denger kabar ini tuh ☺️
-                                    Bismillah one step closer ya 😀<br>
-                                </span><span><b> M Yunus &amp; Istri</b>
-                                    <br>Alhamdulillah... akhirnya
-                                    Selamat Yah Chandra &amp; Wulan.. Smoga Dilancarkan proses akadnya... dan menjadi kluarga yg sakinah mawadah waromah Aamiin YRA , <br>
-                                </span><span><b> Bi Etih/Dede&amp;Elin Sekeluarga..Banjaran</b>
-                                    <br>Teriring do'a....Barokalohulaka wa baroka Alaika wa Jama'a baita khuma fi khoir...
-                                    Semoga menjadi rumah tangga sakinah mawadah wa rohmah ...Aamien<br>
-                                </span><span><b> Pw</b>
-                                    <br>Iiiihhh terkejut akuuu... Akhirnyaa chandra lakuuu.. Wkwkwkkwkw
-                                    Selamat yeee.. Semoga acara na lancar.. Diberkahi.. Jadi keluarga sakina mawadah warahmah... Sehidup sesurga... Aamiin
-                                    Jadilah suami yang bertanggung jawab, ulah ngegame wae wkwkwkkw..<br>
-                                </span><span><b> sylvie</b>
-                                    <br>Alhamdulillah... Selamat tetehku, selamat menempuh perjalanan baru dgn pasangan. Semoga hal baik senantiasa membersamai langkah teteh dan aa dan menjadi keluarga yang samawa. Aamiin yaa rabb 🤍<br>
-                                </span><span><b> Fandi &amp; Istri</b>
-                                    <br>"Barakallahulaka wabaraka alaika wa jama'a bainakumma fii khoir"
-                                    Selamat a chand &amp; teh wulan, semoga menjadi keluarga yang sakinah mawaddah wa rahmah, cept dpt momongan dan bahagia bersama selalu sampai jannahnya allah subhanahu wata'ala aamiin allahumma aamiin 😇🤲<br>
-                                </span><span><b> Elistiyani N. F</b>
-                                    <br>Selamat menempuh hidup baru bwt ateng(candra) n istri ny,.. Smoga mnjadi klrga SAMAWA n cpet d beri momongan,.. 😊 Happy Wedding,.. 🥳🤩<br>
-                                </span><span><b> Yayu Rahayu</b>
-                                    <br>Selamat mengarungi bahtera rumah tangga yang sakinnah, mawaddah, warrahmah 🤲😇<br>
-                                </span><span><b> Hj.Imas Kusmawati (Sukabumi)</b>
-                                    <br>Barrakalloh....selamat menempuh hidup baru buat neng wulan dan chandra semoga menjadi keluarga yang syakinnah ,mawaddah,&amp;warrahmah...Aamiin..yra🤲🥰<br>
-                                </span><span><b> A.Eris &amp;Teh.nita (sukabumi)</b>
-                                    <br>Barrakalloh buat Neng Wulan &amp; Chandra
-                                    Selamat menempuh hidup baru semoga menjadi keluarga yg syakinnah,mawaddah dan warrahmah..Aamiin.yra🤲🥰<br>
-                                </span><span><b> M Rizky</b>
-                                    <br>Alhamdulillah..selamat menempuh hidup baru Bro n Sis... semoga menjadi keluarga yg samawa..nerkah d berikan keturunan yg banyak.. Selamat bro<br>
-                                </span><span><b> Nio</b>
-                                    <br>Selamaaat ulandddd semoga sakinah mawaddah warrahmah, bahagia selalu keluarga barunyaaaa~ 🥰❤<br>
-                                </span><span><b> Mando Bonga Sihotang</b>
-                                    <br>"Like a river flows, surely to the sea, something are meant to be"
-
-                                    Bahagia selamanya !!!
-                                    Selamat. <br>
-                                </span></div>
-                            <div class="elementor-element elementor-element-62011cbf elementor-widget elementor-widget-html" data-id="62011cbf" data-element_type="widget" data-widget_type="html.default">
-                                <div class="elementor-widget-container">
-                                    <script>
-                                        fetch('https://undangan-api.vercel.app/api/getdata/?kepada=wulan-chandra')
-                                            .then(response => response.json())
-                                            .then(data => {
-                                                let ucapan = []
-
-                                                data.map(v => {
-                                                    ucapan.push(`
-                                                    <p >
-                                                    <b>
-                                                    ${decodeURI(v.dari)}
-                                                    </b><br/>
-                                                    ${v.pesan}
-                                                    </p>
-                                                    `)
-                                                })
-                                                let doa = document.getElementsByClassName("ucapan-doa")[0]
-                                                console.log(doa)
-                                                doa.innerHTML = data.map(e => `<span ><b> ${decodeURI(e.dari)}</b> 
-                                                <br/>${decodeURI(e.pesan)}<br>
-                                                </span>`).join("");
-                                            });
-                                    </script>
-                                </div>
-                            </div>
+                                    echo "<li style='line-height: 17px; ".$marginBottom."'>";
+                                    echo "<span><b>".$impression->name."</b><br>";
+                                    echo urldecode($impression->messages)."</span>";
+                                    echo "</li>";
+                                } ?>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -1466,6 +1184,62 @@
         }, !1);
     </script>
 
+    <script>
+        $("#impression-form").submit(function () {
+            var name = $("#form-field-name").val();
+            var messages = encodeURI($("#form-field-message").val());
+
+            loadingButton("impression-form-button", true);
+
+            $.ajax({
+                url: "<?php echo base_url(); ?>" + "dashboard/impression",
+                method: 'GET',
+                data: {'name': name, 'messages': messages},
+                success: function(result) {
+                    if (result == 1) {
+                        successAddMessages(name, messages);
+                    } else {
+                        console.log("success" + result);
+                    }
+                    loadingButton("impression-form-button", false);
+                },
+                failed: function(result) {
+                    console.log("failed" + result);
+                    loadingButton("impression-form-button", false);
+                }
+            });
+
+            return false;
+        });
+
+        function loadingButton(id, isLoading) {
+            if (isLoading) {
+                $("#" + id).attr('disabled', 'disabled');
+                $("#" + id).html("<i>Loading...</i>");
+            } else {
+                $("#" + id).removeAttr("disabled");
+                $("#" + id).html("Kirim");
+            }
+        }
+
+        function successAddMessages(name, messages) {
+            alert("Pesan anda berhasil dikirim\nTerima kasih.");
+
+            $("#form-field-name").val("");
+            $("#form-field-message").val("");
+
+            $("ul#messages-list").append(
+                "<li style='line-height: 17px; margin-top: 8px;'><span><b>" + name + "</b><br/>" + decodeURI(messages) + "</span></li>"
+            );
+
+            $('html, body').animate({
+                scrollTop: $("ul#messages-list").offset().top - 20
+            }, 2000);
+            $("ul#messages-list").animate({
+                scrollTop: $("ul#messages-list").offset().top
+            }, 2000);
+        }
+    </script>
 
 </body>
 
