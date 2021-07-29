@@ -233,7 +233,7 @@
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-43495e1e nama-tamu elementor-widget elementor-widget-text-editor" data-id="43495e1e" data-element_type="widget" data-widget_type="text-editor.default">
-                                                <center><b>Dita &amp; Partner</b></center>
+                                                <center><b><i>Nama Tamu</i></b></center>
                                             </div>
                                             <div class="elementor-element elementor-element-dd07a88 elementor-align-center elementor-widget elementor-widget-button" data-id="dd07a88" data-element_type="widget" data-widget_type="button.default">
                                                 <div class="elementor-widget-container">
