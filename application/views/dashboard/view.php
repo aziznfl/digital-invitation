@@ -23,10 +23,10 @@
     <link rel="stylesheet" id="elementor-icons-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.11.0" media="all">
     <link rel="stylesheet" id="elementor-animations-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.2.3" media="all">
     <link rel="stylesheet" id="elementor-frontend-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.2.3" media="all">
-    <link rel="stylesheet" id="elementor-post-5-css" href="https://our.possiblewedding.com/wp-content/uploads/elementor/css/post-5.css?ver=1622267272" media="all">
-    <link rel="stylesheet" id="elementor-pro-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.2.2" media="all">
-    <link rel="stylesheet" id="elementor-global-css" href="https://our.possiblewedding.com/wp-content/uploads/elementor/css/global.css?ver=1622267681" media="all">
-    <link rel="stylesheet" id="elementor-post-43667-css" href="https://our.possiblewedding.com/wp-content/uploads/elementor/css/post-43667.css?ver=1627109983" media="all">
+    <link rel="stylesheet" id="elementor-post-5-css" href="<?php echo base_url(); ?>assets/css/post-5.css" media="all">
+    <link rel="stylesheet" id="elementor-pro-css" href="<?php echo base_url(); ?>assets/css/frontend.min.css" media="all">
+    <link rel="stylesheet" id="elementor-global-css" href="<?php echo base_url(); ?>assets/css/global.css" media="all">
+    <link rel="stylesheet" id="elementor-post-43667-css" href="<?php echo base_url(); ?>assets/css/post-43667.css" media="all">
     
     <link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPrata%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CQuicksand%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPinyon+Script%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CBaskervville%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=5.7.2" media="all">
     
@@ -967,28 +967,12 @@
     </script>
 
     <script>
-        $(document).ready(function() {
-            document.body.style.overflowY = "hidden";
-            document.body.style.heigth="100vh"
-        });
-
         $("#open-invitation-custom").click(function() {
-            document.body.style.overflowY = "unset";
             $("html, body").animate({
                 scrollTop: $("#header").offset().top
             }, 1000);
             playAudio();
-            window.onscroll=function(){};
         });
-
-        // function scrollToHeader() {
-        //     $("html, body").animate({
-        //         scrollTop: $("#header").offset().top
-        //     }, 1000, function() {
-        //         console.log("scrolling");
-        //     });
-        //     playAudio();
-        // }
     </script>
 
     <script>
