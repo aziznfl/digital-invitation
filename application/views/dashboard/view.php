@@ -3,69 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="generator" content="Site Kit by Google 1.33.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 
     <title>The Wedding of Dita &amp; Aziz</title>
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:title" content="The Wedding of Dita &amp; Aziz">
     <meta property="og:description" content="The Wedding of Dita &amp; Aziz">
-    <meta property="og:image" content="">
-    <meta property="og:image:width" content="400">
-    <meta property="og:image:height" content="600">
 
     <link rel="dns-prefetch" href="//www.googletagmanager.com">
     <link rel="dns-prefetch" href="//s.w.org">
-    <link rel="alternate" type="application/rss+xml" title="Possible Wedding » Feed" href="https://our.possiblewedding.com/feed/">
-    <link rel="alternate" type="application/rss+xml" title="Possible Wedding » Comments Feed" href="https://our.possiblewedding.com/comments/feed/">
-    <script>
-        window._wpemojiSettings = {
-            "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/",
-            "ext": ".png",
-            "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/",
-            "svgExt": ".svg",
-            "source": {
-                "concatemoji": "https:\/\/our.possiblewedding.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.2"
-            }
-        };
-        ! function(e, a, t) {
-            var n, r, o, i = a.createElement("canvas"),
-                p = i.getContext && i.getContext("2d");
-
-            function s(e, t) {
-                var a = String.fromCharCode;
-                p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, e), 0, 0);
-                e = i.toDataURL();
-                return p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, t), 0, 0), e === i.toDataURL()
-            }
-
-            function c(e) {
-                var t = a.createElement("script");
-                t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t)
-            }
-            for (o = Array("flag", "emoji"), t.supports = {
-                    everything: !0,
-                    everythingExceptFlag: !0
-                }, r = 0; r < o.length; r++) t.supports[o[r]] = function(e) {
-                if (!p || !p.fillText) return !1;
-                switch (p.textBaseline = "top", p.font = "600 32px Arial", e) {
-                    case "flag":
-                        return s([127987, 65039, 8205, 9895, 65039], [127987, 65039, 8203, 9895, 65039]) ? !1 : !s([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819]) && !s([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]);
-                    case "emoji":
-                        return !s([55357, 56424, 8205, 55356, 57212], [55357, 56424, 8203, 55356, 57212])
-                }
-                return !1
-            }(o[r]), t.supports.everything = t.supports.everything && t.supports[o[r]], "flag" !== o[r] && (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[o[r]]);
-            t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t.readyCallback = function() {
-                t.DOMReady = !0
-            }, t.supports.everything || (n = function() {
-                t.readyCallback()
-            }, a.addEventListener ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function() {
-                "complete" === a.readyState && t.readyCallback()
-            })), (n = t.source || {}).concatemoji ? c(n.concatemoji) : n.wpemoji && n.twemoji && (c(n.twemoji), c(n.wpemoji)))
-        }(window, document, window._wpemojiSettings);
-    </script>
-    <script src="https://our.possiblewedding.com/wp-includes/js/wp-emoji-release.min.js?ver=5.7.2" type="text/javascript" defer=""></script>
-
+    
+    <link rel="stylesheet" id="wp-block-library-css" href="https://our.possiblewedding.com/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2" media="all">
+    <link rel="stylesheet" id="wp-block-library-theme-css" href="https://our.possiblewedding.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.7.2" media="all">
+    <link rel="stylesheet" id="allow-webp-image-css" href="https://our.possiblewedding.com/wp-content/plugins/allow-webp-image/public/css/allow-webp-image-public.css?ver=1.0.0" media="all">
+    <link rel="stylesheet" id="twentynineteen-style-css" href="https://our.possiblewedding.com/wp-content/themes/twentynineteen/style.css?ver=2.0" media="all">
+    <link rel="stylesheet" id="twentynineteen-print-style-css" href="https://our.possiblewedding.com/wp-content/themes/twentynineteen/print.css?ver=2.0" media="print">
+    <link rel="stylesheet" id="elementor-icons-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.11.0" media="all">
+    <link rel="stylesheet" id="elementor-animations-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.2.3" media="all">
+    <link rel="stylesheet" id="elementor-frontend-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.2.3" media="all">
+    <link rel="stylesheet" id="elementor-post-5-css" href="https://our.possiblewedding.com/wp-content/uploads/elementor/css/post-5.css?ver=1622267272" media="all">
+    <link rel="stylesheet" id="elementor-pro-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.2.2" media="all">
+    <link rel="stylesheet" id="elementor-global-css" href="https://our.possiblewedding.com/wp-content/uploads/elementor/css/global.css?ver=1622267681" media="all">
+    <link rel="stylesheet" id="elementor-post-43667-css" href="https://our.possiblewedding.com/wp-content/uploads/elementor/css/post-43667.css?ver=1627109983" media="all">
+    
+    <link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPrata%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CQuicksand%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPinyon+Script%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CBaskervville%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=5.7.2" media="all">
+    
     <style>
         img.wp-smiley,
         img.emoji {
@@ -78,6 +42,12 @@
             vertical-align: -0.1em !important;
             background: none !important;
             padding: 0 !important;
+        }
+
+        .recentcomments a {
+            display: inline !important;
+            padding: 0 !important;
+            margin: 0 !important;
         }
     </style>
     <style type="text/css">
@@ -135,82 +105,19 @@
             font-display: auto;
         }
     </style>
-    <style id="elementor-frontend-inline-css">
-        @font-face {
-            font-family: eicons;
-            src: url(https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0);
-            src: url(https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"), url(https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"), url(https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"), url(https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"), url(https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");
-            font-weight: 400;
-            font-style: normal
-        }
-    </style>
     
-    <link rel="stylesheet" id="wp-block-library-css" href="https://our.possiblewedding.com/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2" media="all">
-    <link rel="stylesheet" id="wp-block-library-theme-css" href="https://our.possiblewedding.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.7.2" media="all">
-    <link rel="stylesheet" id="allow-webp-image-css" href="https://our.possiblewedding.com/wp-content/plugins/allow-webp-image/public/css/allow-webp-image-public.css?ver=1.0.0" media="all">
-    <link rel="stylesheet" id="twentynineteen-style-css" href="https://our.possiblewedding.com/wp-content/themes/twentynineteen/style.css?ver=2.0" media="all">
-    <link rel="stylesheet" id="twentynineteen-print-style-css" href="https://our.possiblewedding.com/wp-content/themes/twentynineteen/print.css?ver=2.0" media="print">
-    <link rel="stylesheet" id="elementor-icons-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.11.0" media="all">
-    <link rel="stylesheet" id="elementor-animations-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.2.3" media="all">
-    <link rel="stylesheet" id="elementor-frontend-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.2.3" media="all">
-    <link rel="stylesheet" id="elementor-post-5-css" href="https://our.possiblewedding.com/wp-content/uploads/elementor/css/post-5.css?ver=1622267272" media="all">
-    <link rel="stylesheet" id="elementor-pro-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.2.2" media="all">
-    <link rel="stylesheet" id="elementor-global-css" href="https://our.possiblewedding.com/wp-content/uploads/elementor/css/global.css?ver=1622267681" media="all">
-    <link rel="stylesheet" id="elementor-post-43667-css" href="https://our.possiblewedding.com/wp-content/uploads/elementor/css/post-43667.css?ver=1627109983" media="all">
-    <link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPrata%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CQuicksand%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPinyon+Script%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CBaskervville%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=5.7.2" media="all">
-    <link rel="stylesheet" id="elementor-icons-shared-0-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.1" media="all">
-    <link rel="stylesheet" id="elementor-icons-fa-solid-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.1" media="all">
-    <link rel="stylesheet" id="elementor-icons-fa-brands-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.1" media="all">
-
     <script>
         if (document.location.protocol != "https:") {
             document.location = document.URL.replace(/^http:/i, "https:");
         }
     </script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" id="jquery-core-js"></script>
-    <script src="https://our.possiblewedding.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
-    <script src="https://our.possiblewedding.com/wp-content/plugins/allow-webp-image/public/js/allow-webp-image-public.js?ver=1.0.0" id="allow-webp-image-js"></script>
-    <script src="https://www.googletagmanager.com/gtag/js?id=UA-192155331-1" id="google_gtagjs-js" async=""></script>
-    <script id="google_gtagjs-js-after">
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('set', 'linker', {
-            "domains": ["our.possiblewedding.com"]
-        });
-        gtag("js", new Date());
-        gtag("set", "developer_id.dZTNiMT", true);
-        gtag("config", "UA-192155331-1", {
-            "anonymize_ip": true
-        });
-    </script>
-    <link rel="https://api.w.org/" href="https://our.possiblewedding.com/wp-json/">
-    <link rel="alternate" type="application/json" href="https://our.possiblewedding.com/wp-json/wp/v2/pages/43667">
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://our.possiblewedding.com/xmlrpc.php?rsd">
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://our.possiblewedding.com/wp-includes/wlwmanifest.xml">
-    <link rel="shortlink" href="https://our.possiblewedding.com/?p=43667">
-    <link rel="alternate" type="application/json+oembed" href="https://our.possiblewedding.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Four.possiblewedding.com%2Fwulan-chandra%2F">
-    <link rel="alternate" type="text/xml+oembed" href="https://our.possiblewedding.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Four.possiblewedding.com%2Fwulan-chandra%2F&amp;format=xml">
-    <meta name="generator" content="Site Kit by Google 1.33.0">
-    <style>
-        .recentcomments a {
-            display: inline !important;
-            padding: 0 !important;
-            margin: 0 !important;
-        }
-    </style>
-    <link rel="icon" href="https://our.possiblewedding.com/wp-content/uploads/2021/06/cropped-Possible-Wedding-1-1-32x32.png" sizes="32x32">
-    <link rel="icon" href="https://our.possiblewedding.com/wp-content/uploads/2021/06/cropped-Possible-Wedding-1-1-192x192.png" sizes="192x192">
-    <link rel="apple-touch-icon" href="https://our.possiblewedding.com/wp-content/uploads/2021/06/cropped-Possible-Wedding-1-1-180x180.png">
-    <meta name="msapplication-TileImage" content="https://our.possiblewedding.com/wp-content/uploads/2021/06/cropped-Possible-Wedding-1-1-270x270.png">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 </head>
 
-<body class="page-template page-template-elementor_canvas page page-id-43667 wp-custom-logo wp-embed-responsive singular image-filters-enabled elementor-default elementor-template-canvas elementor-kit-5 elementor-page elementor-page-43667 e--ua-appleWebkit e--ua-mac e--ua-safari e--ua-webkit" style="overflow-y: hidden;" data-elementor-device-mode="desktop">
-    <div data-elementor-type="wp-page" data-elementor-id="43667" class="elementor elementor-43667" data-elementor-settings="[]">
+<body>
+    <div data-elementor-type="wp-page" class="elementor elementor-43667" data-elementor-settings="[]">
         <div class="elementor-section-wrap">
+                            
+            <!-- Front Page -->
             <section class="elementor-section elementor-top-section elementor-element elementor-element-332b005 elementor-section-height-min-height header elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-id="332b005" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="elementor-background-overlay"></div>
                 <div class="elementor-container elementor-column-gap-default">
@@ -228,7 +135,7 @@
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-e880d2a elementor-widget elementor-widget-text-editor" data-id="e880d2a" data-element_type="widget" data-widget_type="text-editor.default">
-                                                <div class="elementor-widget-container">
+                                                <div class="elementor-widget-container" id="open-invitation">
                                                     <p>Kepada Yth:</p>
                                                 </div>
                                             </div>
@@ -238,7 +145,7 @@
                                             <div class="elementor-element elementor-element-dd07a88 elementor-align-center elementor-widget elementor-widget-button" data-id="dd07a88" data-element_type="widget" data-widget_type="button.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-button-wrapper">
-                                                        <a href="#top" class="elementor-button-link elementor-button elementor-size-xs" role="button" id="open-invitation">
+                                                        <a id="open-invitation-custom" href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
                                                             <span class="elementor-button-content-wrapper">
                                                                 <span class="elementor-button-icon elementor-align-icon-left">
                                                                     <i aria-hidden="true" class="fas fa-envelope"></i> </span>
@@ -275,117 +182,11 @@
                                     </div>
                                 </div>
                             </section>
-                            <div class="elementor-element elementor-element-2b29f245 elementor-widget elementor-widget-html" data-id="2b29f245" data-element_type="widget" data-widget_type="html.default">
-                                <div class="elementor-widget-container">
-
-                                    <meta name="viewport" content="width=device-width, user-scalable=no">
-                                    <script>
-                                        const params = new URLSearchParams(document.location.search);
-                                        let u = params.get("u");
-                                        if (u) {
-                                            document.getElementsByClassName("nama-tamu")[0].innerHTML = `<center><b>${u}</b></center>`;
-
-                                        }
-                                    </script>
-                                    <script>
-                                        disableScrolling()
-                                        document.body.style.overflowY = "hidden";
-                                        document.body.style.heigth = "100vh"
-
-
-                                        document.getElementById("open-invitation").onclick = function() {
-                                            myFunction()
-                                        };
-
-                                        function myFunction() {
-                                            playAudio()
-                                            document.body.style.overflowY = "unset";
-                                            enableScrolling()
-
-
-
-                                        }
-
-                                        function disableScrolling() {
-                                            var x = window.scrollX;
-                                            var y = window.scrollY;
-                                            window.onscroll = function() {
-                                                window.scrollTo(x, y);
-                                            };
-                                        }
-
-                                        function enableScrolling() {
-                                            window.onscroll = function() {};
-                                        }
-                                    </script>
-
-
-                                    <script>
-                                        var x = document.getElementById("myAudio");
-
-                                        function playAudio() {
-                                            x.play();
-                                        }
-
-                                        function pauseAudio() {
-                                            x.pause();
-                                        }
-                                    </script>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-16dc52e6 elementor-widget elementor-widget-html" data-id="16dc52e6" data-element_type="widget" data-widget_type="html.default">
-                                <div class="elementor-widget-container">
-                                    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
-                                    <span id="buletnya">
-                                        <a id="play-pause-button" class="fa fa-volume-down"></a>
-                                    </span>
-                                    <style>
-                                        #buletnya {
-                                            background-color: white;
-                                            position: fixed;
-                                            bottom: 15%;
-                                            left: 20px;
-                                            z-index: 1000;
-                                            width: 50px;
-                                            height: 50px;
-                                            border-radius: 25px;
-                                            padding: 10px
-                                        }
-
-                                        #play-pause-button {
-                                            font-size: 30px;
-                                            cursor: pointer;
-                                            margin: 0;
-                                            line-height: none !important;
-                                            color: #829077;
-                                        }
-                                    </style>
-                                    <script>
-                                        $('#play-pause-button').on("click", function() {
-                                            if ($(this).hasClass('fa-volume-down')) {
-                                                $(this).removeClass('fa-volume-down');
-                                                $(this).addClass('fa-volume-mute');
-                                                playAudio()
-                                            } else {
-                                                $(this).removeClass('fa-volume-mute');
-                                                $(this).addClass('fa-volume-down');
-                                                pauseAudio()
-                                            }
-                                        });
-
-                                        $('#open-invitation').on("click", function() {
-                                            $('#play-pause-button').removeClass('fa-volume-down');
-                                            $('#play-pause-button').addClass('fa-volume-mute');
-                                            playAudio()
-                                        });
-                                    </script>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
             </section>
-            <section class="elementor-section elementor-top-section elementor-element elementor-element-5c75a737 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5c75a737" data-element_type="section" id="top">
+            <section class="elementor-section elementor-top-section elementor-element elementor-element-5c75a737 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5c75a737" data-element_type="section" id="header">
                 <div class="elementor-container elementor-column-gap-default">
                     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6e010fc6" data-id="6e010fc6" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;none&quot;}">
                         <div class="elementor-widget-wrap elementor-element-populated">
@@ -970,7 +771,9 @@
             </section>
         </div>
     </div>
-    <link rel="stylesheet" id="elementor-gallery-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0" media="all">
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" id="jquery-core-js"></script>
+    
     <script src="https://our.possiblewedding.com/wp-includes/js/wp-embed.min.js?ver=5.7.2" id="wp-embed-js"></script>
     <script src="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.min.js?ver=1.2.0" id="elementor-gallery-js"></script>
     <script src="https://our.possiblewedding.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.2.2" id="elementor-pro-webpack-runtime-js"></script>
@@ -1078,20 +881,6 @@
                 "wpPreview": false,
                 "isScriptDebug": false
             },
-            "i18n": {
-                "shareOnFacebook": "Share on Facebook",
-                "shareOnTwitter": "Share on Twitter",
-                "pinIt": "Pin it",
-                "download": "Download",
-                "downloadImage": "Download image",
-                "fullscreen": "Fullscreen",
-                "zoom": "Zoom",
-                "share": "Share",
-                "playVideo": "Play Video",
-                "previous": "Previous",
-                "next": "Next",
-                "close": "Close"
-            },
             "is_rtl": false,
             "breakpoints": {
                 "xs": 0,
@@ -1165,23 +954,41 @@
                 "lightbox_enable_share": "yes",
                 "lightbox_title_src": "title",
                 "lightbox_description_src": "description"
-            },
-            "post": {
-                "id": 43667,
-                "title": "The%20Wedding%20of%20Wulan%20%26%20Chandra%20%E2%80%93%20Possible%20Wedding",
-                "excerpt": "The Wedding of Wulan & Chandra",
-                "featuredImage": "https:\/\/our.possiblewedding.com\/wp-content\/uploads\/2021\/07\/thum-wulan-chandra.jpg"
             }
         };
     </script>
     <script src="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.2.3" id="elementor-frontend-js"></script><span id="elementor-device-mode" class="elementor-screen-only"></span>
     <script src="https://our.possiblewedding.com/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.2.2" id="pro-preloaded-elements-handlers-js"></script>
-    <script src="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.2.3" id="preloaded-modules-js"></script>
     <script>
         /(trident|msie)/i.test(navigator.userAgent) && document.getElementById && window.addEventListener && window.addEventListener("hashchange", function() {
             var t, e = location.hash.substring(1);
             /^[A-z0-9_-]+$/.test(e) && (t = document.getElementById(e)) && (/^(?:a|select|input|button|textarea)$/i.test(t.tagName) || (t.tabIndex = -1), t.focus())
         }, !1);
+    </script>
+
+    <script>
+        $(document).ready(function() {
+            document.body.style.overflowY = "hidden";
+            document.body.style.heigth="100vh"
+        });
+
+        $("#open-invitation-custom").click(function() {
+            document.body.style.overflowY = "unset";
+            $("html, body").animate({
+                scrollTop: $("#header").offset().top
+            }, 1000);
+            playAudio();
+            window.onscroll=function(){};
+        });
+
+        // function scrollToHeader() {
+        //     $("html, body").animate({
+        //         scrollTop: $("#header").offset().top
+        //     }, 1000, function() {
+        //         console.log("scrolling");
+        //     });
+        //     playAudio();
+        // }
     </script>
 
     <script>
@@ -1238,6 +1045,17 @@
             $("ul#messages-list").animate({
                 scrollTop: $("ul#messages-list").offset().top
             }, 2000);
+        }
+    </script>
+    <script>
+        var backSound = document.getElementById("myAudio");
+
+        function playAudio() {
+            backSound.play();
+        }
+
+        function pauseAudio() {
+            backSound.pause();
         }
     </script>
 

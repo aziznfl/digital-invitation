@@ -22,4 +22,8 @@ class Dashboard extends MY_Controller {
         $result = $this->M_Impression->insertMessages($data);
         echo $result;
     }
+
+    public function test() {
+        $this->load->view('dashboard/example');
+    }
 }
