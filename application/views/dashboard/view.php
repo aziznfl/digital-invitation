@@ -2,8 +2,10 @@
         <div class="elementor-section-wrap">
 
             <!-- Front Page -->
-            <section class="elementor-section elementor-top-section elementor-element elementor-element-332b005 elementor-section-height-min-height header elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-id="332b005" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			    <div class="elementor-background-overlay"></div>
+            <section class="elementor-section elementor-top-section elementor-element elementor-section-height-min-height header elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			    <div class="elementor-background-overlay">
+                    <img style="display: block;width: 100vw;height: 100vh;object-fit: cover;" src="<?php echo base_url(); ?>assets/image/background/cover.jpg"/>
+                </div>
                 <div class="elementor-container elementor-column-gap-default">
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-43ead0" data-id="43ead0" data-element_type="column">
                         <div class="elementor-widget-wrap elementor-element-populated">
@@ -193,9 +195,7 @@
                 <div class="elementor-container elementor-column-gap-default">
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-31e578d5 elementor-invisible" data-id="31e578d5" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInLeft&quot;}">
                         <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-background-overlay">
-                                <img style="height: 100%" src="https://testing.aziznfl.com/assets/image/background/cover.jpg"/>
-                            </div>
+                            <div class="elementor-background-overlay"></div>
                             <div class="elementor-element elementor-element-3ff328c5 elementor-view-default elementor-widget elementor-widget-icon" data-id="3ff328c5" data-element_type="widget" data-widget_type="icon.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-icon-wrapper">
