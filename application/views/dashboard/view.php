@@ -2,8 +2,8 @@
         <div class="elementor-section-wrap">
 
             <!-- Front Page -->
-            <section class="cover-content-background-section elementor-section elementor-top-section elementor-element elementor-section-height-min-height header elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                <div class="elementor-background-overlay"></div>
+            <section class="elementor-section elementor-top-section elementor-element elementor-element-332b005 elementor-section-height-min-height header elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-id="332b005" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			    <div class="elementor-background-overlay"></div>
                 <div class="elementor-container elementor-column-gap-default">
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-43ead0" data-id="43ead0" data-element_type="column">
                         <div class="elementor-widget-wrap elementor-element-populated">
