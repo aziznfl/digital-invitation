@@ -11,6 +11,36 @@
     <meta property="og:type" content="article">
     <meta property="og:title" content="The Wedding of Dita &amp; Aziz">
     <meta property="og:description" content="The Wedding of Dita &amp; Aziz">
+	<meta property="og:url" content="<?php echo base_url(); ?>">
+	<meta property="og:site_name" content="Digital Invitation">
+    <script type="application/ld+json" class="yoast-schema-graph">
+		{
+			"@context": "https://schema.org",
+			"@graph": [{
+				"@type": "WebSite",
+				"name": "Diigtal Invitation",
+				"description": "Best Digital Invitation",
+				"potentialAction": [{
+					"@type": "SearchAction",
+					"query-input": "required name=search_term_string"
+				}],
+				"inLanguage": "en-US"
+			}, {
+				"@type": "ImageObject",
+				"inLanguage": "en-US",
+				"width": 400,
+				"height": 600
+			}, {
+				"@type": "WebPage",
+				"name": "The Wedding of Dita & Aziz",
+				"inLanguage": "en-US",
+				"potentialAction": []
+			}, {
+				"@type": "BreadcrumbList",
+				"itemListElement": []
+			}]
+		}
+	</script>
 
     <link rel="dns-prefetch" href="//www.googletagmanager.com">
     <link rel="dns-prefetch" href="//s.w.org">
