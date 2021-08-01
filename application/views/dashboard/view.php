@@ -193,7 +193,9 @@
                 <div class="elementor-container elementor-column-gap-default">
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-31e578d5 elementor-invisible" data-id="31e578d5" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInLeft&quot;}">
                         <div class="elementor-widget-wrap elementor-element-populated">
-                            <div style="background-image: url('https://localhost/digital-invitation/assets/image/background/cover.jpg');" class="elementor-background-overlay"></div>
+                            <div class="elementor-background-overlay">
+                                <img style="height: 100%" src="https://testing.aziznfl.com/assets/image/background/cover.jpg"/>
+                            </div>
                             <div class="elementor-element elementor-element-3ff328c5 elementor-view-default elementor-widget elementor-widget-icon" data-id="3ff328c5" data-element_type="widget" data-widget_type="icon.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-icon-wrapper">
