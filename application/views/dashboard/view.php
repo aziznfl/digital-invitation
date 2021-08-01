@@ -3,9 +3,7 @@
 
             <!-- Front Page -->
             <section id="cover-page" class="elementor-section elementor-top-section elementor-element elementor-section-height-min-height header elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			    <div style="background-color: #000;" class="elementor-background-overlay">
-                    <img class="cover-background" src="<?php echo base_url(); ?>assets/image/background/cover.jpg"/>
-                </div>
+			    <div class="elementor-background-overlay"></div>
                 <div class="elementor-container elementor-column-gap-default">
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-43ead0" data-id="43ead0" data-element_type="column">
                         <div class="elementor-widget-wrap elementor-element-populated">
@@ -332,7 +330,7 @@
             </section>
             <section class="elementor-section elementor-top-section elementor-element elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-element animated fadeInLeft" data-element_type="section" data-settings="{'background_background':'classic','animation':'fadeInLeft'}">
                 <div class="elementor-container elementor-column-gap-default">
-                    <div style="padding: 16px; width: 100%;">
+                    <div style="padding: 0 16px 16px 16px; width: 100%;">
                         <iframe class="border-default" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.6332186437803!2d108.15090051501464!3d-7.168329094824314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f4f88d80da5f9%3A0x33c9e1c87c6b09da!2sJati%20Mandiri%20Hall%20Center!5e0!3m2!1sen!2sid!4v1627736437386!5m2!1sen!2sid" width="600" height="450" allowfullscreen="" loading="lazy"></iframe>
                     </div>
                 </div>

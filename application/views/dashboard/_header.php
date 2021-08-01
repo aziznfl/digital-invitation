@@ -172,6 +172,13 @@
             transform: translateY(-50%) translateX(-50%);
             font-size: 1.2em;
         }
+        
+        #cover-page {
+             background-image: url("<?php echo base_url("assets/image/background/cover.jpg");?>");
+             background-size: cover;
+             background-position: center center;
+             box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 70%);
+         }
 
         .cover-main-content {
             font-family: 'TextMainContent2';
@@ -180,14 +187,6 @@
             line-height: 1.2em;
             color: #FFF;
             text-align: center;
-        }
-
-        .cover-background {
-            display: block !important;
-            width: 100vw !important;
-            height: 100vh !important;
-            object-fit: cover !important;
-            opacity: 0.3;
         }
 
         .nama-tamu {
