@@ -12,7 +12,8 @@ class Dashboard extends MY_Controller {
 	public function index() {
         $result["impressions"] = $this->M_Impression->retrieveImpression();
 
-		$this->load->view('dashboard/view', $result);
+		$this->load->view('dashboard/_header', $result);
+		$this->load->view('dashboard/view');
 	}
 
     public function impression() {

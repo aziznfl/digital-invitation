@@ -1,122 +1,6 @@
-<html lang="en-US">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
-    <meta name="generator" content="Site Kit by Google 1.33.0">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-
-    <title>The Wedding of Dita &amp; Aziz</title>
-    <meta property="og:locale" content="en_US">
-    <meta property="og:type" content="article">
-    <meta property="og:title" content="The Wedding of Dita &amp; Aziz">
-    <meta property="og:description" content="The Wedding of Dita &amp; Aziz">
-
-    <link rel="dns-prefetch" href="//www.googletagmanager.com">
-    <link rel="dns-prefetch" href="//s.w.org">
-    
-    <link rel="stylesheet" id="wp-block-library-css" href="https://our.possiblewedding.com/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2" media="all">
-    <link rel="stylesheet" id="wp-block-library-theme-css" href="https://our.possiblewedding.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.7.2" media="all">
-    <link rel="stylesheet" id="allow-webp-image-css" href="https://our.possiblewedding.com/wp-content/plugins/allow-webp-image/public/css/allow-webp-image-public.css?ver=1.0.0" media="all">
-    <link rel="stylesheet" id="twentynineteen-style-css" href="https://our.possiblewedding.com/wp-content/themes/twentynineteen/style.css?ver=2.0" media="all">
-    <link rel="stylesheet" id="twentynineteen-print-style-css" href="https://our.possiblewedding.com/wp-content/themes/twentynineteen/print.css?ver=2.0" media="print">
-    <link rel="stylesheet" id="elementor-icons-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.11.0" media="all">
-    <link rel="stylesheet" id="elementor-animations-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.2.3" media="all">
-    <link rel="stylesheet" id="elementor-frontend-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.2.3" media="all">
-    <link rel="stylesheet" id="elementor-post-5-css" href="<?php echo base_url(); ?>assets/css/post-5.css" media="all">
-    <link rel="stylesheet" id="elementor-pro-css" href="<?php echo base_url(); ?>assets/css/frontend.min.css" media="all">
-    <link rel="stylesheet" id="elementor-global-css" href="<?php echo base_url(); ?>assets/css/global.css" media="all">
-    <link rel="stylesheet" id="elementor-post-43667-css" href="<?php echo base_url(); ?>assets/css/post-43667.css" media="all">
-    
-    <link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPrata%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CQuicksand%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPinyon+Script%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CBaskervville%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=5.7.2" media="all">
-    
-    <style>
-        img.wp-smiley,
-        img.emoji {
-            display: inline !important;
-            border: none !important;
-            box-shadow: none !important;
-            height: 1em !important;
-            width: 1em !important;
-            margin: 0 .07em !important;
-            vertical-align: -0.1em !important;
-            background: none !important;
-            padding: 0 !important;
-        }
-
-        .recentcomments a {
-            display: inline !important;
-            padding: 0 !important;
-            margin: 0 !important;
-        }
-    </style>
-    <style type="text/css">
-        @font-face {
-            font-family: amostely;
-            src: url(https://adindisince2010.com/wp-content/uploads/2020/09/AmostelySignature.ttf) format('truetype');
-            font-display: auto;
-        }
-
-        @font-face {
-            font-family: bernadete;
-            src: url(https://adindisince2010.com/wp-content/uploads/2020/09/bernadette_rough.ttf) format('truetype');
-            font-display: auto;
-        }
-
-        @font-face {
-            font-family: hysteria;
-            src: url(https://adindisince2010.com/wp-content/uploads/2020/09/Hysteria.otf) format('opentype');
-            font-display: auto;
-        }
-
-        @font-face {
-            font-family: juliete;
-            src: url(https://adindisince2010.com/wp-content/uploads/2020/09/Julietta-Messie.otf) format('opentype');
-            font-display: auto;
-        }
-
-        @font-face {
-            font-family: Sesi;
-            src: url(https://nadyabayuwedding.com/wp-content/uploads/2020/01/SmartSignature.otf) format('opentype');
-            font-display: auto;
-        }
-
-        @font-face {
-            font-family: Sesi2;
-            src: url(https://nadyabayuwedding.com/wp-content/uploads/2020/01/CollectionFree.otf) format('opentype');
-            font-display: auto;
-        }
-
-        @font-face {
-            font-family: Sesi3;
-            src: url(https://nadyabayuwedding.com/wp-content/uploads/2020/01/Westbury-Signature-Demo-Version.otf) format('opentype');
-            font-display: auto;
-        }
-
-        @font-face {
-            font-family: SV;
-            src: url(https://nadyabayuwedding.com/wp-content/uploads/2019/08/Belly-Betty.ttf) format('truetype');
-            font-display: auto;
-        }
-
-        @font-face {
-            font-family: valter;
-            src: url(https://adindisince2010.com/wp-content/uploads/2020/08/Taken-by-Vultures-Demo.otf) format('opentype');
-            font-display: auto;
-        }
-    </style>
-    
-    <script>
-        if (document.location.protocol != "https:") {
-            document.location = document.URL.replace(/^http:/i, "https:");
-        }
-    </script>
-</head>
-
-<body>
     <div data-elementor-type="wp-page" class="elementor elementor-43667" data-elementor-settings="[]">
         <div class="elementor-section-wrap">
-                            
+
             <!-- Front Page -->
             <section class="elementor-section elementor-top-section elementor-element elementor-element-332b005 elementor-section-height-min-height header elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-id="332b005" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="elementor-background-overlay"></div>
@@ -145,7 +29,7 @@
                                             <div class="elementor-element elementor-element-dd07a88 elementor-align-center elementor-widget elementor-widget-button" data-id="dd07a88" data-element_type="widget" data-widget_type="button.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-button-wrapper">
-                                                        <a id="open-invitation-custom" href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+                                                        <a id="open-invitation-custom" style="border-radius: 8px;" href="javascript: void(0);" class="elementor-button-link elementor-button elementor-size-xs" role="button">
                                                             <span class="elementor-button-content-wrapper">
                                                                 <span class="elementor-button-icon elementor-align-icon-left">
                                                                     <i aria-hidden="true" class="fas fa-envelope"></i> </span>
@@ -450,12 +334,12 @@
                     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-73a6f554 elementor-invisible" data-id="73a6f554" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInLeft&quot;}">
                         <div class="elementor-widget-wrap elementor-element-populated">
                             <ul id="messages-list" class="elementor-element elementor-element-427035fc ucapan-doa elementor-widget elementor-widget-text-editor" data-id="427035fc" data-element_type="widget" data-widget_type="text-editor.default" style="list-style-type: none; margin: 0; line-height: 17;">
-                                <?php foreach($impressions as $index => $impression) {
+                                <?php foreach ($impressions as $index => $impression) {
                                     $marginBottom = ($index != 0) ? "margin-top: 8px;" : "";
 
-                                    echo "<li style='line-height: 17px; ".$marginBottom."'>";
-                                    echo "<span><b>".$impression->name."</b><br>";
-                                    echo urldecode($impression->messages)."</span>";
+                                    echo "<li style='line-height: 17px; " . $marginBottom . "'>";
+                                    echo "<span><b>" . $impression->name . "</b><br>";
+                                    echo urldecode($impression->messages) . "</span>";
                                     echo "</li>";
                                 } ?>
                             </ul>
@@ -753,6 +637,7 @@
             </section>
             <section class="elementor-section elementor-top-section elementor-element elementor-element-6cca2acc elementor-section-height-min-height elementor-section-items-bottom elementor-section-boxed elementor-section-height-default" data-id="6cca2acc" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="elementor-container elementor-column-gap-default">
+                    <iframe style="border-radius: 4px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.6332186437803!2d108.15090051501464!3d-7.168329094824314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f4f88d80da5f9%3A0x33c9e1c87c6b09da!2sJati%20Mandiri%20Hall%20Center!5e0!3m2!1sen!2sid!4v1627736437386!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3e78e637" data-id="3e78e637" data-element_type="column">
                         <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-72ac48ab elementor-widget elementor-widget-text-editor" data-id="72ac48ab" data-element_type="widget" data-widget_type="text-editor.default">
@@ -771,11 +656,10 @@
             </section>
         </div>
     </div>
-    
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" id="jquery-core-js"></script>
-    
+
     <script src="https://our.possiblewedding.com/wp-includes/js/wp-embed.min.js?ver=5.7.2" id="wp-embed-js"></script>
-    <script src="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.min.js?ver=1.2.0" id="elementor-gallery-js"></script>
     <script src="https://our.possiblewedding.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.2.2" id="elementor-pro-webpack-runtime-js"></script>
     <script src="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.2.3" id="elementor-webpack-runtime-js"></script>
     <script src="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.2.3" id="elementor-frontend-modules-js"></script>
@@ -872,8 +756,6 @@
     <script src="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
     <script src="https://our.possiblewedding.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1" id="jquery-ui-core-js"></script>
     <script src="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6" id="swiper-js"></script>
-    <script src="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.2.3" id="share-link-js"></script>
-    <script src="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1" id="elementor-dialog-js"></script>
     <script id="elementor-frontend-js-before">
         var elementorFrontendConfig = {
             "environmentMode": {
@@ -976,7 +858,7 @@
     </script>
 
     <script>
-        $("#impression-form").submit(function () {
+        $("#impression-form").submit(function() {
             var name = $("#form-field-name").val();
             var messages = encodeURI($("#form-field-message").val());
 
@@ -985,7 +867,10 @@
             $.ajax({
                 url: "<?php echo base_url(); ?>" + "dashboard/impression",
                 method: 'GET',
-                data: {'name': name, 'messages': messages},
+                data: {
+                    'name': name,
+                    'messages': messages
+                },
                 success: function(result) {
                     if (result == 1) {
                         successAddMessages(name, messages);
