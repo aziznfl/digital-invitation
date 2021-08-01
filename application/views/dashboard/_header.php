@@ -184,6 +184,14 @@
             text-align: center;
         }
 
+        .cover-background {
+            display: block !important;
+            width: 100vw !important;
+            height: 100vh !important;
+            object-fit: cover !important;
+            opacity: 0.3;
+        }
+
         .nama-tamu {
             color: #FFF;
             font-size: 1.2em;
@@ -225,7 +233,7 @@
         .elementor-43667 .elementor-element.elementor-element-a3049c9>.elementor-motion-effects-container>.elementor-motion-effects-layer {
             background-image: url(https://localhost/digital-invitation/assets/image/background/resepsi.jpg) !important;
         }
-        
+
         @media (max-width: 767px) {
             .cover-main-content {
                 font-size: 100px;
