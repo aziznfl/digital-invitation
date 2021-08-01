@@ -254,6 +254,12 @@
                 font-size: 70px;
             }
         }
+
+        @media (max-width: 1025px) and (max-height: 769px) {
+            .elementor-element-11160e97 {
+                top: 15% !important;
+            }
+        }
     </style>
 
     <script>
