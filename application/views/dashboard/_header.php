@@ -15,9 +15,9 @@
     <link rel="dns-prefetch" href="//www.googletagmanager.com">
     <link rel="dns-prefetch" href="//s.w.org">
     
-    <link rel="icon" href="<?php echo base_url(); ?>assets/image/32x32.png" sizes="32x32">
-	<link rel="icon" href="<?php echo base_url(); ?>assets/image/192x192.png" sizes="192x192">
-	<link rel="apple-touch-icon" href="<?php echo base_url(); ?>assets/image/180x180.png">
+    <link rel="icon" href="<?php echo base_url(); ?>assets/image/favicon/32x32.png" sizes="32x32">
+	<link rel="icon" href="<?php echo base_url(); ?>assets/image/favicon/192x192.png" sizes="192x192">
+	<link rel="apple-touch-icon" href="<?php echo base_url(); ?>assets/image/favicon/180x180.png">
 
     <link rel="stylesheet" id="allow-webp-image-css" href="https://our.possiblewedding.com/wp-content/plugins/allow-webp-image/public/css/allow-webp-image-public.css?ver=1.0.0" media="all">
     <link rel="stylesheet" id="twentynineteen-style-css" href="https://our.possiblewedding.com/wp-content/themes/twentynineteen/style.css?ver=2.0" media="all">
@@ -107,6 +107,21 @@
             top: 50%;
             -ms-transform: translateY(-50%) translateX(-50%);
             transform: translateY(-50%) translateX(-50%);
+        }
+        .cover-content-background-section {
+            background-image: url(https://localhost/digital-invitation/assets/image/background/cover.jpg);
+            background-size: cover;
+            background-position: center center;
+            box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 70%);
+        }
+        .main-content-background-section {
+            background-image: url(https://localhost/digital-invitation/assets/image/background/resepsi.jpg);
+            background-size: cover;
+            background-position: center center;
+            box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 30%);
+        }
+        .elementor-43667 {
+            color: #FFF !important;
         }
         .elementor-widget-countdown .elementor-countdown-item {
             padding: 5px 0 20px 0;

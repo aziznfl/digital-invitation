@@ -2,7 +2,7 @@
         <div class="elementor-section-wrap">
 
             <!-- Front Page -->
-            <section class="elementor-section elementor-top-section elementor-element elementor-element-332b005 elementor-section-height-min-height header elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-id="332b005" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+            <section class="cover-content-background-section elementor-section elementor-top-section elementor-element elementor-section-height-min-height header elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="elementor-background-overlay"></div>
                 <div class="elementor-container elementor-column-gap-default">
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-43ead0" data-id="43ead0" data-element_type="column">
@@ -121,7 +121,7 @@
                         <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-115f25ad elementor-widget elementor-widget-image" data-id="115f25ad" data-element_type="widget" data-widget_type="image.default">
                                 <div class="elementor-widget-container">
-                                    <img width="786" height="786" src="https://our.possiblewedding.com/wp-content/uploads/2021/07/profil-wulan.jpg" class="attachment-full size-full" alt="" loading="lazy">
+                                    <img width="786" height="786" src="<?php echo base_url(); ?>assets/image/main/dita.JPG" class="attachment-full size-full" alt="" loading="lazy">
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-794e3b1e animated-slow elementor-headline--style-highlight elementor-invisible elementor-widget elementor-widget-animated-headline" data-id="794e3b1e" data-element_type="widget" data-settings="{&quot;marker&quot;:&quot;underline&quot;,&quot;highlighted_text&quot;:&quot;Wulan&quot;,&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}" data-widget_type="animated-headline.default">
@@ -160,7 +160,7 @@
                         <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-2a71c366 elementor-widget elementor-widget-image" data-id="2a71c366" data-element_type="widget" data-widget_type="image.default">
                                 <div class="elementor-widget-container">
-                                    <img width="835" height="836" src="https://our.possiblewedding.com/wp-content/uploads/2021/07/profil-chandra-1.jpg" class="attachment-full size-full" alt="" loading="lazy">
+                                    <img width="835" height="836" src="<?php echo base_url(); ?>assets/image/main/aziz.JPG" class="attachment-full size-full" alt="" loading="lazy">
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-24ccc768 animated-slow elementor-headline--style-highlight elementor-invisible elementor-widget elementor-widget-animated-headline" data-id="24ccc768" data-element_type="widget" data-settings="{&quot;marker&quot;:&quot;underline&quot;,&quot;highlighted_text&quot;:&quot;Chandra&quot;,&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}" data-widget_type="animated-headline.default">
@@ -197,7 +197,7 @@
                     </div>
                 </div>
             </section>
-            <section class="elementor-section elementor-top-section elementor-element elementor-element-204c3a02 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="204c3a02" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+            <section class="main-content-background-section elementor-section elementor-top-section elementor-element elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="elementor-container elementor-column-gap-default">
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-31e578d5 elementor-invisible" data-id="31e578d5" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInLeft&quot;}">
                         <div class="elementor-widget-wrap elementor-element-populated">
