@@ -1,11 +1,10 @@
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" id="jquery-core-js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" id="jquery-core-js"></script>
 
 <script src="https://our.possiblewedding.com/wp-includes/js/wp-embed.min.js?ver=5.7.2" id="wp-embed-js"></script>
 <script src="https://our.possiblewedding.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.2.2" id="elementor-pro-webpack-runtime-js"></script>
 <script src="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.2.3" id="elementor-webpack-runtime-js"></script>
 <script src="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.2.3" id="elementor-frontend-modules-js"></script>
-<script src="https://our.possiblewedding.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.2.2" id="elementor-sticky-js"></script>
 <script id="elementor-pro-frontend-js-before">
     var ElementorProFrontendConfig = {
         "ajaxurl": "https:\/\/our.possiblewedding.com\/wp-admin\/admin-ajax.php",
@@ -97,7 +96,6 @@
 <script src="https://our.possiblewedding.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.2.2" id="elementor-pro-frontend-js"></script>
 <script src="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
 <script src="https://our.possiblewedding.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1" id="jquery-ui-core-js"></script>
-<script src="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6" id="swiper-js"></script>
 <script id="elementor-frontend-js-before">
     var elementorFrontendConfig = {
         "environmentMode": {
@@ -193,7 +191,7 @@
 <script>
     $("#open-invitation-custom").click(function() {
         $("html, body").animate({
-            scrollTop: $("#header").offset().top
+            scrollTop: $("#cover-page").height()
         }, 1000);
         // playAudio();
     });

@@ -2,7 +2,7 @@
         <div class="elementor-section-wrap">
 
             <!-- Front Page -->
-            <section class="elementor-section elementor-top-section elementor-element elementor-section-height-min-height header elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+            <section id="cover-page" class="elementor-section elementor-top-section elementor-element elementor-section-height-min-height header elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			    <div style="background-color: #000;" class="elementor-background-overlay">
                     <img class="cover-background" src="<?php echo base_url(); ?>assets/image/background/cover.jpg"/>
                 </div>
@@ -81,7 +81,7 @@
                                 <b>﷽</b>
                             </p>
                             <p>
-                                <i>Assalaamu’alaikum Warahmatullahi Wabarakaatuh</i><br/><br/>
+                                <i>Assalaamu’alaikum Warahmatullahi Wabarakaatuh.</i><br/><br/>
                                 Maha Suci Allah yang telah menciptakan makhluk-Nya berpasang-pasangan. 
                                 Ya Allah semoga ridho-Mu tercurah mengiringi pernikahan kami.
                             </p>
@@ -96,7 +96,7 @@
                                     <img width="786" height="786" src="<?php echo base_url(); ?>assets/image/main/dita.jpg" class="attachment-full size-full" alt="" loading="lazy">
                                 </div>
                             </div>
-                            <div class="elementor-element elementor-element-794e3b1e animated-slow elementor-headline--style-highlight elementor-invisible elementor-widget elementor-widget-animated-headline" data-id="794e3b1e" data-element_type="widget" data-settings="{&quot;marker&quot;:&quot;underline&quot;,&quot;highlighted_text&quot;:&quot;Wulan&quot;,&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}" data-widget_type="animated-headline.default">
+                            <div style="display: none;" class="elementor-element elementor-element-794e3b1e animated-slow elementor-headline--style-highlight elementor-invisible elementor-widget elementor-widget-animated-headline" data-id="794e3b1e" data-element_type="widget" data-settings="{&quot;marker&quot;:&quot;underline&quot;,&quot;highlighted_text&quot;:&quot;Wulan&quot;,&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}" data-widget_type="animated-headline.default">
                                 <div class="elementor-widget-container">
                                     <h3 class="elementor-headline">
                                         <span class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
@@ -136,7 +136,7 @@
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-24ccc768 animated-slow elementor-headline--style-highlight elementor-invisible elementor-widget elementor-widget-animated-headline" data-id="24ccc768" data-element_type="widget" data-settings="{&quot;marker&quot;:&quot;underline&quot;,&quot;highlighted_text&quot;:&quot;Chandra&quot;,&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}" data-widget_type="animated-headline.default">
-                                <div class="elementor-widget-container">
+                                <div style="display: none;" class="elementor-widget-container">
                                     <h3 class="elementor-headline">
                                         <span class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
                                             <span class="elementor-headline-dynamic-text elementor-headline-text-active">Aziz</span>
@@ -223,7 +223,7 @@
                                     <div style="flex-direction: column;" class="elementor-column elementor-col-50 elementor-top-column elementor-element" data-element_type="column">
                                         <div class="elementor-wrap elementor-element-populated">
                                             <div class="elementor-widget-wrap">
-                                                <div class="elementor-element elementor-element-2a0a990 elementor-headline--style-highlight elementor-widget elementor-widget-animated-headline" data-id="2a0a990" data-element_type="widget" data-settings="{&quot;marker&quot;:&quot;underline_zigzag&quot;,&quot;highlighted_text&quot;:&quot;Akad Nikah&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}" data-widget_type="animated-headline.default">
+                                                <div class="elementor-element elementor-element-2a0a990 elementor-headline--style-highlight elementor-widget elementor-widget-animated-headline" data-id="2a0a990" data-element_type="widget" data-settings="{&quot;marker&quot;:&quot;underline_zigzag&quot;,&quot;highlighted_text&quot;:&quot;Akad Nikah&quot;,&quot;headline_style&quot;:&quot;&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}" data-widget_type="animated-headline.default">
                                                     <div class="elementor-widget-container">
                                                         <h3 class="elementor-headline">
                                                             <span class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
@@ -248,7 +248,7 @@
                                     <div style="flex-direction: column;" class="elementor-column elementor-col-50 elementor-top-column elementor-element" data-element_type="column">
                                         <div class="elementor-wrap elementor-element-populated">
                                             <div class="elementor-widget-wrap">
-                                                <div class="elementor-element elementor-element-2a0a990 elementor-headline--style-highlight elementor-widget elementor-widget-animated-headline" data-id="2a0a990" data-element_type="widget" data-settings="{&quot;marker&quot;:&quot;underline_zigzag&quot;,&quot;highlighted_text&quot;:&quot;Akad Nikah&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}" data-widget_type="animated-headline.default">
+                                                <div class="elementor-element elementor-element-2a0a990 elementor-headline--style-highlight elementor-widget elementor-widget-animated-headline" data-id="2a0a990" data-element_type="widget" data-settings="{&quot;marker&quot;:&quot;underline_zigzag&quot;,&quot;highlighted_text&quot;:&quot;Akad Nikah&quot;,&quot;headline_style&quot;:&quot;&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}" data-widget_type="animated-headline.default">
                                                     <div class="elementor-widget-container">
                                                         <h3 class="elementor-headline">
                                                             <span class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
@@ -285,7 +285,12 @@
                                     </div>
                                 </div>
                             </div>
-                            <div style="margin: 0;" class="elementor-element elementor-element-56ea325 elementor-widget elementor-widget-text-editor" data-id="56ea325" data-element_type="widget" data-widget_type="text-editor.default">
+                            <div class="elementor-element elementor-element-56ea325 elementor-widget elementor-widget-text-editor" data-id="56ea325" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-widget-container">
+									<p><em><strong>Tanpa mengurangi rasa hormat, mengingat situasi dan kondisi saat ini, acara ini hanya dapat dihadiri secara langsung oleh keluarga dan kerabat terdekat dengan jumlah terbatas.</strong></em></p>
+								</div>
+							</div>
+                            <div style="margin-top: 10px;" class="elementor-element elementor-element-56ea325 elementor-widget elementor-widget-text-editor" data-id="56ea325" data-element_type="widget" data-widget_type="text-editor.default">
 								<div class="elementor-widget-container">
 									<p><em>Hitung Mundur Acara:</em></p>
 								</div>
@@ -328,7 +333,7 @@
                 <div class="elementor-container elementor-column-gap-default">
                     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1ad86898 elementor-invisible" data-id="1ad86898" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInLeft&quot;}">
                         <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-25667d8f animated-slow elementor-headline--style-highlight elementor-invisible elementor-widget elementor-widget-animated-headline" data-id="25667d8f" data-element_type="widget" data-settings="{&quot;marker&quot;:&quot;underline&quot;,&quot;highlighted_text&quot;:&quot;Ucapan &amp; Doa&quot;,&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}" data-widget_type="animated-headline.default">
+                            <div class="elementor-element elementor-element-25667d8f animated-slow elementor-headline--style-highlight elementor-invisible elementor-widget elementor-widget-animated-headline" data-id="25667d8f" data-element_type="widget" data-settings="{&quot;marker&quot;:&quot;underline&quot;,&quot;highlighted_text&quot;:&quot;Ucapan &amp; Doa&quot;,&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;headline_style&quot;:&quot;&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}" data-widget_type="animated-headline.default">
                                 <div class="elementor-widget-container">
                                     <h3 class="elementor-headline">
                                         <span class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">

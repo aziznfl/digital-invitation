@@ -228,8 +228,8 @@
         .elementor-43667 .elementor-element.elementor-element-a3049c9>.elementor-motion-effects-container>.elementor-motion-effects-layer {
             background-image: url('<?php echo base_url(); ?>/assets/image/background/resepsi.jpg') !important;
         }
-        
-        .elementor-43667 .elementor-element.elementor-element-115f25ad>.elementor-widget-container, 
+
+        .elementor-43667 .elementor-element.elementor-element-115f25ad>.elementor-widget-container,
         .elementor-43667 .elementor-element.elementor-element-2a71c366>.elementor-widget-container {
             margin: 0;
         }
@@ -237,6 +237,20 @@
         .elementor-43667 .elementor-element.elementor-element-115f25ad img,
         .elementor-43667 .elementor-element.elementor-element-2a71c366 img {
             width: 60%;
+        }
+
+        .elementor-43667 .elementor-element.elementor-element-4038feac,
+        .elementor-43667 .elementor-element.elementor-element-5d0ada0e {
+            font-weight: 600;
+            margin-top: 10px;
+        }
+
+        .elementor-43667 .elementor-element.elementor-element-3fa34c2c .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper) {
+            border-radius: 8px;
+        }
+
+        .elementor-43667 .elementor-element.elementor-element-3fa34c2c .elementor-button {
+            border-radius: 8px;
         }
 
         @media (max-width: 767px) {
