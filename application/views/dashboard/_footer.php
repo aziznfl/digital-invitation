@@ -195,7 +195,7 @@
         $("html, body").animate({
             scrollTop: $("#header").offset().top
         }, 1000);
-        playAudio();
+        // playAudio();
     });
 </script>
 
@@ -216,13 +216,10 @@
             success: function(result) {
                 if (result == 1) {
                     successAddMessages(name, messages);
-                } else {
-                    console.log("success" + result);
                 }
                 loadingButton("impression-form-button", false);
             },
             failed: function(result) {
-                console.log("failed" + result);
                 loadingButton("impression-form-button", false);
             }
         });

@@ -14,10 +14,10 @@
 
     <link rel="dns-prefetch" href="//www.googletagmanager.com">
     <link rel="dns-prefetch" href="//s.w.org">
-    
+
     <link rel="icon" href="<?php echo base_url(); ?>assets/image/favicon/32x32.png" sizes="32x32">
-	<link rel="icon" href="<?php echo base_url(); ?>assets/image/favicon/192x192.png" sizes="192x192">
-	<link rel="apple-touch-icon" href="<?php echo base_url(); ?>assets/image/favicon/180x180.png">
+    <link rel="icon" href="<?php echo base_url(); ?>assets/image/favicon/192x192.png" sizes="192x192">
+    <link rel="apple-touch-icon" href="<?php echo base_url(); ?>assets/image/favicon/180x180.png">
 
     <link rel="stylesheet" id="allow-webp-image-css" href="https://our.possiblewedding.com/wp-content/plugins/allow-webp-image/public/css/allow-webp-image-public.css?ver=1.0.0" media="all">
     <link rel="stylesheet" id="twentynineteen-style-css" href="https://our.possiblewedding.com/wp-content/themes/twentynineteen/style.css?ver=2.0" media="all">
@@ -82,11 +82,47 @@
             src: url(https://adindisince2010.com/wp-content/uploads/2020/08/Taken-by-Vultures-Demo.otf) format('opentype');
             font-display: auto;
         }
+
+        @font-face {
+            font-family: TextMainContent;
+            src: url(<?php echo base_url("assets/font/IntriqueScript.ttf"); ?>) format('opentype');
+            font-display: auto;
+        }
+
+        @font-face {
+            font-family: TextMainContent2;
+            src: url(<?php echo base_url("assets/font/RegencyScript.ttf"); ?>) format('opentype');
+            font-display: auto;
+        }
+
+        @font-face {
+            font-family: DreamOrphans;
+            src: url(<?php echo base_url("assets/font/dreamorphans.ttf"); ?>) format('opentype');
+            font-display: auto;
+        }
     </style>
     <style>
+        #open-invitation-custom {
+            font-size: 1.2em;
+            font-family: 'DreamOrphans';
+            padding: 20px;
+            background-color: #F6EFE3;
+            color: #000;
+            border-radius: 4px !important;
+        }
+
+        .text-main-color {
+            color: #FFF;
+        }
+
+        .text-secondary-color {
+            color: #E0E0E0;
+        }
+
         .border-default {
             border-radius: 8px !important;
         }
+
         .float {
             position: fixed;
             width: 60px;
@@ -97,9 +133,9 @@
             border-radius: 50px;
             text-align: center;
             border: 2px solid #afafaf;
-            /* box-shadow: 2px 2px 3px #f0f0f0; */
             z-index: 9999;
         }
+
         .content-float {
             position: absolute;
             margin: 0;
@@ -108,29 +144,54 @@
             -ms-transform: translateY(-50%) translateX(-50%);
             transform: translateY(-50%) translateX(-50%);
         }
+
         .cover-content-background-section {
             background-image: url(https://localhost/digital-invitation/assets/image/background/cover.jpg);
             background-size: cover;
             background-position: center center;
             box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 70%);
         }
+
+        .cover-main-content {
+            font-family: TextMainContent2;
+            font-size: 140px;
+            font-weight: 400;
+            line-height: 1.2em;
+            color: #FFF;
+            text-align: center;
+        }
+
+        .nama-tamu {
+            color: #FFF;
+            font-family: NonBreakingSpaceOverride;
+            font-size: 1.2em;
+            text-align: center;
+            line-height: 1.5em;
+        }
+
         .main-content-background-section {
             background-image: url(https://localhost/digital-invitation/assets/image/background/resepsi.jpg);
             background-size: cover;
             background-position: center center;
-            box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 30%);
+            box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 50%);
         }
-        .elementor-43667 {
-            color: #FFF !important;
-        }
+
         .elementor-widget-countdown .elementor-countdown-item {
             padding: 5px 0 20px 0;
         }
+
         .elementor-43667 .elementor-element.elementor-element-47c2d111 .elementor-divider-separator {
             width: 175px;
         }
+
         .elementor-widget:not(:last-child) {
             margin-bottom: 5px;
+        }
+
+        @media (max-width: 767px) {
+            .cover-main-content {
+                font-size: 48px;
+            }
         }
     </style>
 
@@ -140,4 +201,5 @@
         }
     </script>
 </head>
+
 <body>

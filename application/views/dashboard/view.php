@@ -7,7 +7,7 @@
                 <div class="elementor-container elementor-column-gap-default">
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-43ead0" data-id="43ead0" data-element_type="column">
                         <div class="elementor-widget-wrap elementor-element-populated">
-                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-33d176a7 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="33d176a7" data-element_type="section">
+                            <section style="bottom: 10%;" class="elementor-section elementor-inner-section elementor-element elementor-element-33d176a7 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="33d176a7" data-element_type="section">
                                 <div class="elementor-container elementor-column-gap-default">
                                     <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-506a2b0f" data-id="506a2b0f" data-element_type="column">
                                         <div class="elementor-widget-wrap elementor-element-populated">
@@ -18,13 +18,13 @@
                                                     </audio>
                                                 </div>
                                             </div>
-                                            <div class="elementor-element elementor-element-e880d2a elementor-widget elementor-widget-text-editor" data-id="e880d2a" data-element_type="widget" data-widget_type="text-editor.default">
-                                                <div class="elementor-widget-container" id="open-invitation">
+                                            <div style="margin-bottom: 0;" class="elementor-element elementor-element-e880d2a elementor-widget elementor-widget-text-editor" data-id="e880d2a" data-element_type="widget" data-widget_type="text-editor.default">
+                                                <div style="font-size: 0.7em;" class="elementor-widget-container text-secondary-color" id="open-invitation">
                                                     <p>Kepada Yth:</p>
                                                 </div>
                                             </div>
-                                            <div class="elementor-element elementor-element-43495e1e nama-tamu elementor-widget elementor-widget-text-editor" data-id="43495e1e" data-element_type="widget" data-widget_type="text-editor.default">
-                                                <center><b><i>Nama Tamu</i></b></center>
+                                            <div class="elementor-element nama-tamu elementor-widget elementor-widget-text-editor" data-element_type="widget" data-widget_type="text-editor.default">
+                                                <center><b><?php echo $guestName; ?></b></center>
                                             </div>
                                             <div style="margin-top: 30px;" class="elementor-element elementor-element-dd07a88 elementor-align-center elementor-widget elementor-widget-button" data-id="dd07a88" data-element_type="widget" data-widget_type="button.default">
                                                 <div class="elementor-widget-container">
@@ -32,7 +32,8 @@
                                                         <a id="open-invitation-custom" href="javascript: void(0);" class="border-default elementor-button-link elementor-button elementor-size-xs" role="button">
                                                             <span class="elementor-button-content-wrapper">
                                                                 <span class="elementor-button-icon elementor-align-icon-left">
-                                                                    <i aria-hidden="true" class="fas fa-envelope"></i> </span>
+                                                                    <i aria-hidden="true" class="fas fa-envelope"></i>
+                                                                </span>
                                                                 <span class="elementor-button-text">Buka Undangan</span>
                                                             </span>
                                                         </a>
@@ -43,22 +44,22 @@
                                     </div>
                                 </div>
                             </section>
-                            <section style="top: 30%;" class="elementor-section elementor-inner-section elementor-element elementor-element-11160e97 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="11160e97" data-element_type="section">
+                            <section style="top: 25%;" class="elementor-section elementor-inner-section elementor-element elementor-element-11160e97 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="11160e97" data-element_type="section">
                                 <div class="elementor-container elementor-column-gap-default">
                                     <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-1ea4fef" data-id="1ea4fef" data-element_type="column">
                                         <div class="elementor-widget-wrap elementor-element-populated">
                                             <div class="elementor-element elementor-element-35961644 elementor-widget elementor-widget-text-editor" data-id="35961644" data-element_type="widget" data-widget_type="text-editor.default">
-                                                <div class="elementor-widget-container">
+                                                <div style="font-size: 1.2em;" class="elementor-widget-container text-secondary-color">
                                                     <p>The Wedding of</p>
                                                 </div>
                                             </div>
-                                            <div class="elementor-element elementor-element-456ae7c4 elementor-widget elementor-widget-text-editor" data-id="456ae7c4" data-element_type="widget" data-widget_type="text-editor.default">
-                                                <div class="elementor-widget-container">
+                                            <div class="elementor-element elementor-widget elementor-widget-text-editor" data-id="456ae7c4" data-element_type="widget" data-widget_type="text-editor.default">
+                                                <div class="elementor-widget-container cover-main-content">
                                                     <p>Dita &amp; Aziz</p>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-43806987 elementor-widget elementor-widget-text-editor" data-id="43806987" data-element_type="widget" data-widget_type="text-editor.default">
-                                                <div class="elementor-widget-container">
+                                                <div style="font-size: 1em;" class="elementor-widget-container text-secondary-color">
                                                     <p>Minggu, 15 Agustus 2021</p>
                                                 </div>
                                             </div>
@@ -72,16 +73,7 @@
             </section>
             <section class="elementor-section elementor-top-section elementor-element elementor-element-5c75a737 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5c75a737" data-element_type="section" id="header">
                 <div class="elementor-container elementor-column-gap-default">
-                    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6e010fc6" data-id="6e010fc6" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;none&quot;}">
-                        <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-440449c9 elementor-invisible elementor-widget elementor-widget-image" data-id="440449c9" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
-                                <div class="elementor-widget-container">
-                                    <img width="1800" height="1200" src="https://our.possiblewedding.com/wp-content/uploads/2021/07/1.-Foto-ayat-suci-wulan-chandra.jpg" class="attachment-full size-full" alt="" loading="lazy">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7c3cfb00 elementor-invisible" data-id="7c3cfb00" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7c3cfb00 elementor-invisible" data-id="7c3cfb00" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
                         <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-bba141b elementor-widget elementor-widget-text-editor" data-id="bba141b" data-element_type="widget" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">

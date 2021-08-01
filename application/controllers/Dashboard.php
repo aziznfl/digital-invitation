@@ -12,6 +12,11 @@ class Dashboard extends MY_Controller {
 	public function index() {
         $result["impressions"] = $this->M_Impression->retrieveImpression();
 
+        $result["guestName"] = "<i>Nama Tamu</i>";
+        if (($this->input->get("u")) != null) {
+            $result["guestName"] = $this->input->get("u");
+        }
+
 		$this->load->view('dashboard/_header', $result);
 		$this->load->view('dashboard/view');
 		$this->load->view('dashboard/_footer');
