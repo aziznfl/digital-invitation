@@ -11,7 +11,7 @@
         "ajaxurl": "https:\/\/our.possiblewedding.com\/wp-admin\/admin-ajax.php",
         "nonce": "ca9fac49b1",
         "urls": {
-            "assets": "https:\/\/our.possiblewedding.com\/wp-content\/plugins\/elementor-pro\/assets\/"
+            "assets": "<?php echo base_url(); ?>\/assets\/"
         },
         "i18n": {
             "toc_no_headings_found": "No headings were found on this page."
@@ -163,7 +163,7 @@
             "form-submissions": true
         },
         "urls": {
-            "assets": "https:\/\/our.possiblewedding.com\/wp-content\/plugins\/elementor\/assets\/"
+            "assets": "<?php echo base_url(); ?>\/assets\/"
         },
         "settings": {
             "page": [],
