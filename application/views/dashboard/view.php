@@ -44,7 +44,7 @@
                                     </div>
                                 </div>
                             </section>
-                            <section style="top: 25%;" class="elementor-section elementor-inner-section elementor-element elementor-element-11160e97 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="11160e97" data-element_type="section">
+                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-11160e97 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="11160e97" data-element_type="section">
                                 <div class="elementor-container elementor-column-gap-default">
                                     <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-1ea4fef" data-id="1ea4fef" data-element_type="column">
                                         <div class="elementor-widget-wrap elementor-element-populated">

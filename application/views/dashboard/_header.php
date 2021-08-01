@@ -209,8 +209,12 @@
             padding: 5px 0 20px 0;
         }
 
-        .elementor-43667 .elementor-element.elementor-element-47c2d111 .elementor-divider-separator {
+        .elementor-element.elementor-element-47c2d111 .elementor-divider-separator {
             width: 175px;
+        }
+
+        .elementor-element-11160e97 {
+            top: 25% !important;
         }
 
         .elementor-widget:not(:last-child) {
@@ -220,6 +224,20 @@
         @media (max-width: 767px) {
             .cover-main-content {
                 font-size: 100px;
+            }
+
+            .elementor-element-11160e97 {
+                top: 15% !important;
+            }
+        }
+
+        @media (max-width: 500px) {
+            #open-invitation-custom {
+                font-size: 1em;
+                padding: 15px 10px;
+            }
+            .cover-main-content {
+                font-size: 70px;
             }
         }
     </style>
