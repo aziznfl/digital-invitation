@@ -177,6 +177,13 @@
 
         .cover-content-background-section {
             background-image: url(https://localhost/digital-invitation/assets/image/background/cover.jpg);
+            -webkit-background-size: 100%; 
+            -moz-background-size: 100%; 
+            -o-background-size: 100%; 
+            background-size: 100%; 
+            -webkit-background-size: cover; 
+            -moz-background-size: cover; 
+            -o-background-size: cover; 
             background-size: cover;
             background-position: center center;
             box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 70%);
@@ -200,6 +207,13 @@
 
         .main-content-background-section {
             background-image: url(https://localhost/digital-invitation/assets/image/background/resepsi.jpg);
+            -webkit-background-size: 100%; 
+            -moz-background-size: 100%; 
+            -o-background-size: 100%; 
+            background-size: 100%; 
+            -webkit-background-size: cover; 
+            -moz-background-size: cover; 
+            -o-background-size: cover; 
             background-size: cover;
             background-position: center center;
             box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 50%);
