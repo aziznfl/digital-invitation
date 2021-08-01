@@ -31,9 +31,6 @@
                                                     <div class="elementor-button-wrapper">
                                                         <a id="open-invitation-custom" href="javascript: void(0);" class="border-default elementor-button-link elementor-button elementor-size-xs" role="button">
                                                             <span class="elementor-button-content-wrapper">
-                                                                <span class="elementor-button-icon elementor-align-icon-left">
-                                                                    <i aria-hidden="true" class="fas fa-envelope"></i>
-                                                                </span>
                                                                 <span class="elementor-button-text">Buka Undangan</span>
                                                             </span>
                                                         </a>
