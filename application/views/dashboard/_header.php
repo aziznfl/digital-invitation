@@ -231,7 +231,17 @@
 
         .elementor-43667 .elementor-element.elementor-element-a3049c9:not(.elementor-motion-effects-element-type-background),
         .elementor-43667 .elementor-element.elementor-element-a3049c9>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-            background-image: url(https://localhost/digital-invitation/assets/image/background/resepsi.jpg) !important;
+            background-image: url('<?php echo base_url(); ?>/assets/image/background/resepsi.jpg') !important;
+        }
+        
+        .elementor-43667 .elementor-element.elementor-element-115f25ad>.elementor-widget-container, 
+        .elementor-43667 .elementor-element.elementor-element-2a71c366>.elementor-widget-container {
+            margin: 0;
+        }
+
+        .elementor-43667 .elementor-element.elementor-element-115f25ad img,
+        .elementor-43667 .elementor-element.elementor-element-2a71c366 img {
+            width: 60%;
         }
 
         @media (max-width: 767px) {

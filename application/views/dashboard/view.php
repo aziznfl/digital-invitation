@@ -75,7 +75,7 @@
             </section>
             <section class="elementor-section elementor-top-section elementor-element elementor-element-5c75a737 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5c75a737" data-element_type="section" id="header">
                 <div class="elementor-container elementor-column-gap-default">
-                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7c3cfb00 elementor-invisible" data-id="7c3cfb00" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7c3cfb00 elementor-invisible" data-id="7c3cfb00" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
                         <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-bba141b elementor-widget elementor-widget-text-editor" data-id="bba141b" data-element_type="widget" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
@@ -101,15 +101,21 @@
                     </div>
                 </div>
             </section>
-            <section class="elementor-section elementor-top-section elementor-element elementor-element-a3049c9 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="a3049c9" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                <div class="elementor-container elementor-column-gap-default">
-                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-125a8d03" data-id="125a8d03" data-element_type="column">
-                        <div class="elementor-widget-wrap">
+            <section class="elementor-section elementor-top-section elementor-element elementor-element-4c3b4cb2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4c3b4cb2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element animated fadeInRight" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+                    <div style="margin: 20px;" class="elementor-element elementor-element-4cd9e213 elementor-widget elementor-widget-text-editor" data-id="4cd9e213" data-element_type="widget" data-widget_type="text-editor.default">
+                        <div class="elementor-widget-container">
+                            <p style="font-size: 2em; margin-bottom: 50px;">
+                                <b>﷽</b>
+                            </p>
+                            <p>
+                                <i>Assalaamu’alaikum Warahmatullahi Wabarakaatuh</i><br/><br/>
+                                Maha Suci Allah yang telah menciptakan makhluk-Nya berpasang-pasangan. 
+                                Ya Allah semoga ridho-Mu tercurah mengiringi pernikahan kami.
+                            </p>
                         </div>
                     </div>
                 </div>
-            </section>
-            <section class="elementor-section elementor-top-section elementor-element elementor-element-4c3b4cb2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4c3b4cb2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="elementor-container elementor-column-gap-default" style="margin-bottom: 20px;">
                     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-502bb702 elementor-invisible" data-id="502bb702" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
                         <div class="elementor-widget-wrap elementor-element-populated">
@@ -685,24 +691,6 @@
                                     </div>
                                 </div>
                             </section>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <section style="padding: 0;" class="elementor-section elementor-top-section elementor-element elementor-element-6cca2acc elementor-section-height-min-height elementor-section-items-bottom elementor-section-boxed elementor-section-height-default" data-id="6cca2acc" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                <div class="elementor-container elementor-column-gap-default">
-                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3e78e637" data-id="3e78e637" data-element_type="column">
-                        <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-72ac48ab elementor-widget elementor-widget-text-editor" data-id="72ac48ab" data-element_type="widget" data-widget_type="text-editor.default">
-                                <div class="elementor-widget-container">
-                                    <p>Best Regards,</p>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-1df7041b elementor-widget elementor-widget-text-editor" data-id="1df7041b" data-element_type="widget" data-widget_type="text-editor.default">
-                                <div class="elementor-widget-container">
-                                    <p>Dita &amp; Aziz</p>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
