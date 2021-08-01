@@ -124,17 +124,12 @@
             src: url(<?php echo base_url("assets/font/RegencyScript.ttf"); ?>) format('opentype');
             font-display: auto;
         }
-
-        @font-face {
-            font-family: DreamOrphans;
-            src: url(<?php echo base_url("assets/font/dreamorphans.ttf"); ?>) format('opentype');
-            font-display: auto;
-        }
     </style>
     <style>
         #open-invitation-custom {
-            font-size: 1.2em;
-            font-family: 'DreamOrphans';
+            font-size: 1em;
+            font-family: 'Prata', Sans-serif;
+            font-weight: 600;
             padding: 20px;
             background-color: #F6EFE3;
             color: #000;
@@ -256,7 +251,7 @@
 
         @media (max-width: 500px) {
             #open-invitation-custom {
-                font-size: 1em;
+                font-size: 0.8em;
                 padding: 15px 10px;
             }
 

@@ -62,41 +62,13 @@
                                             </div>
                                             <div class="elementor-element elementor-element-43806987 elementor-widget elementor-widget-text-editor" data-id="43806987" data-element_type="widget" data-widget_type="text-editor.default">
                                                 <div style="font-size: 1em;" class="elementor-widget-container text-secondary-color">
-                                                    <p>Minggu, 15 Agustus 2021</p>
+                                                    <p>15&nbsp;.&nbsp;08&nbsp;.&nbsp;2021</p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </section>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <section class="elementor-section elementor-top-section elementor-element elementor-element-5c75a737 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5c75a737" data-element_type="section" id="header">
-                <div class="elementor-container elementor-column-gap-default">
-                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7c3cfb00 elementor-invisible" data-id="7c3cfb00" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
-                        <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-bba141b elementor-widget elementor-widget-text-editor" data-id="bba141b" data-element_type="widget" data-widget_type="text-editor.default">
-                                <div class="elementor-widget-container">
-                                    <p>We Are Together</p>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-30eac55f elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="30eac55f" data-element_type="widget" data-widget_type="divider.default">
-                                <div class="elementor-widget-container">
-                                    <div class="elementor-divider">
-                                        <span class="elementor-divider-separator">
-                                        </span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-4cd9e213 elementor-widget elementor-widget-text-editor" data-id="4cd9e213" data-element_type="widget" data-widget_type="text-editor.default">
-                                <div class="elementor-widget-container">
-                                    <p>“Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan untukmu istri-istri dari jenismu sendiri, supaya kamu cenderung dan merasa tenteram kepadanya, dan dijadikan-Nya diantaramu rasa kasih dan sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang berfikir.”</p>
-                                    <p>&nbsp;</p>
-                                    <p><b>(QS Ar-Rum : 21)</b></p>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -193,6 +165,15 @@
                                     <p>Ibu Napsiyah</p>
                                 </div>
                             </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element animated fadeInRight" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+                    <div style="margin: 20px;" class="elementor-element elementor-element-4cd9e213 elementor-widget elementor-widget-text-editor" data-id="4cd9e213" data-element_type="widget" data-widget_type="text-editor.default">
+                        <div class="elementor-widget-container">
+                            <p>“Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan untukmu istri-istri dari jenismu sendiri, supaya kamu cenderung dan merasa tenteram kepadanya, dan dijadikan-Nya diantaramu rasa kasih dan sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang berfikir.”</p>
+                            <p>&nbsp;</p>
+                            <p><b>(QS Ar-Rum : 21)</b></p>
                         </div>
                     </div>
                 </div>
@@ -312,10 +293,10 @@
                             <div class="elementor-element elementor-element-4d33228a elementor-countdown--label-block elementor-invisible elementor-widget elementor-widget-countdown" data-id="4d33228a" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="countdown.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-countdown-wrapper" data-date="1628989200">
-                                        <div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-days">00</span> <span class="elementor-countdown-label">Days</span></div>
-                                        <div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-hours">01</span> <span class="elementor-countdown-label">Hours</span></div>
-                                        <div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-minutes">40</span> <span class="elementor-countdown-label">Minutes</span></div>
-                                        <div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-seconds">45</span> <span class="elementor-countdown-label">Seconds</span></div>
+                                        <div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-days">00</span> <span class="elementor-countdown-label">Hari</span></div>
+                                        <div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-hours">01</span> <span class="elementor-countdown-label">Jam</span></div>
+                                        <div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-minutes">40</span> <span class="elementor-countdown-label">Menit</span></div>
+                                        <div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-seconds">45</span> <span class="elementor-countdown-label">Detik</span></div>
                                     </div>
                                 </div>
                             </div>
