@@ -193,7 +193,7 @@
         $("html, body").animate({
             scrollTop: $("#cover-page").height()
         }, 1000);
-        // playAudio();
+        playAudio();
     });
 </script>
 
@@ -255,14 +255,27 @@
 </script>
 <script>
     var backSound = document.getElementById("myAudio");
+    var isAudioOn = false;
 
     function playAudio() {
         backSound.play();
+        isAudioOn = true;
+        $("#backsound-button span").html("<i class='fa fa-volume-up'></i>");
     }
 
     function pauseAudio() {
         backSound.pause();
+        isAudioOn = false;
+        $("#backsound-button span").html("<i class='fa fa-volume-off'></i>");
     }
+
+    $("#backsound-button").click(function() {
+        if(isAudioOn) {
+            pauseAudio();
+        } else {
+            playAudio();
+        }
+    });
 </script>
 
 </body>

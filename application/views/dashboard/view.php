@@ -74,17 +74,21 @@
                 </div>
             </section>
             <section class="elementor-section elementor-top-section elementor-element elementor-element-4c3b4cb2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4c3b4cb2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element animated fadeInRight" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
-                    <div style="margin: 20px;" class="elementor-element elementor-element-4cd9e213 elementor-widget elementor-widget-text-editor" data-id="4cd9e213" data-element_type="widget" data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container">
-                            <p style="font-size: 2em; margin-bottom: 50px;">
-                                <b>﷽</b>
-                            </p>
-                            <p>
-                                <i>Assalaamu’alaikum Warahmatullahi Wabarakaatuh.</i><br/><br/>
-                                Maha Suci Allah yang telah menciptakan makhluk-Nya berpasang-pasangan. 
-                                Ya Allah semoga ridho-Mu tercurah mengiringi pernikahan kami.
-                            </p>
+                <div class="elementor-container elementor-column-gap-default">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element animated fadeInRight" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+                            <div style="margin: 0 auto; padding: 16px;" class="elementor-element elementor-element-4cd9e213 elementor-widget elementor-widget-text-editor" data-id="4cd9e213" data-element_type="widget" data-widget_type="text-editor.default">
+                                <div class="elementor-widget-container">
+                                    <p style="font-size: 2em; margin-bottom: 50px;">
+                                        <b>﷽</b>
+                                    </p>
+                                    <p>
+                                        <i>Assalaamu’alaikum Warahmatullahi Wabarakaatuh.</i><br/><br/>
+                                        Maha Suci Allah yang telah menciptakan makhluk-Nya berpasang-pasangan. 
+                                        Ya Allah semoga ridho-Mu tercurah mengiringi pernikahan kami.
+                                    </p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -168,12 +172,16 @@
                         </div>
                     </div>
                 </div>
-                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element animated fadeInRight" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
-                    <div style="margin: 20px;" class="elementor-element elementor-element-4cd9e213 elementor-widget elementor-widget-text-editor" data-id="4cd9e213" data-element_type="widget" data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container">
-                            <p>“Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan untukmu istri-istri dari jenismu sendiri, supaya kamu cenderung dan merasa tenteram kepadanya, dan dijadikan-Nya diantaramu rasa kasih dan sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang berfikir.”</p>
-                            <p>&nbsp;</p>
-                            <p><b>(QS Ar-Rum : 21)</b></p>
+                <div class="elementor-container elementor-column-gap-default">
+                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element animated fadeInRight" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div style="margin: 20px;" class="elementor-element elementor-element-4cd9e213 elementor-widget elementor-widget-text-editor" data-id="4cd9e213" data-element_type="widget" data-widget_type="text-editor.default">
+                                <div class="elementor-widget-container">
+                                    <p>“Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan untukmu istri-istri dari jenismu sendiri, supaya kamu cenderung dan merasa tenteram kepadanya, dan dijadikan-Nya diantaramu rasa kasih dan sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang berfikir.”</p>
+                                    <p>&nbsp;</p>
+                                    <p><b>(QS Ar-Rum : 21)</b></p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -685,6 +693,6 @@
     </div>
 
     <!-- FLoating Action Button -->
-    <a style="display: none;" id="backsound-button" class="float">
-        <i class="content-float">Mute</i>
+    <a href="javascript: void(0);" id="backsound-button" class="float">
+        <span class="content-float"><i class="fa fa-volume-off"></i></span>
     </a>

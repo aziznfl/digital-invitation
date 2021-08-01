@@ -49,6 +49,7 @@
     <link rel="icon" href="<?php echo base_url(); ?>assets/image/favicon/192x192.png" sizes="192x192">
     <link rel="apple-touch-icon" href="<?php echo base_url(); ?>assets/image/favicon/180x180.png">
 
+    <link rel="stylesheet" id="font-awesome-4.7" href="<?php echo base_url(); ?>assets/FontAwesome/css/font-awesome.min.css" media="all">
     <link rel="stylesheet" id="allow-webp-image-css" href="https://our.possiblewedding.com/wp-content/plugins/allow-webp-image/public/css/allow-webp-image-public.css?ver=1.0.0" media="all">
     <link rel="stylesheet" id="twentynineteen-style-css" href="https://our.possiblewedding.com/wp-content/themes/twentynineteen/style.css?ver=2.0" media="all">
     <link rel="stylesheet" id="elementor-animations-css" href="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.2.3" media="all">
@@ -162,12 +163,14 @@
         }
 
         .content-float {
+            color: #f0b95c;
             position: absolute;
             margin: 0;
             left: 50%;
             top: 50%;
             -ms-transform: translateY(-50%) translateX(-50%);
             transform: translateY(-50%) translateX(-50%);
+            font-size: 1.2em;
         }
 
         .cover-main-content {
@@ -195,7 +198,7 @@
         }
 
         .main-content-background-section {
-            background-image: url("https://localhost/digital-invitation/assets/image/background/resepsi.jpg");
+            background-image: url("<?php echo base_url("assets/image/background/resepsi.jpg");?>");
             -webkit-background-size: 100%;
             -moz-background-size: 100%;
             -o-background-size: 100%;
@@ -236,7 +239,7 @@
 
         .elementor-43667 .elementor-element.elementor-element-115f25ad img,
         .elementor-43667 .elementor-element.elementor-element-2a71c366 img {
-            width: 60%;
+            width: 50%;
         }
 
         .elementor-43667 .elementor-element.elementor-element-4038feac,
