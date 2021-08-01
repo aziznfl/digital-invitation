@@ -287,7 +287,7 @@
                             </div>
                             <div class="elementor-element elementor-element-56ea325 elementor-widget elementor-widget-text-editor" data-id="56ea325" data-element_type="widget" data-widget_type="text-editor.default">
 								<div class="elementor-widget-container">
-									<p><em><strong>Tanpa mengurangi rasa hormat, mengingat situasi dan kondisi saat ini, acara ini hanya dapat dihadiri secara langsung oleh keluarga dan kerabat terdekat dengan jumlah terbatas.</strong></em></p>
+									<p><em><strong>Tanpa mengurangi rasa hormat, mengingat situasi dan kondisi saat ini, acara ini hanya dapat dihadiri secara langsung oleh keluarga, kerabat dan sahabat terdekat dengan jumlah terbatas.</strong></em></p>
 								</div>
 							</div>
                             <div style="margin-top: 10px;" class="elementor-element elementor-element-56ea325 elementor-widget elementor-widget-text-editor" data-id="56ea325" data-element_type="widget" data-widget_type="text-editor.default">
