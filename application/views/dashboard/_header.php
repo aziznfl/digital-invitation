@@ -153,7 +153,7 @@
         }
 
         .cover-main-content {
-            font-family: TextMainContent2;
+            font-family: 'TextMainContent2';
             font-size: 140px;
             font-weight: 400;
             line-height: 1.2em;
@@ -163,7 +163,6 @@
 
         .nama-tamu {
             color: #FFF;
-            font-family: NonBreakingSpaceOverride;
             font-size: 1.2em;
             text-align: center;
             line-height: 1.5em;
@@ -190,7 +189,7 @@
 
         @media (max-width: 767px) {
             .cover-main-content {
-                font-size: 48px;
+                font-size: 100px;
             }
         }
     </style>
