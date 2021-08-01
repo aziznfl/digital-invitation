@@ -11,36 +11,36 @@
     <meta property="og:type" content="article">
     <meta property="og:title" content="The Wedding of Dita &amp; Aziz">
     <meta property="og:description" content="The Wedding of Dita &amp; Aziz">
-	<meta property="og:url" content="<?php echo base_url(); ?>">
-	<meta property="og:site_name" content="Digital Invitation">
+    <meta property="og:url" content="<?php echo base_url(); ?>">
+    <meta property="og:site_name" content="Digital Invitation">
     <script type="application/ld+json" class="yoast-schema-graph">
-		{
-			"@context": "https://schema.org",
-			"@graph": [{
-				"@type": "WebSite",
-				"name": "Diigtal Invitation",
-				"description": "Best Digital Invitation",
-				"potentialAction": [{
-					"@type": "SearchAction",
-					"query-input": "required name=search_term_string"
-				}],
-				"inLanguage": "en-US"
-			}, {
-				"@type": "ImageObject",
-				"inLanguage": "en-US",
-				"width": 400,
-				"height": 600
-			}, {
-				"@type": "WebPage",
-				"name": "The Wedding of Dita & Aziz",
-				"inLanguage": "en-US",
-				"potentialAction": []
-			}, {
-				"@type": "BreadcrumbList",
-				"itemListElement": []
-			}]
-		}
-	</script>
+        {
+            "@context": "https://schema.org",
+            "@graph": [{
+                "@type": "WebSite",
+                "name": "Diigtal Invitation",
+                "description": "Best Digital Invitation",
+                "potentialAction": [{
+                    "@type": "SearchAction",
+                    "query-input": "required name=search_term_string"
+                }],
+                "inLanguage": "en-US"
+            }, {
+                "@type": "ImageObject",
+                "inLanguage": "en-US",
+                "width": 400,
+                "height": 600
+            }, {
+                "@type": "WebPage",
+                "name": "The Wedding of Dita & Aziz",
+                "inLanguage": "en-US",
+                "potentialAction": []
+            }, {
+                "@type": "BreadcrumbList",
+                "itemListElement": []
+            }]
+        }
+    </script>
 
     <link rel="dns-prefetch" href="//www.googletagmanager.com">
     <link rel="dns-prefetch" href="//s.w.org">
@@ -177,13 +177,13 @@
 
         .cover-content-background-section {
             background-image: url(https://localhost/digital-invitation/assets/image/background/cover.jpg);
-            -webkit-background-size: 100%; 
-            -moz-background-size: 100%; 
-            -o-background-size: 100%; 
-            background-size: 100%; 
-            -webkit-background-size: cover; 
-            -moz-background-size: cover; 
-            -o-background-size: cover; 
+            -webkit-background-size: 100%;
+            -moz-background-size: 100%;
+            -o-background-size: 100%;
+            background-size: 100%;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
             background-size: cover;
             background-position: center center;
             box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 70%);
@@ -207,13 +207,13 @@
 
         .main-content-background-section {
             background-image: url(https://localhost/digital-invitation/assets/image/background/resepsi.jpg);
-            -webkit-background-size: 100%; 
-            -moz-background-size: 100%; 
-            -o-background-size: 100%; 
-            background-size: 100%; 
-            -webkit-background-size: cover; 
-            -moz-background-size: cover; 
-            -o-background-size: cover; 
+            -webkit-background-size: 100%;
+            -moz-background-size: 100%;
+            -o-background-size: 100%;
+            background-size: 100%;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
             background-size: cover;
             background-position: center center;
             box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 50%);
@@ -235,6 +235,11 @@
             margin-bottom: 5px;
         }
 
+        .elementor-43667 .elementor-element.elementor-element-a3049c9:not(.elementor-motion-effects-element-type-background),
+        .elementor-43667 .elementor-element.elementor-element-a3049c9>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+            background-image: url(https://localhost/digital-invitation/assets/image/background/resepsi.jpg) !important;
+        }
+        
         @media (max-width: 767px) {
             .cover-main-content {
                 font-size: 100px;
@@ -250,6 +255,7 @@
                 font-size: 1em;
                 padding: 15px 10px;
             }
+
             .cover-main-content {
                 font-size: 70px;
             }
