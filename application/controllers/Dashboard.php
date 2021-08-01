@@ -14,6 +14,7 @@ class Dashboard extends MY_Controller {
 
 		$this->load->view('dashboard/_header', $result);
 		$this->load->view('dashboard/view');
+		$this->load->view('dashboard/_footer');
 	}
 
     public function impression() {

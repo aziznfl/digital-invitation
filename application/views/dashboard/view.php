@@ -26,10 +26,10 @@
                                             <div class="elementor-element elementor-element-43495e1e nama-tamu elementor-widget elementor-widget-text-editor" data-id="43495e1e" data-element_type="widget" data-widget_type="text-editor.default">
                                                 <center><b><i>Nama Tamu</i></b></center>
                                             </div>
-                                            <div class="elementor-element elementor-element-dd07a88 elementor-align-center elementor-widget elementor-widget-button" data-id="dd07a88" data-element_type="widget" data-widget_type="button.default">
+                                            <div style="margin-top: 30px;" class="elementor-element elementor-element-dd07a88 elementor-align-center elementor-widget elementor-widget-button" data-id="dd07a88" data-element_type="widget" data-widget_type="button.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-button-wrapper">
-                                                        <a id="open-invitation-custom" style="border-radius: 8px;" href="javascript: void(0);" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+                                                        <a id="open-invitation-custom" href="javascript: void(0);" class="border-default elementor-button-link elementor-button elementor-size-xs" role="button">
                                                             <span class="elementor-button-content-wrapper">
                                                                 <span class="elementor-button-icon elementor-align-icon-left">
                                                                     <i aria-hidden="true" class="fas fa-envelope"></i> </span>
@@ -43,7 +43,7 @@
                                     </div>
                                 </div>
                             </section>
-                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-11160e97 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="11160e97" data-element_type="section">
+                            <section style="top: 30%;" class="elementor-section elementor-inner-section elementor-element elementor-element-11160e97 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="11160e97" data-element_type="section">
                                 <div class="elementor-container elementor-column-gap-default">
                                     <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-1ea4fef" data-id="1ea4fef" data-element_type="column">
                                         <div class="elementor-widget-wrap elementor-element-populated">
@@ -98,7 +98,7 @@
                             </div>
                             <div class="elementor-element elementor-element-4cd9e213 elementor-widget elementor-widget-text-editor" data-id="4cd9e213" data-element_type="widget" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
-                                    <p>“Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan untukmu isteri-isteri dari jenismu sendiri, supaya kamu cenderung dan merasa tenteram kepadanya, dan dijadikan-Nya diantaramu rasa kasih dan sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang berfikir.”</p>
+                                    <p>“Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan untukmu istri-istri dari jenismu sendiri, supaya kamu cenderung dan merasa tenteram kepadanya, dan dijadikan-Nya diantaramu rasa kasih dan sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang berfikir.”</p>
                                     <p>&nbsp;</p>
                                     <p><b>(QS Ar-Rum : 21)</b></p>
                                 </div>
@@ -237,26 +237,66 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="elementor-element elementor-element-2a0a990 elementor-headline--style-highlight elementor-widget elementor-widget-animated-headline" data-id="2a0a990" data-element_type="widget" data-settings="{&quot;marker&quot;:&quot;underline_zigzag&quot;,&quot;highlighted_text&quot;:&quot;Akad Nikah&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}" data-widget_type="animated-headline.default">
-                                <div class="elementor-widget-container">
-                                    <h3 class="elementor-headline">
-                                        <span class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
-                                            <span class="elementor-headline-dynamic-text elementor-headline-text-active">Akad Nikah</span>
-                                        </span>
-                                    </h3>
+                            <div>
+                                <div class="elementor-container elementor-column-gap-default">
+                                    <div style="flex-direction: column;" class="elementor-column elementor-col-50 elementor-top-column elementor-element" data-element_type="column">
+                                        <div class="elementor-wrap elementor-element-populated">
+                                            <div class="elementor-widget-wrap">
+                                                <div class="elementor-element elementor-element-2a0a990 elementor-headline--style-highlight elementor-widget elementor-widget-animated-headline" data-id="2a0a990" data-element_type="widget" data-settings="{&quot;marker&quot;:&quot;underline_zigzag&quot;,&quot;highlighted_text&quot;:&quot;Akad Nikah&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}" data-widget_type="animated-headline.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h3 class="elementor-headline">
+                                                            <span class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
+                                                                <span class="elementor-headline-dynamic-text elementor-headline-text-active">Akad Nikah</span>
+                                                            </span>
+                                                        </h3>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-6e0de914 elementor-widget elementor-widget-text-editor" data-id="6e0de914" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <p><b>Minggu, 15 Agustus 2021</b></p>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-aa271e5 elementor-widget elementor-widget-text-editor" data-id="aa271e5" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <p>08.00 s/d 09.00 WIB</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div style="flex-direction: column;" class="elementor-column elementor-col-50 elementor-top-column elementor-element" data-element_type="column">
+                                        <div class="elementor-wrap elementor-element-populated">
+                                            <div class="elementor-widget-wrap">
+                                                <div class="elementor-element elementor-element-2a0a990 elementor-headline--style-highlight elementor-widget elementor-widget-animated-headline" data-id="2a0a990" data-element_type="widget" data-settings="{&quot;marker&quot;:&quot;underline_zigzag&quot;,&quot;highlighted_text&quot;:&quot;Akad Nikah&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}" data-widget_type="animated-headline.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h3 class="elementor-headline">
+                                                            <span class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
+                                                                <span class="elementor-headline-dynamic-text elementor-headline-text-active">Resepsi</span>
+                                                            </span>
+                                                        </h3>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-6e0de914 elementor-widget elementor-widget-text-editor" data-id="6e0de914" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <p><b>Minggu, 15 Agustus 2021</b></p>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-aa271e5 elementor-widget elementor-widget-text-editor" data-id="aa271e5" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <p>Sesi 1: 11.00 s/d 12.30 WIB</p>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-aa271e5 elementor-widget elementor-widget-text-editor" data-id="aa271e5" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <p>Sesi 2: 12.30 s/d 14.00 WIB</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
-                            <div class="elementor-element elementor-element-6e0de914 elementor-widget elementor-widget-text-editor" data-id="6e0de914" data-element_type="widget" data-widget_type="text-editor.default">
-                                <div class="elementor-widget-container">
-                                    <p><b>Minggu, 15 Agustus 2021</b></p>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-aa271e5 elementor-widget elementor-widget-text-editor" data-id="aa271e5" data-element_type="widget" data-widget_type="text-editor.default">
-                                <div class="elementor-widget-container">
-                                    <p>08.00 s/d 09.00 WIB</p>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-47c2d111 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="47c2d111" data-element_type="widget" data-widget_type="divider.default">
+                            <div style="margin: 16px 0 16px 0;" class="elementor-element elementor-element-47c2d111 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="47c2d111" data-element_type="widget" data-widget_type="divider.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-divider">
                                         <span class="elementor-divider-separator">
@@ -264,11 +304,11 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="elementor-element elementor-element-56ea325 elementor-widget elementor-widget-text-editor" data-id="56ea325" data-element_type="widget" data-widget_type="text-editor.default">
-                                <div class="elementor-widget-container">
-                                    <p><em><strong>Tanpa mengurangi rasa hormat, mengingat situasi dan kondisi saat ini kami memohon maaf karena harus melaksanakan acara pernikahan ini secara tertutup</strong></em></p>
-                                </div>
-                            </div>
+                            <div style="margin: 0;" class="elementor-element elementor-element-56ea325 elementor-widget elementor-widget-text-editor" data-id="56ea325" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-widget-container">
+									<p><em>Hitung Mundur Acara:</em></p>
+								</div>
+							</div>
                             <div class="elementor-element elementor-element-4d33228a elementor-countdown--label-block elementor-invisible elementor-widget elementor-widget-countdown" data-id="4d33228a" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="countdown.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-countdown-wrapper" data-date="1628989200">
@@ -280,6 +320,26 @@
                                 </div>
                             </div>
                         </div>
+                    </div>
+                </div>
+            </section>
+            <section class="elementor-section elementor-top-section elementor-element elementor-element-7f1870de elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7f1870de" data-element_type="section">
+                <div class="elementor-container elementor-column-gap-default">
+                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-270d202b" data-id="270d202b" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-27e0b6a0 elementor-widget elementor-widget-text-editor" data-id="27e0b6a0" data-element_type="widget" data-widget_type="text-editor.default">
+                                <div class="elementor-widget-container">
+                                    <p><b>Lokasi Acara</b></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="elementor-section elementor-top-section elementor-element elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-element animated fadeInLeft" data-element_type="section" data-settings="{'background_background':'classic','animation':'fadeInLeft'}">
+                <div class="elementor-container elementor-column-gap-default">
+                    <div style="padding: 16px; width: 100%;">
+                        <iframe class="border-default" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.6332186437803!2d108.15090051501464!3d-7.168329094824314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f4f88d80da5f9%3A0x33c9e1c87c6b09da!2sJati%20Mandiri%20Hall%20Center!5e0!3m2!1sen!2sid!4v1627736437386!5m2!1sen!2sid" width="600" height="450" allowfullscreen="" loading="lazy"></iframe>
                     </div>
                 </div>
             </section>
@@ -635,9 +695,8 @@
                     </div>
                 </div>
             </section>
-            <section class="elementor-section elementor-top-section elementor-element elementor-element-6cca2acc elementor-section-height-min-height elementor-section-items-bottom elementor-section-boxed elementor-section-height-default" data-id="6cca2acc" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+            <section style="padding: 0;" class="elementor-section elementor-top-section elementor-element elementor-element-6cca2acc elementor-section-height-min-height elementor-section-items-bottom elementor-section-boxed elementor-section-height-default" data-id="6cca2acc" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="elementor-container elementor-column-gap-default">
-                    <iframe style="border-radius: 4px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.6332186437803!2d108.15090051501464!3d-7.168329094824314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f4f88d80da5f9%3A0x33c9e1c87c6b09da!2sJati%20Mandiri%20Hall%20Center!5e0!3m2!1sen!2sid!4v1627736437386!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3e78e637" data-id="3e78e637" data-element_type="column">
                         <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-72ac48ab elementor-widget elementor-widget-text-editor" data-id="72ac48ab" data-element_type="widget" data-widget_type="text-editor.default">
@@ -657,277 +716,7 @@
         </div>
     </div>
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" id="jquery-core-js"></script>
-
-    <script src="https://our.possiblewedding.com/wp-includes/js/wp-embed.min.js?ver=5.7.2" id="wp-embed-js"></script>
-    <script src="https://our.possiblewedding.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.2.2" id="elementor-pro-webpack-runtime-js"></script>
-    <script src="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.2.3" id="elementor-webpack-runtime-js"></script>
-    <script src="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.2.3" id="elementor-frontend-modules-js"></script>
-    <script src="https://our.possiblewedding.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.2.2" id="elementor-sticky-js"></script>
-    <script id="elementor-pro-frontend-js-before">
-        var ElementorProFrontendConfig = {
-            "ajaxurl": "https:\/\/our.possiblewedding.com\/wp-admin\/admin-ajax.php",
-            "nonce": "ca9fac49b1",
-            "urls": {
-                "assets": "https:\/\/our.possiblewedding.com\/wp-content\/plugins\/elementor-pro\/assets\/"
-            },
-            "i18n": {
-                "toc_no_headings_found": "No headings were found on this page."
-            },
-            "shareButtonsNetworks": {
-                "facebook": {
-                    "title": "Facebook",
-                    "has_counter": true
-                },
-                "twitter": {
-                    "title": "Twitter"
-                },
-                "google": {
-                    "title": "Google+",
-                    "has_counter": true
-                },
-                "linkedin": {
-                    "title": "LinkedIn",
-                    "has_counter": true
-                },
-                "pinterest": {
-                    "title": "Pinterest",
-                    "has_counter": true
-                },
-                "reddit": {
-                    "title": "Reddit",
-                    "has_counter": true
-                },
-                "vk": {
-                    "title": "VK",
-                    "has_counter": true
-                },
-                "odnoklassniki": {
-                    "title": "OK",
-                    "has_counter": true
-                },
-                "tumblr": {
-                    "title": "Tumblr"
-                },
-                "digg": {
-                    "title": "Digg"
-                },
-                "skype": {
-                    "title": "Skype"
-                },
-                "stumbleupon": {
-                    "title": "StumbleUpon",
-                    "has_counter": true
-                },
-                "mix": {
-                    "title": "Mix"
-                },
-                "telegram": {
-                    "title": "Telegram"
-                },
-                "pocket": {
-                    "title": "Pocket",
-                    "has_counter": true
-                },
-                "xing": {
-                    "title": "XING",
-                    "has_counter": true
-                },
-                "whatsapp": {
-                    "title": "WhatsApp"
-                },
-                "email": {
-                    "title": "Email"
-                },
-                "print": {
-                    "title": "Print"
-                }
-            },
-            "facebook_sdk": {
-                "lang": "en_US",
-                "app_id": ""
-            },
-            "lottie": {
-                "defaultAnimationUrl": "https:\/\/our.possiblewedding.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"
-            }
-        };
-    </script>
-    <script src="https://our.possiblewedding.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.2.2" id="elementor-pro-frontend-js"></script>
-    <script src="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
-    <script src="https://our.possiblewedding.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1" id="jquery-ui-core-js"></script>
-    <script src="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6" id="swiper-js"></script>
-    <script id="elementor-frontend-js-before">
-        var elementorFrontendConfig = {
-            "environmentMode": {
-                "edit": false,
-                "wpPreview": false,
-                "isScriptDebug": false
-            },
-            "is_rtl": false,
-            "breakpoints": {
-                "xs": 0,
-                "sm": 480,
-                "md": 768,
-                "lg": 1025,
-                "xl": 1440,
-                "xxl": 1600
-            },
-            "responsive": {
-                "breakpoints": {
-                    "mobile": {
-                        "label": "Mobile",
-                        "value": 767,
-                        "direction": "max",
-                        "is_enabled": true
-                    },
-                    "mobile_extra": {
-                        "label": "Mobile Extra",
-                        "value": 880,
-                        "direction": "max",
-                        "is_enabled": false
-                    },
-                    "tablet": {
-                        "label": "Tablet",
-                        "value": 1024,
-                        "direction": "max",
-                        "is_enabled": true
-                    },
-                    "tablet_extra": {
-                        "label": "Tablet Extra",
-                        "value": 1365,
-                        "direction": "max",
-                        "is_enabled": false
-                    },
-                    "laptop": {
-                        "label": "Laptop",
-                        "value": 1620,
-                        "direction": "max",
-                        "is_enabled": false
-                    },
-                    "widescreen": {
-                        "label": "Widescreen",
-                        "value": 2400,
-                        "direction": "min",
-                        "is_enabled": false
-                    }
-                }
-            },
-            "version": "3.2.3",
-            "is_static": false,
-            "experimentalFeatures": {
-                "e_dom_optimization": true,
-                "a11y_improvements": true,
-                "landing-pages": true,
-                "form-submissions": true
-            },
-            "urls": {
-                "assets": "https:\/\/our.possiblewedding.com\/wp-content\/plugins\/elementor\/assets\/"
-            },
-            "settings": {
-                "page": [],
-                "editorPreferences": []
-            },
-            "kit": {
-                "active_breakpoints": ["viewport_mobile", "viewport_tablet"],
-                "global_image_lightbox": "yes",
-                "lightbox_enable_counter": "yes",
-                "lightbox_enable_fullscreen": "yes",
-                "lightbox_enable_zoom": "yes",
-                "lightbox_enable_share": "yes",
-                "lightbox_title_src": "title",
-                "lightbox_description_src": "description"
-            }
-        };
-    </script>
-    <script src="https://our.possiblewedding.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.2.3" id="elementor-frontend-js"></script><span id="elementor-device-mode" class="elementor-screen-only"></span>
-    <script src="https://our.possiblewedding.com/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.2.2" id="pro-preloaded-elements-handlers-js"></script>
-    <script>
-        /(trident|msie)/i.test(navigator.userAgent) && document.getElementById && window.addEventListener && window.addEventListener("hashchange", function() {
-            var t, e = location.hash.substring(1);
-            /^[A-z0-9_-]+$/.test(e) && (t = document.getElementById(e)) && (/^(?:a|select|input|button|textarea)$/i.test(t.tagName) || (t.tabIndex = -1), t.focus())
-        }, !1);
-    </script>
-
-    <script>
-        $("#open-invitation-custom").click(function() {
-            $("html, body").animate({
-                scrollTop: $("#header").offset().top
-            }, 1000);
-            playAudio();
-        });
-    </script>
-
-    <script>
-        $("#impression-form").submit(function() {
-            var name = $("#form-field-name").val();
-            var messages = encodeURI($("#form-field-message").val());
-
-            loadingButton("impression-form-button", true);
-
-            $.ajax({
-                url: "<?php echo base_url(); ?>" + "dashboard/impression",
-                method: 'GET',
-                data: {
-                    'name': name,
-                    'messages': messages
-                },
-                success: function(result) {
-                    if (result == 1) {
-                        successAddMessages(name, messages);
-                    } else {
-                        console.log("success" + result);
-                    }
-                    loadingButton("impression-form-button", false);
-                },
-                failed: function(result) {
-                    console.log("failed" + result);
-                    loadingButton("impression-form-button", false);
-                }
-            });
-
-            return false;
-        });
-
-        function loadingButton(id, isLoading) {
-            if (isLoading) {
-                $("#" + id).attr('disabled', 'disabled');
-                $("#" + id).html("<i>Loading...</i>");
-            } else {
-                $("#" + id).removeAttr("disabled");
-                $("#" + id).html("Kirim");
-            }
-        }
-
-        function successAddMessages(name, messages) {
-            alert("Pesan anda berhasil dikirim\nTerima kasih.");
-
-            $("#form-field-name").val("");
-            $("#form-field-message").val("");
-
-            $("ul#messages-list").append(
-                "<li style='line-height: 17px; margin-top: 8px;'><span><b>" + name + "</b><br/>" + decodeURI(messages) + "</span></li>"
-            );
-
-            $('html, body').animate({
-                scrollTop: $("ul#messages-list").offset().top - 20
-            }, 2000);
-            $("ul#messages-list").animate({
-                scrollTop: $("ul#messages-list").offset().top
-            }, 2000);
-        }
-    </script>
-    <script>
-        var backSound = document.getElementById("myAudio");
-
-        function playAudio() {
-            backSound.play();
-        }
-
-        function pauseAudio() {
-            backSound.pause();
-        }
-    </script>
-
-</body>
-
-</html>
+    <!-- FLoating Action Button -->
+    <a style="display: none;" id="backsound-button" class="float">
+        <i class="content-float">Mute</i>
+    </a>

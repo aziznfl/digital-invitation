@@ -83,6 +83,41 @@
             font-display: auto;
         }
     </style>
+    <style>
+        .border-default {
+            border-radius: 8px !important;
+        }
+        .float {
+            position: fixed;
+            width: 60px;
+            height: 60px;
+            bottom: 150px;
+            left: 20px;
+            background-color: #FFF;
+            border-radius: 50px;
+            text-align: center;
+            border: 2px solid #afafaf;
+            /* box-shadow: 2px 2px 3px #f0f0f0; */
+            z-index: 9999;
+        }
+        .content-float {
+            position: absolute;
+            margin: 0;
+            left: 50%;
+            top: 50%;
+            -ms-transform: translateY(-50%) translateX(-50%);
+            transform: translateY(-50%) translateX(-50%);
+        }
+        .elementor-widget-countdown .elementor-countdown-item {
+            padding: 5px 0 20px 0;
+        }
+        .elementor-43667 .elementor-element.elementor-element-47c2d111 .elementor-divider-separator {
+            width: 175px;
+        }
+        .elementor-widget:not(:last-child) {
+            margin-bottom: 5px;
+        }
+    </style>
 
     <script>
         if (document.location.protocol != "https:") {
