@@ -681,9 +681,9 @@
                     </div>
                 </div>
             </section>
-            <section style="padding: 0;" class="elementor-section elementor-top-section elementor-element elementor-element-7f1870de elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7f1870de" data-element_type="section">
-                <div style="flex-direction: column;" class="elementor-container elementor-column-gap-default">
-                    <div style="background-color: #F6EFE3;" class="elementor-column elementor-col-100 elementor-top-column elementor-element animated fadeInLeft" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+            <section style="padding: 0; background-color: #F6EFE3;" class="elementor-section elementor-top-section elementor-element elementor-element-7f1870de elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7f1870de" data-element_type="section">
+                <div class="elementor-container elementor-column-gap-default">
+                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element animated fadeInLeft" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
                         <div class="elementor-widget-wrap elementor-element-populated">
                             <div style="margin: 30px 20px 20px 20px;" class="elementor-element elementor-element-4cd9e213 elementor-widget elementor-widget-text-editor" data-id="4cd9e213" data-element_type="widget" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
@@ -713,7 +713,11 @@
                             </div>
                         </div>
                     </div>
-                    <div style="background-color: #cab592;" class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3e78e637" data-id="3e78e637" data-element_type="column">
+                </div>
+            </section>
+            <section style="padding: 0; background-color: #cab592;" class="elementor-section elementor-top-section elementor-element elementor-element-7f1870de elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7f1870de" data-element_type="section">
+                <div class="elementor-container elementor-column-gap-default">
+                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3e78e637" data-id="3e78e637" data-element_type="column">
 						<div class="elementor-widget-wrap elementor-element-populated">
                             <div style="font-family: 'Baskervville'; color: #FFF; text-shadow: 2px 2px 4px #000000;" class="elementor-element elementor-element-4cd9e213 elementor-widget elementor-widget-text-editor" data-id="4cd9e213" data-element_type="widget" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
@@ -727,6 +731,13 @@
 									<p>Dita &amp; Aziz</p>
 								</div>
 							</div>
+                            <div style="font-family: 'Baskervville'; color: #FFF; text-shadow: 2px 2px 4px #000000; margin-top: 20px; font-size: 0.8em;" class="elementor-element elementor-element-4cd9e213 elementor-widget elementor-widget-text-editor" data-id="4cd9e213" data-element_type="widget" data-widget_type="text-editor.default">
+                                <div class="elementor-widget-container">
+                                    <p>
+                                        Created by: <a style="color: #fff;text-decoration: underline;" target="_blank" href="https://menujupelaminan.com">MenujuPelaminan.com</a>
+                                    </p>
+                                </div>
+                            </div>
 						</div>
 					</div>
                 </div>

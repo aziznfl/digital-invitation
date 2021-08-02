@@ -167,7 +167,7 @@
             background-color: #FFF;
             border-radius: 50px;
             text-align: center;
-            border: 2px solid #afafaf;
+            border: 2px solid #c7c4c4;
             z-index: 9999;
         }
 
