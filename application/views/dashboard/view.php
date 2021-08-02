@@ -30,7 +30,7 @@
                                             <div style="margin-top: 30px;" class="elementor-element elementor-element-dd07a88 elementor-align-center elementor-widget elementor-widget-button" data-id="dd07a88" data-element_type="widget" data-widget_type="button.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-button-wrapper">
-                                                        <a id="open-invitation-custom" href="javascript: void(0);" class="border-default elementor-button-link elementor-button elementor-size-xs" role="button">
+                                                        <a id="open-invitation-custom" href="javascript: void(0);" class="button-bordered-custom elementor-button-link elementor-button elementor-size-xs" role="button">
                                                             <span class="elementor-button-content-wrapper">
                                                                 <span class="elementor-button-text">Buka Undangan</span>
                                                             </span>
@@ -113,8 +113,7 @@
                             <div class="elementor-element elementor-element-4e14a35c elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="4e14a35c" data-element_type="widget" data-widget_type="divider.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-divider">
-                                        <span class="elementor-divider-separator">
-                                        </span>
+                                        <span class="elementor-divider-separator"></span>
                                     </div>
                                 </div>
                             </div>
@@ -152,8 +151,7 @@
                             <div class="elementor-element elementor-element-20c16b91 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="20c16b91" data-element_type="widget" data-widget_type="divider.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-divider">
-                                        <span class="elementor-divider-separator">
-                                        </span>
+                                        <span class="elementor-divider-separator"></span>
                                     </div>
                                 </div>
                             </div>
@@ -169,7 +167,7 @@
                     </div>
                 </div>
                 <div class="elementor-container elementor-column-gap-default">
-                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element animated fadeInRight" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element animated fadeInLeft" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
                         <div class="elementor-widget-wrap elementor-element-populated">
                             <div style="margin: 20px;" class="elementor-element elementor-element-4cd9e213 elementor-widget elementor-widget-text-editor" data-id="4cd9e213" data-element_type="widget" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
@@ -284,8 +282,7 @@
                             <div style="margin: 16px 0 16px 0;" class="elementor-element elementor-element-47c2d111 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="47c2d111" data-element_type="widget" data-widget_type="divider.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-divider">
-                                        <span class="elementor-divider-separator">
-                                        </span>
+                                        <span class="elementor-divider-separator"></span>
                                     </div>
                                 </div>
                             </div>
@@ -349,8 +346,7 @@
                             <div class="elementor-element elementor-element-55461c52 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="55461c52" data-element_type="widget" data-widget_type="divider.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-divider">
-                                        <span class="elementor-divider-separator">
-                                        </span>
+                                        <span class="elementor-divider-separator"></span>
                                     </div>
                                 </div>
                             </div>
@@ -683,6 +679,56 @@
                             </section>
                         </div>
                     </div>
+                </div>
+            </section>
+            <section style="padding: 0;" class="elementor-section elementor-top-section elementor-element elementor-element-7f1870de elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7f1870de" data-element_type="section">
+                <div style="flex-direction: column;" class="elementor-container elementor-column-gap-default">
+                    <div style="background-color: #F6EFE3;" class="elementor-column elementor-col-100 elementor-top-column elementor-element animated fadeInLeft" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div style="margin: 30px 20px 20px 20px;" class="elementor-element elementor-element-4cd9e213 elementor-widget elementor-widget-text-editor" data-id="4cd9e213" data-element_type="widget" data-widget_type="text-editor.default">
+                                <div class="elementor-widget-container">
+                                    <p>“Semoga Allah menghimpun yang terserak dari keduanya, memberkahi mereka berdua, dan kiranya Allah meningkatkan kualitas keturunan mereka, menjadikannya pembuka pintu rahmat, sumber ilmu dan hikmah, serta pemberi rasa aman bagi umat.”</p>
+                                    <p>&nbsp;</p>
+                                    <p><i>(Doa Nabi Muhammad Shallallahu ‘Alaihi Wasallam pada pernikahan putrinya, Fatimah Azzahra dengan Ali Bin Abi Thalib)</i></p>
+                                    <p><br/><br/><i>Wassalamu’alaikum warahmatullahi wabarakaatuh.</i></p>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-4e14a35c elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="4e14a35c" data-element_type="widget" data-widget_type="divider.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-divider">
+                                        <span class="elementor-divider-separator"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div style="display:none; margin: 25px 0 40px 0;" class="elementor-element elementor-element-dd07a88 elementor-align-center elementor-widget elementor-widget-button" data-id="dd07a88" data-element_type="widget">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                                        <a href="javascript: void(0);" class="elementor-button-link elementor-button elementor-size-xs button-bordered-custom button-bordered-custom-white" role="button">
+                                            <span class="elementor-button-content-wrapper">
+                                                <span class="elementor-button-text">Love Gift</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div style="background-color: #cab592;" class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3e78e637" data-id="3e78e637" data-element_type="column">
+						<div class="elementor-widget-wrap elementor-element-populated">
+                            <div style="font-family: 'Baskervville'; color: #FFF; text-shadow: 2px 2px 4px #000000;" class="elementor-element elementor-element-4cd9e213 elementor-widget elementor-widget-text-editor" data-id="4cd9e213" data-element_type="widget" data-widget_type="text-editor.default">
+                                <div class="elementor-widget-container">
+                                    <p>
+                                        Terima kasih
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-1df7041b elementor-widget elementor-widget-text-editor" data-id="1df7041b" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-widget-container">
+									<p>Dita &amp; Aziz</p>
+								</div>
+							</div>
+						</div>
+					</div>
                 </div>
             </section>
         </div>

@@ -115,26 +115,35 @@
         }
 
         @font-face {
-            font-family: TextMainContent;
+            font-family: IntriqueScript;
             src: url(<?php echo base_url("assets/font/IntriqueScript.ttf"); ?>) format('opentype');
             font-display: auto;
         }
 
         @font-face {
-            font-family: TextMainContent2;
+            font-family: RegencyScript;
             src: url(<?php echo base_url("assets/font/RegencyScript.ttf"); ?>) format('opentype');
             font-display: auto;
         }
     </style>
     <style>
-        #open-invitation-custom {
-            font-size: 1em;
-            font-family: 'Prata', Sans-serif;
-            font-weight: 600;
-            padding: 20px;
-            background-color: #F6EFE3;
-            color: #000;
+        .button-bordered-custom {
+            font-size: 1em !important;
+            font-family: 'Prata', Sans-serif !important;
+            font-weight: 600 !important;
+            padding: 20px !important;
+            background-color: #F6EFE3 !important;
+            color: #000 !important;
             border-radius: 4px !important;
+            animation: none !important;
+        }
+
+        .button-bordered-custom-white {
+            font-family: 'Baskervville' !important;
+            font-size: 0.8em !important;
+            padding: 15px 20px !important;
+            background-color: #FFF !important;
+            box-shadow: 0 0 2px 0 #596257 !important;
         }
 
         .text-main-color {
@@ -181,7 +190,7 @@
          }
 
         .cover-main-content {
-            font-family: 'TextMainContent2';
+            font-family: 'RegencyScript';
             font-size: 140px;
             font-weight: 400;
             line-height: 1.2em;
@@ -218,12 +227,30 @@
             width: 175px;
         }
 
+        .elementor-divider-separator-black {
+            --divider-border-style: solid;
+            --divider-color: #000;
+            --divider-border-width: 1px;
+        }
+
         .elementor-element-11160e97 {
             top: 25% !important;
         }
 
         .elementor-widget:not(:last-child) {
             margin-bottom: 5px;
+        }
+
+        .elementor-43667 .elementor-element.elementor-element-3fa34c2c .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper) {
+            border-radius: 8px;
+        }
+
+        .elementor-43667 .elementor-element.elementor-element-3fa34c2c .elementor-button {
+            border-radius: 8px;
+        }
+
+        .elementor-43667 .elementor-element.elementor-element-1df7041b {
+            font-family: 'RegencyScript';
         }
 
         .elementor-43667 .elementor-element.elementor-element-a3049c9:not(.elementor-motion-effects-element-type-background),
@@ -251,14 +278,6 @@
         .elementor-43667 .elementor-element.elementor-element-2a71c366 img {
             border-color: #F9F6F1 !important;
             border-width: 5px !important;
-        }
-
-        .elementor-43667 .elementor-element.elementor-element-3fa34c2c .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper) {
-            border-radius: 8px;
-        }
-
-        .elementor-43667 .elementor-element.elementor-element-3fa34c2c .elementor-button {
-            border-radius: 8px;
         }
 
         @media (max-width: 767px) {
