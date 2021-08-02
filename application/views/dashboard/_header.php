@@ -151,10 +151,10 @@
 
         .float {
             position: fixed;
-            width: 60px;
-            height: 60px;
+            width: 50px;
+            height: 50px;
             bottom: 150px;
-            left: 20px;
+            left: 10px;
             background-color: #FFF;
             border-radius: 50px;
             text-align: center;
