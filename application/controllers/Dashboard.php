@@ -12,7 +12,7 @@ class Dashboard extends MY_Controller {
 	public function index() {
         $result["impressions"] = $this->M_Impression->retrieveImpression();
 
-        $result["guestName"] = "<i>Nama Tamu</i>";
+        $result["guestName"] = "";
         if (($this->input->get("u")) != null) {
             $result["guestName"] = $this->input->get("u");
         }

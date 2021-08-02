@@ -14,17 +14,16 @@
                                             <div class="elementor-element elementor-element-33eec590 elementor-widget elementor-widget-html" data-id="33eec590" data-element_type="widget" data-widget_type="html.default">
                                                 <div class="elementor-widget-container">
                                                     <audio id="myAudio">
-                                                        <!--source src="https://www.albassaminvitation.com/wp-content/uploads/02.-Marigold-Quincas-Moreira.mp3" type="audio/mp3"-->
                                                         <source src="<?php echo base_url("assets/music/backsound.mp3"); ?>" type="audio/mp3">
                                                     </audio>
                                                 </div>
                                             </div>
-                                            <div style="margin-bottom: 0;" class="elementor-element elementor-element-e880d2a elementor-widget elementor-widget-text-editor" data-id="e880d2a" data-element_type="widget" data-widget_type="text-editor.default">
+                                            <div style="margin-bottom: 0; <?php if($guestName == '') echo "display: none;";?>" class="elementor-element elementor-element-e880d2a elementor-widget elementor-widget-text-editor" data-id="e880d2a" data-element_type="widget" data-widget_type="text-editor.default">
                                                 <div style="font-size: 0.7em;" class="elementor-widget-container text-secondary-color" id="open-invitation">
                                                     <p>Kepada Yth:</p>
                                                 </div>
                                             </div>
-                                            <div class="elementor-element nama-tamu elementor-widget elementor-widget-text-editor" data-element_type="widget" data-widget_type="text-editor.default">
+                                            <div style="<?php if($guestName == '') echo "display: none;";?>" class="elementor-element nama-tamu elementor-widget elementor-widget-text-editor" data-element_type="widget" data-widget_type="text-editor.default">
                                                 <center><b><?php echo $guestName; ?></b></center>
                                             </div>
                                             <div style="margin-top: 30px;" class="elementor-element elementor-element-dd07a88 elementor-align-center elementor-widget elementor-widget-button" data-id="dd07a88" data-element_type="widget" data-widget_type="button.default">
