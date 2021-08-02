@@ -183,10 +183,10 @@
         }
 
         #cover-page {
-            background-image: url("<?php echo base_url("assets/image/background/cover.jpg"); ?>");
+            background-image: url("<?php echo base_url("assets/image/background/cover.jpeg"); ?>");
             background-size: cover;
             background-position: center center;
-            box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 70%);
+            /* box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 70%); */
         }
 
         .cover-main-content {
@@ -206,7 +206,7 @@
         }
 
         .main-content-background-section {
-            background-image: url("<?php echo base_url("assets/image/background/resepsi2.jpg"); ?>");
+            background-image: url("<?php echo base_url("assets/image/background/resepsi.jpg"); ?>");
             -webkit-background-size: 100%;
             -moz-background-size: 100%;
             -o-background-size: 100%;
