@@ -181,13 +181,13 @@
             transform: translateY(-50%) translateX(-50%);
             font-size: 1.2em;
         }
-        
+
         #cover-page {
-             background-image: url("<?php echo base_url("assets/image/background/cover.jpg");?>");
-             background-size: cover;
-             background-position: center center;
-             box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 70%);
-         }
+            background-image: url("<?php echo base_url("assets/image/background/cover.jpg"); ?>");
+            background-size: cover;
+            background-position: center center;
+            box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 70%);
+        }
 
         .cover-main-content {
             font-family: 'RegencyScript';
@@ -206,7 +206,7 @@
         }
 
         .main-content-background-section {
-            background-image: url("<?php echo base_url("assets/image/background/resepsi.jpg");?>");
+            background-image: url("<?php echo base_url("assets/image/background/resepsi2.jpg"); ?>");
             -webkit-background-size: 100%;
             -moz-background-size: 100%;
             -o-background-size: 100%;
@@ -216,7 +216,7 @@
             -o-background-size: cover;
             background-size: cover;
             background-position: center center;
-            box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 50%);
+            /* box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 50%); */
         }
 
         .elementor-widget-countdown .elementor-countdown-item {
@@ -287,6 +287,10 @@
 
             .elementor-element-11160e97 {
                 top: 15% !important;
+            }
+
+            .elementor-43667 .elementor-element.elementor-element-4d33228a .elementor-countdown-wrapper {
+                max-width: 80%;
             }
         }
 
