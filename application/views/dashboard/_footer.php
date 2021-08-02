@@ -199,7 +199,7 @@
 
 <script>
     $("#impression-form").submit(function() {
-        var name = $("#form-field-name").val();
+        var name = encodeURI($("#form-field-name").val());
         var messages = encodeURI($("#form-field-message").val());
 
         loadingButton("impression-form-button", true);
@@ -242,7 +242,7 @@
         $("#form-field-message").val("");
 
         $("ul#messages-list").append(
-            "<li style='line-height: 17px; margin-top: 8px;'><span><b>" + name + "</b><br/>" + decodeURI(messages) + "</span></li>"
+            "<li style='line-height: 17px; margin-top: 8px;'><span><b>" + decodeURI(name) + "</b><br/>" + decodeURI(messages) + "</span></li>"
         );
 
         $('html, body').animate({
@@ -255,6 +255,7 @@
 </script>
 <script>
     var backSound = document.getElementById("myAudio");
+    backSound.loop = true;
     var isAudioOn = false;
 
     function playAudio() {

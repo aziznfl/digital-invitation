@@ -46,8 +46,8 @@
                                     <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-1ea4fef" data-id="1ea4fef" data-element_type="column">
                                         <div class="elementor-widget-wrap elementor-element-populated">
                                             <div class="elementor-element elementor-element-35961644 elementor-widget elementor-widget-text-editor" data-id="35961644" data-element_type="widget" data-widget_type="text-editor.default">
-                                                <div style="font-size: 1.2em;" class="elementor-widget-container text-secondary-color">
-                                                    <p>The Wedding of</p>
+                                                <div style="font-size: 1em; margin-bottom: -20px;" class="elementor-widget-container text-secondary-color">
+                                                    <p>THE WEDDING OF</p>
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-widget elementor-widget-text-editor" data-id="456ae7c4" data-element_type="widget" data-widget_type="text-editor.default">
@@ -57,7 +57,7 @@
                                             </div>
                                             <div class="elementor-element elementor-element-43806987 elementor-widget elementor-widget-text-editor" data-id="43806987" data-element_type="widget" data-widget_type="text-editor.default">
                                                 <div style="font-size: 1em;" class="elementor-widget-container text-secondary-color">
-                                                    <p>15&nbsp;.&nbsp;08&nbsp;.&nbsp;2021</p>
+                                                    <p>15&nbsp;&middot;&nbsp;08&nbsp;&middot;&nbsp;2021</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -387,7 +387,7 @@
                                     $marginBottom = ($index != 0) ? "margin-top: 8px;" : "";
 
                                     echo "<li style='line-height: 17px; " . $marginBottom . "'>";
-                                    echo "<span><b>" . $impression->name . "</b><br>";
+                                    echo "<span><b>" . urldecode($impression->name) . "</b><br>";
                                     echo urldecode($impression->messages) . "</span>";
                                     echo "</li>";
                                 } ?>

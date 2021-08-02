@@ -247,6 +247,12 @@
             margin-top: 10px;
         }
 
+        .elementor-43667 .elementor-element.elementor-element-115f25ad img,
+        .elementor-43667 .elementor-element.elementor-element-2a71c366 img {
+            border-color: #F9F6F1 !important;
+            border-width: 5px !important;
+        }
+
         .elementor-43667 .elementor-element.elementor-element-3fa34c2c .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper) {
             border-radius: 8px;
         }
