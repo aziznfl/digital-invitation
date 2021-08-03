@@ -715,7 +715,7 @@
                             <div style="font-family: 'Baskervville'; color: #FFF; text-shadow: 2px 2px 4px #000000; margin-top: 20px; font-size: 0.8em;" class="elementor-element elementor-element-4cd9e213 elementor-widget elementor-widget-text-editor" data-id="4cd9e213" data-element_type="widget" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
                                     <p>
-                                        Created by: <a style="color: #fff;text-decoration: underline;" target="_blank" href="https://menujupelaminan.com">MenujuPelaminan.com</a>
+                                        Created by: <a style="color: #fff;text-decoration: underline;" target="_blank" href="https://menujupelaminan.id">MenujuPelaminan.id</a>
                                     </p>
                                 </div>
                             </div>

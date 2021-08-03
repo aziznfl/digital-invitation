@@ -198,6 +198,20 @@
 </script>
 
 <script>
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://ditaazizwedding.aziznfl.com/dashboard/retrieveImpression",
+            method: 'POST',
+            contentType: "application/json; charset=utf-8",
+            dataType: "JSON",
+            success: function(response) {
+                $.each(response.data, function(i, impression) {
+                    addImpression(impression.name, impression.messages);
+                });
+            }
+        });
+    });
+
     $("#impression-form").submit(function() {
         var name = encodeURI($("#form-field-name").val());
         var messages = encodeURI($("#form-field-message").val());
@@ -205,7 +219,7 @@
         loadingButton("impression-form-button", true);
 
         $.ajax({
-            url: "<?php echo base_url(); ?>" + "dashboard/impression",
+            url: "https://ditaazizwedding.aziznfl.com/dashboard/impression",
             method: 'GET',
             data: {
                 'name': name,
@@ -240,10 +254,7 @@
 
         $("#form-field-name").val("");
         $("#form-field-message").val("");
-
-        $("ul#messages-list").append(
-            "<li style='line-height: 17px; margin-top: 8px;'><span><b>" + decodeURI(name) + "</b><br/>" + decodeURI(messages) + "</span></li>"
-        );
+        addImpression(name, messages);
 
         $('html, body').animate({
             scrollTop: $("ul#messages-list").offset().top - 20
@@ -251,6 +262,12 @@
         $("ul#messages-list").animate({
             scrollTop: $("ul#messages-list").offset().top
         }, 2000);
+    }
+
+    function addImpression(name, messages) {
+        $("ul#messages-list").append(
+            "<li style='line-height: 17px; margin-top: 8px;'><span><b>" + decodeURI(name) + "</b><br/>" + decodeURI(messages) + "</span></li>"
+        );
     }
 </script>
 <script>

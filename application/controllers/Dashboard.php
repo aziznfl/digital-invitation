@@ -10,7 +10,7 @@ class Dashboard extends MY_Controller {
     }
 
 	public function index() {
-        $result["impressions"] = $this->M_Impression->retrieveImpression();
+        $result["impressions"] = [];
 
         $result["guestName"] = "";
         if (($this->input->get("u")) != null) {
@@ -28,6 +28,18 @@ class Dashboard extends MY_Controller {
 
         $result = $this->M_Impression->insertMessages($data);
         echo $result;
+    }
+
+    public function retrieveImpression() {
+        $result = $this->M_Impression->retrieveImpression();
+
+        $listImpression = array();
+        foreach($result as $impression) {
+            $data["name"] = $impression->name;
+            $data["messages"] = $impression->messages;
+			array_push($listImpression, $data);
+        }
+        echo json_encode(array("data" => $listImpression));
     }
 
     public function test() {
