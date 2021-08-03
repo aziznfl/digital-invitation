@@ -444,6 +444,44 @@
                                     </div>
                                 </div>
                             </section>
+                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-3f50938 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="3f50938" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+                                <div class="elementor-container elementor-column-gap-default">
+                                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-65893f23" data-id="65893f23" data-element_type="column">
+                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-2ca137a7 elementor-view-default elementor-widget elementor-widget-icon" data-id="2ca137a7" data-element_type="widget" data-widget_type="icon.default">
+                                                <div class="elementor-widget-container">
+                                                    <div class="elementor-icon-wrapper">
+                                                        <div class="elementor-icon">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" id="Capa_1" height="512" viewBox="0 0 512 512" width="512">
+                                                                <g>
+                                                                    <path d="m291.638 213.197c-2.93-2.929-7.678-2.929-10.607 0s-2.929 7.678 0 10.606l9.697 9.697h-69.454l9.697-9.697c2.929-2.929 2.929-7.678 0-10.606-2.93-2.929-7.678-2.929-10.607 0l-22.5 22.5c-2.929 2.929-2.929 7.678 0 10.606l22.5 22.5c1.465 1.464 3.385 2.197 5.304 2.197s3.839-.732 5.304-2.197c2.929-2.929 2.929-7.678 0-10.606l-9.697-9.697h69.454l-9.697 9.697c-2.929 2.929-2.929 7.678 0 10.606 1.465 1.464 3.385 2.197 5.304 2.197s3.839-.732 5.304-2.197l22.5-22.5c2.929-2.929 2.929-7.678 0-10.606z"></path>
+                                                                    <path d="m143.167 150.5h-105.667c-20.678 0-37.5 16.822-37.5 37.5 0 4.142 3.357 7.5 7.5 7.5s7.5-3.358 7.5-7.5c0-12.407 10.094-22.5 22.5-22.5h105.667c12.406 0 22.5 10.093 22.5 22.5l-.001 121.5c0 3.991-3.225 7-7.5 7s-7.5-3.009-7.5-7v-121c0-4.142-3.357-7.5-7.5-7.5s-7.5 3.358-7.5 7.5v267.083c0 5.917-5.228 10.917-11.416 10.917-6.295 0-11.417-5.122-11.417-11.417v-146.083c0-4.142-3.357-7.5-7.5-7.5h-30c-4.143 0-7.5 3.358-7.5 7.5v146.083c0 6.295-5.121 11.417-11.416 11.417-6.188 0-11.417-4.999-11.417-10.917v-267.083c0-4.142-3.357-7.5-7.5-7.5s-7.5 3.358-7.5 7.5v120.5c0 4.136-3.364 7.5-7.5 7.5s-7.5-3.364-7.5-7.5v-91c0-4.142-3.357-7.5-7.5-7.5s-7.5 3.358-7.5 7.5v91c0 12.407 10.094 22.5 22.5 22.5 2.629 0 5.153-.458 7.5-1.29v125.374c0 14.291 11.851 25.917 26.417 25.917 14.565 0 26.416-11.851 26.416-26.417v-138.584h15v138.583c0 14.566 11.851 26.417 26.417 26.417 14.565 0 26.416-11.626 26.416-25.917v-125.296c2.337.784 4.857 1.213 7.5 1.213 12.617 0 22.5-9.664 22.5-22l.001-121.5c0-20.678-16.822-37.5-37.5-37.5z"></path>
+                                                                    <path d="m90.005 135.5c28.948 0 52.5-23.551 52.5-52.5s-23.552-52.5-52.5-52.5-52.5 23.551-52.5 52.5 23.552 52.5 52.5 52.5zm0-90c20.678 0 37.5 16.822 37.5 37.5s-16.822 37.5-37.5 37.5-37.5-16.822-37.5-37.5 16.822-37.5 37.5-37.5z"></path>
+                                                                    <path d="m474.5 150.5h-105.666c-20.678 0-37.5 16.822-37.5 37.5l-.001 121c0 12.407 10.094 22.5 22.5 22.5 2.629 0 5.153-.458 7.5-1.29v125.374c0 14.291 11.851 25.917 26.416 25.917 14.566 0 26.417-11.851 26.417-26.417v-138.584h15l.001 138.583c0 14.566 11.851 26.417 26.416 26.417 14.566 0 26.417-11.626 26.417-25.917v-125.296c2.337.784 4.858 1.213 7.5 1.213 12.617 0 22.5-9.664 22.5-22v-121.5c0-20.678-16.822-37.5-37.5-37.5zm22.5 159c0 3.991-3.225 7-7.5 7s-7.5-3.009-7.5-7c0-.011-.001-121-.001-121 0-4.142-3.357-7.5-7.5-7.5s-7.5 3.358-7.5 7.5l.001 267.083c0 5.917-5.229 10.917-11.417 10.917-6.295 0-11.416-5.122-11.416-11.417l-.001-146.083c0-4.142-3.357-7.5-7.5-7.5h-30c-1.989 0-3.896.79-5.304 2.197-1.406 1.406-2.196 3.314-2.196 5.303l.001 146.083c0 6.295-5.122 11.417-11.417 11.417-6.188 0-11.416-4.999-11.416-10.917l-.001-267.083c0-4.142-3.357-7.5-7.5-7.5s-7.5 3.358-7.5 7.5v120.491c0 4.144-3.365 7.509-7.5 7.509s-7.5-3.364-7.5-7.5l.001-121c0-12.407 10.094-22.5 22.5-22.5h105.666c12.406 0 22.5 10.093 22.5 22.5z"></path>
+                                                                    <path d="m421.338 135.5c28.948 0 52.5-23.551 52.5-52.5s-23.552-52.5-52.5-52.5-52.5 23.551-52.5 52.5 23.552 52.5 52.5 52.5zm0-90c20.678 0 37.5 16.822 37.5 37.5s-16.822 37.5-37.5 37.5-37.5-16.822-37.5-37.5 16.822-37.5 37.5-37.5z"></path>
+                                                                </g>
+                                                            </svg>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-55b47d80" data-id="55b47d80" data-element_type="column">
+                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-54521714 elementor-widget elementor-widget-text-editor" data-id="54521714" data-element_type="widget" data-widget_type="text-editor.default">
+                                                <div class="elementor-widget-container">
+                                                    <p>Saling menjaga jarak ketika menghadiri acara</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-130c7c80" data-id="130c7c80" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
                             <section class="elementor-section elementor-inner-section elementor-element elementor-element-8341229 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="8341229" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
                                 <div class="elementor-container elementor-column-gap-default">
                                     <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-38714a90" data-id="38714a90" data-element_type="column">
@@ -475,76 +513,6 @@
                                             <div class="elementor-element elementor-element-5ad0dc60 elementor-widget elementor-widget-text-editor" data-id="5ad0dc60" data-element_type="widget" data-widget_type="text-editor.default">
                                                 <div class="elementor-widget-container">
                                                     <p>Cek suhu ketika hendak memasuki ruangan acara</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-6f3b712f elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="6f3b712f" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
-                                <div class="elementor-container elementor-column-gap-default">
-                                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6e8e5020" data-id="6e8e5020" data-element_type="column">
-                                        <div class="elementor-widget-wrap elementor-element-populated">
-                                            <div class="elementor-element elementor-element-21006cac elementor-view-default elementor-widget elementor-widget-icon" data-id="21006cac" data-element_type="widget" data-widget_type="icon.default">
-                                                <div class="elementor-widget-container">
-                                                    <div class="elementor-icon-wrapper">
-                                                        <div class="elementor-icon">
-                                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="512" height="512">
-                                                                <g id="coronavirus-covid19-virus-insurance-protect">
-                                                                    <path d="M53,44a1.993,1.993,0,0,0-1.722,1h-1.42a3.915,3.915,0,0,0-.425-1.019l1.006-1.006a2.016,2.016,0,0,0,.511.074,2,2,0,1,0-1.925-1.488l-1.006,1.006A3.915,3.915,0,0,0,47,42.142v-1.42a2,2,0,1,0-2,0v1.42a3.915,3.915,0,0,0-1.019.425l-1.006-1.006a1.993,1.993,0,1,0-1.925,1.488,2.016,2.016,0,0,0,.511-.074l1.006,1.006A3.915,3.915,0,0,0,42.142,45h-1.42a2,2,0,1,0,0,2h1.42a3.915,3.915,0,0,0,.425,1.019l-1.006,1.006a2,2,0,1,0,1.414,1.414l1.006-1.006A3.915,3.915,0,0,0,45,49.858v1.42a2,2,0,1,0,2,0v-1.42a3.915,3.915,0,0,0,1.019-.425l1.006,1.006a2,2,0,1,0,1.414-1.414l-1.006-1.006A3.915,3.915,0,0,0,49.858,47h1.42A2,2,0,1,0,53,44Zm-7,4a2,2,0,1,1,2-2A2,2,0,0,1,46,48Z"></path>
-                                                                    <path d="M55.155,38.26A36.74,36.74,0,0,0,57,26.75V11a1,1,0,0,0-.684-.949l-24-8a1,1,0,0,0-.632,0l-24,8A1,1,0,0,0,7,11V26.75a36.8,36.8,0,0,0,20.453,33.1l4.1,2.05a1,1,0,0,0,.894,0l4.1-2.05a36.918,36.918,0,0,0,4.714-2.824A11.989,11.989,0,0,0,55.155,38.26Zm-19.5,19.8L32,59.882l-3.653-1.826A34.812,34.812,0,0,1,9,26.75V11.721L32,4.054l23,7.667V26.75a34.787,34.787,0,0,1-1.443,9.94,11.991,11.991,0,0,0-3.595-2A31.344,31.344,0,0,0,51,26.75V15.32a1,1,0,0,0-.684-.949l-18-6a1,1,0,0,0-.632,0l-18,6A1,1,0,0,0,13,15.32V26.75A30.817,30.817,0,0,0,30.133,54.475l1.42.71a1,1,0,0,0,.894,0l1.424-.712c.852-.43,1.669-.9,2.464-1.39a12.09,12.09,0,0,0,2.937,2.847A34.9,34.9,0,0,1,35.653,58.056ZM49,26.75a29.325,29.325,0,0,1-.973,7.435,11.97,11.97,0,0,0-12.738,17.2c-.747.459-1.516.9-2.316,1.306L32,53.172l-.973-.486A28.827,28.827,0,0,1,15,26.75V16.041l17-5.667,17,5.667ZM46,56A10,10,0,1,1,56,46,10.011,10.011,0,0,1,46,56Z"></path>
-                                                                    <path d="M23.636,25.565a1.029,1.029,0,0,0-1.414,0l-2.828,2.829a1,1,0,0,0,0,1.414l9.9,9.9a1,1,0,0,0,1.414,0L46.849,23.565a1,1,0,0,0,0-1.414l-2.828-2.829a1.031,1.031,0,0,0-1.415,0L30,31.929Zm19.677-4.122,1.415,1.415L30,37.586,21.515,29.1l1.414-1.415,6.364,6.364a1.029,1.029,0,0,0,1.414,0Z"></path>
-                                                                </g>
-                                                            </svg>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-67440455" data-id="67440455" data-element_type="column">
-                                        <div class="elementor-widget-wrap elementor-element-populated">
-                                            <div class="elementor-element elementor-element-159ed3d9 elementor-widget elementor-widget-text-editor" data-id="159ed3d9" data-element_type="widget" data-widget_type="text-editor.default">
-                                                <div class="elementor-widget-container">
-                                                    <p>Tidak memiliki riwayat berkontak dengan pasien COVID-19</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                    </div>
-                    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-130c7c80" data-id="130c7c80" data-element_type="column">
-                        <div class="elementor-widget-wrap elementor-element-populated">
-                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-3f50938 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="3f50938" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
-                                <div class="elementor-container elementor-column-gap-default">
-                                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-65893f23" data-id="65893f23" data-element_type="column">
-                                        <div class="elementor-widget-wrap elementor-element-populated">
-                                            <div class="elementor-element elementor-element-2ca137a7 elementor-view-default elementor-widget elementor-widget-icon" data-id="2ca137a7" data-element_type="widget" data-widget_type="icon.default">
-                                                <div class="elementor-widget-container">
-                                                    <div class="elementor-icon-wrapper">
-                                                        <div class="elementor-icon">
-                                                            <svg xmlns="http://www.w3.org/2000/svg" id="Capa_1" height="512" viewBox="0 0 512 512" width="512">
-                                                                <g>
-                                                                    <path d="m291.638 213.197c-2.93-2.929-7.678-2.929-10.607 0s-2.929 7.678 0 10.606l9.697 9.697h-69.454l9.697-9.697c2.929-2.929 2.929-7.678 0-10.606-2.93-2.929-7.678-2.929-10.607 0l-22.5 22.5c-2.929 2.929-2.929 7.678 0 10.606l22.5 22.5c1.465 1.464 3.385 2.197 5.304 2.197s3.839-.732 5.304-2.197c2.929-2.929 2.929-7.678 0-10.606l-9.697-9.697h69.454l-9.697 9.697c-2.929 2.929-2.929 7.678 0 10.606 1.465 1.464 3.385 2.197 5.304 2.197s3.839-.732 5.304-2.197l22.5-22.5c2.929-2.929 2.929-7.678 0-10.606z"></path>
-                                                                    <path d="m143.167 150.5h-105.667c-20.678 0-37.5 16.822-37.5 37.5 0 4.142 3.357 7.5 7.5 7.5s7.5-3.358 7.5-7.5c0-12.407 10.094-22.5 22.5-22.5h105.667c12.406 0 22.5 10.093 22.5 22.5l-.001 121.5c0 3.991-3.225 7-7.5 7s-7.5-3.009-7.5-7v-121c0-4.142-3.357-7.5-7.5-7.5s-7.5 3.358-7.5 7.5v267.083c0 5.917-5.228 10.917-11.416 10.917-6.295 0-11.417-5.122-11.417-11.417v-146.083c0-4.142-3.357-7.5-7.5-7.5h-30c-4.143 0-7.5 3.358-7.5 7.5v146.083c0 6.295-5.121 11.417-11.416 11.417-6.188 0-11.417-4.999-11.417-10.917v-267.083c0-4.142-3.357-7.5-7.5-7.5s-7.5 3.358-7.5 7.5v120.5c0 4.136-3.364 7.5-7.5 7.5s-7.5-3.364-7.5-7.5v-91c0-4.142-3.357-7.5-7.5-7.5s-7.5 3.358-7.5 7.5v91c0 12.407 10.094 22.5 22.5 22.5 2.629 0 5.153-.458 7.5-1.29v125.374c0 14.291 11.851 25.917 26.417 25.917 14.565 0 26.416-11.851 26.416-26.417v-138.584h15v138.583c0 14.566 11.851 26.417 26.417 26.417 14.565 0 26.416-11.626 26.416-25.917v-125.296c2.337.784 4.857 1.213 7.5 1.213 12.617 0 22.5-9.664 22.5-22l.001-121.5c0-20.678-16.822-37.5-37.5-37.5z"></path>
-                                                                    <path d="m90.005 135.5c28.948 0 52.5-23.551 52.5-52.5s-23.552-52.5-52.5-52.5-52.5 23.551-52.5 52.5 23.552 52.5 52.5 52.5zm0-90c20.678 0 37.5 16.822 37.5 37.5s-16.822 37.5-37.5 37.5-37.5-16.822-37.5-37.5 16.822-37.5 37.5-37.5z"></path>
-                                                                    <path d="m474.5 150.5h-105.666c-20.678 0-37.5 16.822-37.5 37.5l-.001 121c0 12.407 10.094 22.5 22.5 22.5 2.629 0 5.153-.458 7.5-1.29v125.374c0 14.291 11.851 25.917 26.416 25.917 14.566 0 26.417-11.851 26.417-26.417v-138.584h15l.001 138.583c0 14.566 11.851 26.417 26.416 26.417 14.566 0 26.417-11.626 26.417-25.917v-125.296c2.337.784 4.858 1.213 7.5 1.213 12.617 0 22.5-9.664 22.5-22v-121.5c0-20.678-16.822-37.5-37.5-37.5zm22.5 159c0 3.991-3.225 7-7.5 7s-7.5-3.009-7.5-7c0-.011-.001-121-.001-121 0-4.142-3.357-7.5-7.5-7.5s-7.5 3.358-7.5 7.5l.001 267.083c0 5.917-5.229 10.917-11.417 10.917-6.295 0-11.416-5.122-11.416-11.417l-.001-146.083c0-4.142-3.357-7.5-7.5-7.5h-30c-1.989 0-3.896.79-5.304 2.197-1.406 1.406-2.196 3.314-2.196 5.303l.001 146.083c0 6.295-5.122 11.417-11.417 11.417-6.188 0-11.416-4.999-11.416-10.917l-.001-267.083c0-4.142-3.357-7.5-7.5-7.5s-7.5 3.358-7.5 7.5v120.491c0 4.144-3.365 7.509-7.5 7.509s-7.5-3.364-7.5-7.5l.001-121c0-12.407 10.094-22.5 22.5-22.5h105.666c12.406 0 22.5 10.093 22.5 22.5z"></path>
-                                                                    <path d="m421.338 135.5c28.948 0 52.5-23.551 52.5-52.5s-23.552-52.5-52.5-52.5-52.5 23.551-52.5 52.5 23.552 52.5 52.5 52.5zm0-90c20.678 0 37.5 16.822 37.5 37.5s-16.822 37.5-37.5 37.5-37.5-16.822-37.5-37.5 16.822-37.5 37.5-37.5z"></path>
-                                                                </g>
-                                                            </svg>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-55b47d80" data-id="55b47d80" data-element_type="column">
-                                        <div class="elementor-widget-wrap elementor-element-populated">
-                                            <div class="elementor-element elementor-element-54521714 elementor-widget elementor-widget-text-editor" data-id="54521714" data-element_type="widget" data-widget_type="text-editor.default">
-                                                <div class="elementor-widget-container">
-                                                    <p>Saling menjaga jarak ketika menghadiri acara</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -583,93 +551,6 @@
                                             <div class="elementor-element elementor-element-5e71b83 elementor-widget elementor-widget-text-editor" data-id="5e71b83" data-element_type="widget" data-widget_type="text-editor.default">
                                                 <div class="elementor-widget-container">
                                                     <p>Dilarang berkerumun</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-5345dc0a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="5345dc0a" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
-                                <div class="elementor-container elementor-column-gap-default">
-                                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-614b925c" data-id="614b925c" data-element_type="column">
-                                        <div class="elementor-widget-wrap elementor-element-populated">
-                                            <div class="elementor-element elementor-element-1c73f23a elementor-view-default elementor-widget elementor-widget-icon" data-id="1c73f23a" data-element_type="widget" data-widget_type="icon.default">
-                                                <div class="elementor-widget-container">
-                                                    <div class="elementor-icon-wrapper">
-                                                        <div class="elementor-icon">
-                                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-                                                                <g>
-                                                                    <g>
-                                                                        <path d="M298.102,479.277c-5.124-2.055-10.948,0.435-13.003,5.562c-1.717,4.283-6.071,7.161-10.833,7.161h-36.532    c-4.762,0-9.116-2.878-10.833-7.161c-2.055-5.127-7.876-7.612-13.003-5.562c-5.126,2.056-7.616,7.877-5.561,13.003    c4.803,11.98,16.341,19.72,29.397,19.72h36.532c13.056,0,24.594-7.74,29.396-19.72    C305.718,487.154,303.228,481.333,298.102,479.277z"></path>
-                                                                    </g>
-                                                                </g>
-                                                                <g>
-                                                                    <g>
-                                                                        <path d="M415.541,427.762c-2.716-14.004-11.344-26.128-23.677-33.288c2.243-1.832,4.347-3.858,6.267-6.089    c9.471-11.003,13.665-25.548,11.504-39.903c-3.509-23.324-13.436-45.117-28.707-63.024    c-11.434-13.407-25.488-24.211-41.217-31.803c19.249-20.534,31.057-48.124,31.057-78.423    c-0.001-52.434-35.348-96.769-83.465-110.428c6.554-7.825,10.13-17.601,10.13-27.931C297.434,16.541,280.892,0,260.561,0    c-0.001,0-0.002,0-0.003,0c-8.207,0-15.894,2.669-21.643,7.514c-6.354,5.354-9.853,12.879-9.854,21.188c0,5.522,4.477,10,10,10    c5.522,0,10-4.477,10-10c0-2.379,0.922-4.362,2.742-5.896c2.148-1.81,5.257-2.807,8.756-2.807h0.001    c9.304,0,16.874,7.568,16.874,16.872c0,6.302-2.454,12.226-6.91,16.682c-4.456,4.455-10.379,6.909-16.679,6.909    c-0.001,0-0.001,0-0.002,0c-0.245,0-0.485,0.019-0.725,0.037c-61.956,1.536-111.885,52.413-111.886,114.732    c0,30.299,11.808,57.889,31.057,78.423c-15.728,7.592-29.782,18.395-41.216,31.803c-15.271,17.907-25.198,39.7-28.708,63.023    c-2.16,14.356,2.033,28.901,11.504,39.904c1.92,2.231,4.024,4.258,6.267,6.089c-12.333,7.16-20.962,19.284-23.677,33.288    c-2.723,14.04,0.771,28.553,9.584,39.816l21.415,27.365c8.652,11.056,21.795,17.001,35.126,17.001    c7.568,0,15.198-1.916,22.1-5.901c19.061-11.005,27.229-34.697,19-55.109l-12.991-32.228c-0.868-2.153-1.894-4.218-3.039-6.202    H261c5.523,0,10-4.478,10-10c0-5.522-4.477-10-10-10h-92.356v-21.081c0-2.715,2.208-4.923,4.923-4.923h164.867    c2.714,0,4.923,2.208,4.923,4.923v22.464c-9.922,5.439-17.755,14.163-22.051,24.819l-12.991,32.227    c-8.229,20.413-0.061,44.105,19,55.11c6.903,3.985,14.53,5.901,22.1,5.901c13.33,0,26.475-5.946,35.127-17.001l21.414-27.365    C414.771,456.314,418.264,441.802,415.541,427.762z M161.231,175.232c0.001-52.255,42.515-94.768,94.769-94.769    c52.254,0.001,94.768,42.514,94.769,94.769c0,52.255-42.513,94.768-94.769,94.769C203.745,270,161.231,227.487,161.231,175.232z     M172.146,426.183l12.991,32.229c4.525,11.227,0.031,24.258-10.452,30.311c-10.482,6.053-24.015,3.43-31.476-6.105l-21.415-27.365    c-5.243-6.699-7.321-15.331-5.701-23.683c1.62-8.352,6.775-15.582,14.143-19.836c7.367-4.254,16.206-5.101,24.249-2.33    C162.528,412.177,168.965,418.294,172.146,426.183z M338.5,326.5c-5.523,0-10,4.478-10,10v10H183.566v-10c0-5.522-4.477-10-10-10    c-5.523,0-10,4.478-10,10v12.101c-8.777,3.861-14.923,12.635-14.923,22.822v14.121c-7.573-0.757-14.6-4.379-19.617-10.207    c-5.667-6.585-8.176-15.289-6.884-23.88c5.725-38.053,31.097-69.494,66.716-83.206C207.75,281.925,230.948,290,256,290    s48.25-8.075,67.142-21.749c35.619,13.712,60.991,45.153,66.716,83.206c1.292,8.591-1.217,17.295-6.885,23.88    c-5.016,5.828-12.044,9.45-19.617,10.207v-14.121c0-10.161-6.115-18.916-14.856-22.792V336.5    C348.5,330.978,344.023,326.5,338.5,326.5z M390.206,455.252l-21.414,27.365c-7.461,9.533-20.992,12.157-31.476,6.105    c-10.484-6.053-14.977-19.084-10.451-30.313l12.991-32.228c3.181-7.89,9.618-14.006,17.661-16.779    c3.115-1.073,6.349-1.604,9.571-1.604c5.097,0,10.164,1.329,14.678,3.935c7.368,4.254,12.522,11.484,14.143,19.836    C397.527,439.921,395.449,448.553,390.206,455.252z"></path>
-                                                                    </g>
-                                                                </g>
-                                                                <g>
-                                                                    <g>
-                                                                        <path d="M307.79,395.43c-1.86-1.86-4.44-2.93-7.07-2.93s-5.21,1.069-7.07,2.93c-1.86,1.861-2.93,4.44-2.93,7.07    c0,2.64,1.07,5.21,2.93,7.069c1.86,1.87,4.44,2.931,7.07,2.931s5.21-1.061,7.07-2.931c1.86-1.859,2.93-4.439,2.93-7.069    S309.65,397.29,307.79,395.43z"></path>
-                                                                    </g>
-                                                                </g>
-                                                                <g>
-                                                                    <g>
-                                                                        <path d="M283.57,209.382c-4.29-3.478-10.587-2.817-14.065,1.472c-3.323,4.1-8.246,6.451-13.505,6.451    c-5.259,0-10.183-2.352-13.505-6.451c-3.477-4.291-9.774-4.948-14.065-1.472c-4.291,3.477-4.95,9.774-1.472,14.065    c7.138,8.807,17.724,13.857,29.042,13.857s21.905-5.051,29.042-13.857C288.52,219.156,287.861,212.859,283.57,209.382z"></path>
-                                                                    </g>
-                                                                </g>
-                                                                <g>
-                                                                    <g>
-                                                                        <path d="M230.731,168.16c-9.071-9.071-23.831-9.071-32.904,0c-3.905,3.905-3.906,10.236,0,14.142    c3.905,3.906,10.237,3.906,14.142,0.001c1.273-1.273,3.346-1.273,4.62,0c1.953,1.952,4.512,2.929,7.071,2.929    c2.559,0,5.119-0.977,7.071-2.929C234.636,178.398,234.636,172.066,230.731,168.16z"></path>
-                                                                    </g>
-                                                                </g>
-                                                                <g>
-                                                                    <g>
-                                                                        <path d="M314.173,168.159c-9.072-9.07-23.833-9.07-32.904,0c-3.905,3.905-3.905,10.237,0,14.143    c1.952,1.953,4.512,2.929,7.071,2.929c2.559,0,5.119-0.977,7.071-2.929c1.273-1.272,3.346-1.274,4.62,0    c3.905,3.906,10.237,3.905,14.142-0.001C318.078,178.396,318.078,172.065,314.173,168.159z"></path>
-                                                                    </g>
-                                                                </g>
-                                                                <g>
-                                                                </g>
-                                                                <g>
-                                                                </g>
-                                                                <g>
-                                                                </g>
-                                                                <g>
-                                                                </g>
-                                                                <g>
-                                                                </g>
-                                                                <g>
-                                                                </g>
-                                                                <g>
-                                                                </g>
-                                                                <g>
-                                                                </g>
-                                                                <g>
-                                                                </g>
-                                                                <g>
-                                                                </g>
-                                                                <g>
-                                                                </g>
-                                                                <g>
-                                                                </g>
-                                                                <g>
-                                                                </g>
-                                                                <g>
-                                                                </g>
-                                                                <g>
-                                                                </g>
-                                                            </svg>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4dd1944" data-id="4dd1944" data-element_type="column">
-                                        <div class="elementor-widget-wrap elementor-element-populated">
-                                            <div class="elementor-element elementor-element-4ecf9393 elementor-widget elementor-widget-text-editor" data-id="4ecf9393" data-element_type="widget" data-widget_type="text-editor.default">
-                                                <div class="elementor-widget-container">
-                                                    <p>Dilarang membawa anak kecil</p>
                                                 </div>
                                             </div>
                                         </div>
