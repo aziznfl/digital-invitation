@@ -582,7 +582,9 @@
                     <div id="love-gift-button">Love Gift</div>
                 </div>
                 <div class="elementor-container elementor-column-gap-default">
-                    <p>Tanpa mengurangi rasa hormat, bagi anda yang ingin memberikan tanda kasih kepada kami, dapat melalui:</p>
+                    <div id="love-gift-intro">Tanpa mengurangi rasa hormat, bagi anda yang ingin memberikan tanda kasih kepada kami, dapat melalui:</div>
+                </div>
+                <div class="elementor-container elementor-column-gap-default">
                     <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3e78e637" data-id="3e78e637" data-element_type="column">
                         <div class="list-bank">
                             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bank_Syariah_Indonesia.svg/512px-Bank_Syariah_Indonesia.svg.png"/>

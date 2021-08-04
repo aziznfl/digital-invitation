@@ -138,6 +138,12 @@
             line-height: 1em;
         }
 
+        #love-gift-intro {
+            width: 100%;
+            text-align: center;
+            font-size: 0.6em;
+        }
+
         .list-bank {
             text-align: center;
             margin: 0 auto;
