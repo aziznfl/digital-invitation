@@ -127,7 +127,7 @@
         }
     </style>
     <style>
-        #love-gift-button {
+        .love-gift-button {
             width: 100%;
             font-family: 'Baskervville';
             font-size: 36px;
@@ -138,17 +138,17 @@
             line-height: 1em;
         }
 
-        #love-gift-intro {
+        .love-gift-intro {
             width: 100%;
             text-align: center;
             font-size: 0.8em;
             font-family: 'Quicksand';
+            margin: 0 20px;
         }
 
         .list-bank {
             text-align: center;
             margin: 0 auto;
-            padding: 20px 0;
         }
 
         .list-bank h5 {

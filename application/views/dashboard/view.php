@@ -579,31 +579,31 @@
             </section>
             <section style="background-color: #fffaf2;" class="<?php if(!$lg) echo "hide "; ?>elementor-section elementor-section-boxed">
                 <div class="elementor-container elementor-column-gap-default">
-                    <div id="love-gift-button">Love Gift</div>
+                    <div class="love-gift-button">Love Gift</div>
                 </div>
                 <div class="elementor-container elementor-column-gap-default">
-                    <div id="love-gift-intro">Tanpa mengurangi rasa hormat, bagi anda yang ingin memberikan tanda kasih kepada kami, dapat melalui:</div>
+                    <div class="love-gift-intro">Tanpa mengurangi rasa hormat, bagi anda yang ingin memberikan tanda kasih kepada kami, dapat melalui:</div>
                 </div>
-                <div class="elementor-container elementor-column-gap-default">
-                    <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3e78e637" data-id="3e78e637" data-element_type="column">
+                <div style="padding: 20px;" class="elementor-container elementor-column-gap-default">
+                    <div class="love-gift-content elementor-column elementor-col-25 elementor-top-column elementor-element" data-element_type="column">
                         <div class="list-bank">
                             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bank_Syariah_Indonesia.svg/512px-Bank_Syariah_Indonesia.svg.png"/>
                             <p>BSI<br/>a/n <b>Dita Fauzia</b><br/>7153166988</p>
                         </div>
                     </div>
-                    <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3e78e637" data-id="3e78e637" data-element_type="column">
+                    <div class="love-gift-content elementor-column elementor-col-25 elementor-top-column elementor-element" data-element_type="column">
                         <div class="list-bank">
                             <img src="https://upload.wikimedia.org/wikipedia/id/thumb/4/41/Bank_BJB_logo.svg/200px-Bank_BJB_logo.svg.png"/>
                             <p>BJB<br/>a/n <b>Dita Fauzia</b><br/>0110123256100</p>
                         </div>
                     </div>
-                    <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3e78e637" data-id="3e78e637" data-element_type="column">
+                    <div class="love-gift-content elementor-column elementor-col-25 elementor-top-column elementor-element" data-element_type="column">
                         <div class="list-bank">
                             <img src="https://cdn.worldvectorlogo.com/logos/bank-mandiri.svg"/>
                             <p>Mandiri<br/>a/n <b>Aziz Nurfalah</b><br/>1310018128456</p>
                         </div>
                     </div>
-                    <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3e78e637" data-id="3e78e637" data-element_type="column">
+                    <div class="love-gift-content elementor-column elementor-col-25 elementor-top-column elementor-element" data-element_type="column">
                         <div class="list-bank">
                             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bank_Central_Asia.svg/799px-Bank_Central_Asia.svg.png"/>
                             <p>BCA<br/>a/n <b>Aziz Nurfalah</b><br/>4371968029</p>
