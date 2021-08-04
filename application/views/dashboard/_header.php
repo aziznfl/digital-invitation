@@ -140,7 +140,6 @@
 
         #love-gift-intro {
             width: 100%;
-            margin-bottom: 20px;
             text-align: center;
             font-size: 0.8em;
             font-family: 'Quicksand';
@@ -149,13 +148,19 @@
         .list-bank {
             text-align: center;
             margin: 0 auto;
+            padding: 20px 0;
+        }
+
+        .list-bank h5 {
+            font-size: 0.7em;
+            font-family: 'Quicksand';
         }
 
         .list-bank p {
             font-size: 0.7em;
             font-family: 'Quicksand';
             line-height: 1.5;
-            margin: 20px 0;
+            margin: 15px 0 20px 0;
         }
 
         .list-bank img {
