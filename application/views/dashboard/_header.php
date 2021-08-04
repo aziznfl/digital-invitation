@@ -140,8 +140,10 @@
 
         #love-gift-intro {
             width: 100%;
+            margin-bottom: 20px;
             text-align: center;
-            font-size: 0.6em;
+            font-size: 0.8em;
+            font-family: 'Quicksand';
         }
 
         .list-bank {
