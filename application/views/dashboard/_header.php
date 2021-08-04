@@ -127,6 +127,40 @@
         }
     </style>
     <style>
+        #love-gift-button {
+            width: 100%;
+            font-family: 'Baskervville';
+            font-size: 36px;
+            font-weight: 600;
+            text-align: center;
+            padding: 25px 0;
+            color: #616161;
+            line-height: 1em;
+        }
+
+        .list-bank {
+            text-align: center;
+            margin: 10px 4px 0 10px 0;
+        }
+
+        .list-bank p {
+            font-size: 0.7em;
+            font-family: 'Quicksand';
+            line-height: 1.5;
+            margin: 20px 0;
+        }
+
+        .list-bank img {
+            width: 80px;
+            height: 30px;
+            object-fit: contain;
+            margin: 0 auto;
+        }
+
+        .hide {
+            display: none;
+        }
+
         .button-bordered-custom {
             font-size: 1em !important;
             font-family: 'Prata', Sans-serif !important;

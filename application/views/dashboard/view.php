@@ -3,7 +3,7 @@
 
             <!-- Front Page -->
             <section id="cover-page" class="elementor-section elementor-top-section elementor-element elementor-section-height-min-height header elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			    <div class="elementor-background-overlay"></div>
+                <div class="elementor-background-overlay"></div>
                 <div class="elementor-container elementor-column-gap-default">
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-43ead0" data-id="43ead0" data-element_type="column">
                         <div class="elementor-widget-wrap elementor-element-populated">
@@ -18,12 +18,12 @@
                                                     </audio>
                                                 </div>
                                             </div>
-                                            <div style="margin-bottom: 0; <?php if($guestName == '') echo "display: none;";?>" class="elementor-element elementor-element-e880d2a elementor-widget elementor-widget-text-editor" data-id="e880d2a" data-element_type="widget" data-widget_type="text-editor.default">
+                                            <div style="margin-bottom: 0; <?php if ($guestName == '') echo "display: none;"; ?>" class="elementor-element elementor-element-e880d2a elementor-widget elementor-widget-text-editor" data-id="e880d2a" data-element_type="widget" data-widget_type="text-editor.default">
                                                 <div style="font-size: 0.7em;" class="elementor-widget-container text-secondary-color" id="open-invitation">
                                                     <p>Kepada Yth:</p>
                                                 </div>
                                             </div>
-                                            <div style="<?php if($guestName == '') echo "display: none;";?>" class="elementor-element nama-tamu elementor-widget elementor-widget-text-editor" data-element_type="widget" data-widget_type="text-editor.default">
+                                            <div style="<?php if ($guestName == '') echo "display: none;"; ?>" class="elementor-element nama-tamu elementor-widget elementor-widget-text-editor" data-element_type="widget" data-widget_type="text-editor.default">
                                                 <center><b><?php echo $guestName; ?></b></center>
                                             </div>
                                             <div style="margin-top: 30px;" class="elementor-element elementor-element-dd07a88 elementor-align-center elementor-widget elementor-widget-button" data-id="dd07a88" data-element_type="widget" data-widget_type="button.default">
@@ -78,8 +78,8 @@
                                         <b>﷽</b>
                                     </p>
                                     <p>
-                                        <i>Assalaamu’alaikum Warahmatullahi Wabarakaatuh.</i><br/><br/>
-                                        Maha Suci Allah yang telah menciptakan makhluk-Nya berpasang-pasangan. 
+                                        <i>Assalaamu’alaikum Warahmatullahi Wabarakaatuh.</i><br /><br />
+                                        Maha Suci Allah yang telah menciptakan makhluk-Nya berpasang-pasangan.
                                         Ya Allah semoga ridho-Mu tercurah mengiringi pernikahan kami.
                                     </p>
                                 </div>
@@ -95,7 +95,7 @@
                                     <img width="786" height="786" src="<?php echo base_url(); ?>assets/image/main/dita.jpg" class="attachment-full size-full" alt="" loading="lazy">
                                 </div>
                             </div>
-                            <div style="display: none;" class="elementor-element elementor-element-794e3b1e animated-slow elementor-headline--style-highlight elementor-invisible elementor-widget elementor-widget-animated-headline" data-id="794e3b1e" data-element_type="widget" data-settings="{&quot;marker&quot;:&quot;underline&quot;,&quot;highlighted_text&quot;:&quot;Wulan&quot;,&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}" data-widget_type="animated-headline.default">
+                            <div class="hide elementor-element elementor-element-794e3b1e animated-slow elementor-headline--style-highlight elementor-invisible elementor-widget elementor-widget-animated-headline" data-id="794e3b1e" data-element_type="widget" data-settings="{&quot;marker&quot;:&quot;underline&quot;,&quot;highlighted_text&quot;:&quot;Wulan&quot;,&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}" data-widget_type="animated-headline.default">
                                 <div class="elementor-widget-container">
                                     <h3 class="elementor-headline">
                                         <span class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
@@ -133,8 +133,8 @@
                                     <img width="835" height="836" src="<?php echo base_url(); ?>assets/image/main/aziz.jpg" class="attachment-full size-full" alt="" loading="lazy">
                                 </div>
                             </div>
-                            <div class="elementor-element elementor-element-24ccc768 animated-slow elementor-headline--style-highlight elementor-invisible elementor-widget elementor-widget-animated-headline" data-id="24ccc768" data-element_type="widget" data-settings="{&quot;marker&quot;:&quot;underline&quot;,&quot;highlighted_text&quot;:&quot;Chandra&quot;,&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}" data-widget_type="animated-headline.default">
-                                <div style="display: none;" class="elementor-widget-container">
+                            <div class="hide elementor-element elementor-element-24ccc768 animated-slow elementor-headline--style-highlight elementor-invisible elementor-widget elementor-widget-animated-headline" data-id="24ccc768" data-element_type="widget" data-settings="{&quot;marker&quot;:&quot;underline&quot;,&quot;highlighted_text&quot;:&quot;Chandra&quot;,&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}" data-widget_type="animated-headline.default">
+                                <div class="elementor-widget-container">
                                     <h3 class="elementor-headline">
                                         <span class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
                                             <span class="elementor-headline-dynamic-text elementor-headline-text-active">Aziz</span>
@@ -286,15 +286,15 @@
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-56ea325 elementor-widget elementor-widget-text-editor" data-id="56ea325" data-element_type="widget" data-widget_type="text-editor.default">
-								<div class="elementor-widget-container">
-									<p><em><strong>Tanpa mengurangi rasa hormat, mengingat situasi dan kondisi saat ini, acara ini hanya dapat dihadiri secara langsung oleh keluarga, kerabat dan sahabat terdekat dengan jumlah terbatas.</strong></em></p>
-								</div>
-							</div>
+                                <div class="elementor-widget-container">
+                                    <p><em><strong>Tanpa mengurangi rasa hormat, mengingat situasi dan kondisi saat ini, acara ini hanya dapat dihadiri secara langsung oleh keluarga, kerabat dan sahabat terdekat dengan jumlah terbatas.</strong></em></p>
+                                </div>
+                            </div>
                             <div style="margin-top: 10px;" class="elementor-element elementor-element-56ea325 elementor-widget elementor-widget-text-editor" data-id="56ea325" data-element_type="widget" data-widget_type="text-editor.default">
-								<div class="elementor-widget-container">
-									<p><em>Hitung Mundur Acara:</em></p>
-								</div>
-							</div>
+                                <div class="elementor-widget-container">
+                                    <p><em>Hitung Mundur Acara:</em></p>
+                                </div>
+                            </div>
                             <div class="elementor-element elementor-element-4d33228a elementor-countdown--label-block elementor-invisible elementor-widget elementor-widget-countdown" data-id="4d33228a" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="countdown.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-countdown-wrapper" data-date="1628989200">
@@ -444,7 +444,7 @@
                                     </div>
                                 </div>
                             </section>
-                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-3f50938 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="3f50938" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-3f50938 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="3f50938" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
                                 <div class="elementor-container elementor-column-gap-default">
                                     <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-65893f23" data-id="65893f23" data-element_type="column">
                                         <div class="elementor-widget-wrap elementor-element-populated">
@@ -482,7 +482,7 @@
                     </div>
                     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-130c7c80" data-id="130c7c80" data-element_type="column">
                         <div class="elementor-widget-wrap elementor-element-populated">
-                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-8341229 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="8341229" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-8341229 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="8341229" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
                                 <div class="elementor-container elementor-column-gap-default">
                                     <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-38714a90" data-id="38714a90" data-element_type="column">
                                         <div class="elementor-widget-wrap elementor-element-populated">
@@ -570,20 +570,48 @@
                                     <p>“Semoga Allah menghimpun yang terserak dari keduanya, memberkahi mereka berdua, dan kiranya Allah meningkatkan kualitas keturunan mereka, menjadikannya pembuka pintu rahmat, sumber ilmu dan hikmah, serta pemberi rasa aman bagi umat.”</p>
                                     <p>&nbsp;</p>
                                     <p><i>(Doa Nabi Muhammad Shallallahu ‘Alaihi Wasallam pada pernikahan putrinya, Fatimah Azzahra dengan Ali Bin Abi Thalib)</i></p>
-                                    <p><br/><br/><i>Wassalamu’alaikum warahmatullahi wabarakaatuh.</i></p>
+                                    <p><br /><br /><i>Wassalamu’alaikum warahmatullahi wabarakaatuh.</i></p>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
-            <section>
-                Hello world
+            <section style="background-color: #fffaf2;" class="<?php if(!$lg) echo "hide "; ?>elementor-section elementor-section-boxed">
+                <div class="elementor-container elementor-column-gap-default">
+                    <div id="love-gift-button">Love Gift</div>
+                </div>
+                <div class="elementor-container elementor-column-gap-default">
+                    <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3e78e637" data-id="3e78e637" data-element_type="column">
+                        <div class="list-bank">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bank_Syariah_Indonesia.svg/512px-Bank_Syariah_Indonesia.svg.png"/>
+                            <p>a/n Dita Fauzia<br/>7153166988</p>
+                        </div>
+                    </div>
+                    <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3e78e637" data-id="3e78e637" data-element_type="column">
+                        <div class="list-bank">
+                            <img src="https://upload.wikimedia.org/wikipedia/id/thumb/4/41/Bank_BJB_logo.svg/200px-Bank_BJB_logo.svg.png"/>
+                            <p>a/n Dita Fauzia<br/>0110123256100</p>
+                        </div>
+                    </div>
+                    <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3e78e637" data-id="3e78e637" data-element_type="column">
+                        <div class="list-bank">
+                            <img src="https://cdn.worldvectorlogo.com/logos/bank-mandiri.svg"/>
+                            <p>a/n Aziz Nurfalah<br/>1310018128456</p>
+                        </div>
+                    </div>
+                    <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3e78e637" data-id="3e78e637" data-element_type="column">
+                        <div class="list-bank">
+                            <img src="https://www.pngfind.com/pngs/m/342-3424868_bca-png-transparent-background-logo-bank-bca-png.png"/>
+                            <p>a/n Aziz Nurfalah<br/>4371968029</p>
+                        </div>
+                    </div>
+                </div>
             </section>
             <section style="padding: 0; background-color: #cab592;" class="elementor-section elementor-top-section elementor-element elementor-element-7f1870de elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7f1870de" data-element_type="section">
                 <div class="elementor-container elementor-column-gap-default">
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3e78e637" data-id="3e78e637" data-element_type="column">
-						<div style="margin: 10px;" class="elementor-widget-wrap elementor-element-populated">
+                        <div style="margin: 10px;" class="elementor-widget-wrap elementor-element-populated">
                             <div style="font-family: 'Baskervville'; color: #FFF; text-shadow: 2px 2px 4px #000000;" class="elementor-element elementor-element-4cd9e213 elementor-widget elementor-widget-text-editor" data-id="4cd9e213" data-element_type="widget" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
                                     <p>
@@ -592,10 +620,10 @@
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-1df7041b elementor-widget elementor-widget-text-editor" data-id="1df7041b" data-element_type="widget" data-widget_type="text-editor.default">
-								<div class="elementor-widget-container">
-									<p>Dita &amp; Aziz</p>
-								</div>
-							</div>
+                                <div class="elementor-widget-container">
+                                    <p>Dita &amp; Aziz</p>
+                                </div>
+                            </div>
                             <div style="font-family: 'Baskervville'; color: #FFF; text-shadow: 2px 2px 4px #000000; margin-top: 20px; font-size: 0.8em;" class="elementor-element elementor-element-4cd9e213 elementor-widget elementor-widget-text-editor" data-id="4cd9e213" data-element_type="widget" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
                                     <p>
@@ -603,8 +631,8 @@
                                     </p>
                                 </div>
                             </div>
-						</div>
-					</div>
+                        </div>
+                    </div>
                 </div>
             </section>
         </div>

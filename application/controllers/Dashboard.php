@@ -17,6 +17,11 @@ class Dashboard extends MY_Controller {
             $result["guestName"] = $this->input->get("u");
         }
 
+        $result["lg"] = false;
+        if (($this->input->get("lg")) != null) {
+            $result["lg"] = true;
+        }
+
 		$this->load->view('dashboard/_header', $result);
 		$this->load->view('dashboard/view');
 		$this->load->view('dashboard/_footer');
@@ -40,9 +45,5 @@ class Dashboard extends MY_Controller {
 			array_push($listImpression, $data);
         }
         echo json_encode(array("data" => $listImpression));
-    }
-
-    public function test() {
-        $this->load->view('dashboard/example');
     }
 }
