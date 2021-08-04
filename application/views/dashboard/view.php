@@ -582,28 +582,29 @@
                     <div id="love-gift-button">Love Gift</div>
                 </div>
                 <div class="elementor-container elementor-column-gap-default">
+                    <p>Tanpa mengurangi rasa hormat, bagi anda yang ingin memberikan tanda kasih kepada kami, dapat melalui:</p>
                     <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3e78e637" data-id="3e78e637" data-element_type="column">
                         <div class="list-bank">
                             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bank_Syariah_Indonesia.svg/512px-Bank_Syariah_Indonesia.svg.png"/>
-                            <p>a/n Dita Fauzia<br/>7153166988</p>
+                            <p>a/n <b>Dita Fauzia</b><br/>7153166988</p>
                         </div>
                     </div>
                     <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3e78e637" data-id="3e78e637" data-element_type="column">
                         <div class="list-bank">
                             <img src="https://upload.wikimedia.org/wikipedia/id/thumb/4/41/Bank_BJB_logo.svg/200px-Bank_BJB_logo.svg.png"/>
-                            <p>a/n Dita Fauzia<br/>0110123256100</p>
+                            <p>a/n <b>Dita Fauzia</b><br/>0110123256100</p>
                         </div>
                     </div>
                     <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3e78e637" data-id="3e78e637" data-element_type="column">
                         <div class="list-bank">
                             <img src="https://cdn.worldvectorlogo.com/logos/bank-mandiri.svg"/>
-                            <p>a/n Aziz Nurfalah<br/>1310018128456</p>
+                            <p>a/n <b>Aziz Nurfalah</b><br/>1310018128456</p>
                         </div>
                     </div>
                     <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3e78e637" data-id="3e78e637" data-element_type="column">
                         <div class="list-bank">
                             <img src="https://www.pngfind.com/pngs/m/342-3424868_bca-png-transparent-background-logo-bank-bca-png.png"/>
-                            <p>a/n Aziz Nurfalah<br/>4371968029</p>
+                            <p>a/n <b>Aziz Nurfalah</b><br/>4371968029</p>
                         </div>
                     </div>
                 </div>
@@ -627,7 +628,7 @@
                             <div style="font-family: 'Baskervville'; color: #FFF; text-shadow: 2px 2px 4px #000000; margin-top: 20px; font-size: 0.8em;" class="elementor-element elementor-element-4cd9e213 elementor-widget elementor-widget-text-editor" data-id="4cd9e213" data-element_type="widget" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
                                     <p>
-                                        Created by: <a style="color: #fff;text-decoration: underline;" target="_blank" href="https://menujupelaminan.id">MenujuPelaminan.id</a>
+                                        Developed by: <a style="color: #fff;text-decoration: underline;" target="_blank" href="https://menujupelaminan.id">MenujuPelaminan.id</a>
                                     </p>
                                 </div>
                             </div>

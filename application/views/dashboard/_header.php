@@ -140,7 +140,7 @@
 
         .list-bank {
             text-align: center;
-            margin: 10px 4px 0 10px 0;
+            margin: 0 auto;
         }
 
         .list-bank p {
